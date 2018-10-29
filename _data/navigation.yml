@@ -1,0 +1,31 @@
+##################################
+#                                #
+# Feel free to edit this file :) #
+#                                #
+##################################
+
+- title: About The Convention
+  url: /about-the-convention/event-calendar/
+  sub-links:
+  - title: Event Calendar
+    url: /about-the-convention/event-calendar/
+  - title: Conference
+    url: /about-the-convention/conference/
+  - title: Conference Speakers
+    url: /about-the-convention/conference-speakers/
+- title: Visitor Information
+  url: /visitor-information/traveling-and-accommodation/
+  sub-links:
+  - title: Traveling And Accommodation
+    url: /visitor-information/traveling-and-accommodation/
+  - title: Getting To The Venue
+    url: /visitor-information/getting-to-the-venue/
+- title: Media
+  url: /media/
+  sub-links:
+  - title: All
+    url: /media/
+  - title: Media Release
+    url: /media/media-release/
+- title: Contact Us
+  url: /contact-us/
