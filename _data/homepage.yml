@@ -1,4 +1,4 @@
-##################################
+V##################################
 #                                #
 # Feel free to edit this file :) #
 #                                #
@@ -21,19 +21,19 @@ button:
     url: /who-we-are/
     
 key-highlights:
-  - title: Highlight A
-    description: Important highlight A is important
+  - title: The Convention
+    description: First of its kind
     url: https://google.com
     external: true
-  - title: Highlight B
-    description: Important highlight B is equally important
+  - title: Convention Venue
+    description: It will be held at this venue
     url: https://yahoo.com
     external: true
-  - title: Page A
-    description: Page A is important too
+  - title: Registration
+    description: Provide your details
     url: /page-A/
 
-resources-title: Resources
+resources-title: Media Resources
 resources-subtitle: Be in the know
 resources-more-button: More Resources
 resources-more-button-url: media/
