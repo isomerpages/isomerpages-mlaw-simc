@@ -16,9 +16,10 @@ hero-subtitle: Aug 2019
 hero-banner: /images/hero-banner-2.jpg
 
 #Call to Action Button
-button:
-  - text: Learn More
-    url: /who-we-are/
+# commenting the call to action button as requested by Lisa (CCD)
+#button:
+#  - text: Learn More
+#    url: /who-we-are/
     
 key-highlights:
   - title: The Convention
