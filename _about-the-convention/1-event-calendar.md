@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Event Calendar
-permalink: /about-the-convention/event-calendar/
+permalink: /about-the-convention1/event-calendar/
 breadcrumb: Event Calendar
 collection_name: about-the-convention
 ---
