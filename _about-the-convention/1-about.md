@@ -25,7 +25,7 @@ Mediation has seen a rise in popularity as a means to resolve cross-border comme
 
 However, its growth has been hindered by a long-standing obstacle – the difficulty that a party faces in ensuring that the other party complies with their mediated settlement agreement. This is because a mediated settlement agreement, unlike a court judgment or an arbitral award, is only binding contractually and, therefore, not directly enforceable in the courts.
 
-**The Singapore Convention** on Mediation will address the lack of an effective means to enforce cross-border commercial mediated settlement agreements. Businesses can have greater assurance that mediation can be relied on to settle cross-border commercial disputes, because mediated settlement agreements can be enforced more readily by the Courts of contracting parties to the Convention and may also be invoked by a party as a defence against a claim. This will facilitate the growth of international commerce and promote the use of mediation around the world. 
+**The Singapore Convention on Mediation** will address the lack of an effective means to enforce cross-border commercial mediated settlement agreements. Businesses can have greater assurance that mediation can be relied on to settle cross-border commercial disputes, because mediated settlement agreements can be enforced more readily by the Courts of contracting parties to the Convention and may also be invoked by a party as a defence against a claim. This will facilitate the growth of international commerce and promote the use of mediation around the world. 
 
 ### **Key provisions of the treaty**
 
