@@ -22,17 +22,17 @@ hero-banner: /images/hero-banner-4.jpg
 #    url: /who-we-are/
     
 key-highlights:
-  - title: The Convention
+  - title: About the Convention
     description: First of its kind
     url: https://google.com
     external: true
-  - title: Convention Venue
-    description: It will be held at this venue
-    url: https://yahoo.com
+  - title: About Singapore
+    description: Highlights of Singapore
+    url: /visitor-information/about-singapore/
     external: true
-  - title: Registration
+  - title: Express your interest
     description: Provide your details
-    url: /page-A/
+    url: /formSG/
 
 resources-title:  Media Resources
 resources-subtitle: Be in the know
