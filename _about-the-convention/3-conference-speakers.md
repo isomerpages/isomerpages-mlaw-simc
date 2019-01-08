@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Conference Speakers
-permalink: /about-the-convention/conference-speakers/
+permalink: /about-the-convention1/conference-speakers/
 breadcrumb: Conference Speakers
 collection_name: about-the-convention
 ---
