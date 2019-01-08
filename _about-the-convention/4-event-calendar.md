@@ -1,5 +1,5 @@
 ---
-layout: leftnav-page-content1
+layout: leftnav-page-content
 title: Event Calendar
 permalink: /about-the-convention1/event-calendar/
 breadcrumb: Event Calendar
