@@ -3,7 +3,7 @@ layout: leftnav-page-content
 title: Conference Speakers
 permalink: /about-the-convention1/conference-speakers/
 breadcrumb: Conference Speakers
-collection_name: about-the-convention
+collection_name: about-the-convention1
 ---
 
 ### **What is Lorem Ipsum?**
