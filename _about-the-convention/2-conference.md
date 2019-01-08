@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Conference
-permalink: /about-the-convention/conference/
+permalink: /about-the-convention1/conference/
 breadcrumb: Conference
 collection_name: about-the-convention
 ---
