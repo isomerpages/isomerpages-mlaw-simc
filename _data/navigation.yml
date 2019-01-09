@@ -4,13 +4,13 @@
 #                                #
 ##################################
 
-- title: About The Convention
-  url: /about-the-convention/event-calendar/
+- title: About
+  url: /about/about-the-convention/
   sub-links:
-  - title: About Convention
-    url: /about-the-convention/about/
+  - title: About the Convention
+    url: /about/about-the-convention/
   - title: About Singapore
-    url: /about-the-convention/about-singapore/
+    url: /about/about-singapore/
 #  - title: Conference
 #    url: /about-the-convention/conference/
 #  - title: Conference Speakers
