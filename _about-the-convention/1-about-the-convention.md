@@ -3,7 +3,7 @@ layout: leftnav-page-content
 title: About Convention
 permalink: /about/about-the-convention/
 breadcrumb: About Convention
-collection_name: about
+collection_name: about-the-convention
 ---
 
 ### **Background information on how the UN treaty came about.** 
