@@ -41,7 +41,7 @@ custom_print_css_path: "/assets/css/print.css"
 
 baseurl: ""
 collections:
-  about:
+  about-the-convention:
     output: true
   visitor-information:
     output: true
