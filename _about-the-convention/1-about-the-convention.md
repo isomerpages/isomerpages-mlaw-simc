@@ -1,9 +1,9 @@
 ---
 layout: leftnav-page-content
 title: About Convention
-permalink: /about-the-convention/About/
+permalink: /about/about-the-convention/
 breadcrumb: About Convention
-collection_name: about-the-convention
+collection_name: about
 ---
 
 ### **Background information on how the UN treaty came about.** 
