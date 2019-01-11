@@ -49,59 +49,39 @@ Statement delivered at UNGA
 
  
 
-Annex B
+*Annex B*
 
  
 
-Factsheet on the Singapore Convention on Mediation
-
- 
+**Factsheet on the Singapore Convention on Mediation**
 
 Background to the Convention
 
- 
-
 The United Nations Commission on International Trade Law (“UNCITRAL”) is the core legal body of the United Nations system in the field of international trade law. UNCITRAL’s Working Group II (“WGII”) on Dispute Settlement has been working on instruments to provide for the cross-border enforcement of international commercial settlement agreements reached through mediation.
-
- 
 
 In February 2018, WGII finalised (i) the United Nations Convention on International Settlement Agreements Resulting from Agreement (“the Convention”); as well as (ii) amendments to the Model Law on International Commercial Conciliation (2002).
 
- 
-
 The Commission subsequently recommended that the 73rd United Nations General Assembly (UNGA) consider the draft convention with a view to adopting/authorising: (i) the Convention; (ii) for the signing ceremony of the Convention to be held in Singapore; and (iii) the nomenclature of the “Singapore Convention on Mediation”. This was formalised on 20 December 2018 when the 73rd UNGA passed a resolution to adopt the Convention, and to name it after Singapore.
 
- 
 
 Benefits of the Convention
-
  
-
 Mediation is rising in popularity as a means to resolve cross-border commercial disputes. Mediation results in significant benefits, such as reducing the instances where a dispute leads to termination of commercial relationships, facilitating the administration of international transactions by commercial parties and producing savings in the administration of justice by States. Mediation complements other modes of dispute resolution as it can be used in conjunction with litigation or arbitration.
 
- 
-
 However, its growth has been hindered by a long-standing obstacle – the difficulty that a party faces in ensuring that the other party complies with their mediated settlement agreement. This is because a mediated settlement agreement, unlike a court judgment or an arbitral award, is only binding contractually and, therefore, not directly enforceable in the courts. The lack of an efficient and harmonised framework for cross-border enforcement of settlement agreements resulting from mediation has been often cited as a challenge to the use of mediation.
-
  
-
 The Convention therefore addresses the lack of an effective means to enforce cross-border commercial mediated settlement agreements. Businesses can have greater assurance that mediation can be relied on to settle cross-border commercial disputes, because mediated settlement agreements can be enforced more readily by the courts of jurisdictions that are contracting parties to the Convention and may also be invoked by a party as a defence against a claim.
-
- 
 
 This will facilitate the growth of international commerce and promote the use of mediation around the world.
 
- 
 
 Key Features of the Convention
 
- 
-
 The Convention will apply to international commercial settlement agreements resulting from mediation.
 
-·         It will not apply to international settlement agreements that are concluded in the course of judicial or arbitral proceedings and which are enforceable as a court judgment or arbitral award.
+* It will not apply to international settlement agreements that are concluded in the course of judicial or arbitral proceedings and which are enforceable as a court judgment or arbitral award.
 
-·         It will not apply to settlement agreements concluded for personal, family or household purposes by one of the parties (a consumer), as well as settlement agreements relating to family, inheritance or employment law.
+* It will not apply to settlement agreements concluded for personal, family or household purposes by one of the parties (a consumer), as well as settlement agreements relating to family, inheritance or employment law.
 
  
 
@@ -111,10 +91,10 @@ The courts of a contracting party will be expected to handle applications either
 
 The courts of a contracting party may refuse to grant relief on the grounds laid down in the Convention, including:
 
-·         If a party to the settlement agreement was under incapacity;
+* If a party to the settlement agreement was under incapacity;
+* If the settlement agreement is not binding, null and void, inoperative or incapable of being performed under the law which it is subjected to;
 
-·         If the settlement agreement is not binding, null and void, inoperative or incapable of being performed under the law which it is subjected to;
+* If there was a serious breach by the mediator of standards applicable to the mediator, without which breach that party would not have entered into the settlement agreement;
 
-·         If there was a serious breach by the mediator of standards applicable to the mediator, without which breach that party would not have entered into the settlement agreement;
+* If granting relief would be contrary to the public policy of the contracting party.
 
-·         If granting relief would be contrary to the public policy of the contracting party.
