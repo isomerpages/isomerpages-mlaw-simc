@@ -26,7 +26,7 @@ permalink: /media/media-release/singapore-clinches-bid-for-UN-Convention-on-Medi
 
  
 
-*Annex A*
+***Annex A***
 
  
 Statement delivered at UNGA
@@ -49,7 +49,7 @@ Statement delivered at UNGA
 
  
 
-*Annex B*
+***Annex B***
 
  
 
