@@ -25,11 +25,11 @@ key-highlights:
   - title: About the Convention
     description: First of its kind
     url: /about/about-the-convention/
-    external: true
+#    external: true
   - title: About Singapore
     description: Highlights of Singapore
     url: /about/about-singapore/
-    external: true
+#    external: true
   - title: Express your interest
     description: Provide your details
     url: /formSG/
