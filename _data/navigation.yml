@@ -23,12 +23,14 @@
 #    url: /visitor-information/about-singapore/
 #  - title: Getting To The Venue
 #    url: /visitor-information/getting-to-the-venue/
-- title: Media
+- title: Newsroom
   url: /media/
   sub-links:
   - title: All
     url: /media/
   - title: Media Release
     url: /media/media-release/
-- title: Contact Us
-  url: /contact-us/
+- title: Events
+  url: /
+#- title: Contact Us
+#  url: /contact-us/
