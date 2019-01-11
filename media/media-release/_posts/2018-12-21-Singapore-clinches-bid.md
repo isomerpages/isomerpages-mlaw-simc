@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Singapore clinches bid for UN Convention on Mediation to be named after Singapore
-date:   2018-12-21
+date:   2018-12-20
 permalink: /media/media-release/singapore-clinches-bid-for-UN-Convention-on-Mediation
 ---
 1. On 20 December 2018, the United Nations General Assembly (UNGA), at its 73rd session in New York, passed a resolution to adopt the United Nations (UN) Convention on International Settlement Agreements Resulting from Mediation, and to name it after Singapore.
