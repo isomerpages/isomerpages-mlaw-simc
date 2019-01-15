@@ -43,8 +43,8 @@ programmes-subtitle: Singapore Convention On Mediation
 programmes-description: <NA> test
 programmes-more-button: Introduction
 programmes-more-button-url: /about/about-the-convention/
-programmes-more-button: Introduction 2
-programmes-more-button-url: /about/about-the-convention/
+programmes-more-button2: Introduction 2
+programmes-more-button-url2: /about/about-the-convention/
 
 # Careers Section
 # To edit the careers details, go to careers-stories.yml
