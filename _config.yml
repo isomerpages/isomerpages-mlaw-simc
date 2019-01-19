@@ -26,7 +26,6 @@ paginate: 12
 # Homepage sections
 homepage_hero_i_want_to: false
 homepage_programmes: true
-homepage_About: true
 homepage_resources: true
 homepage_careers: false
 
