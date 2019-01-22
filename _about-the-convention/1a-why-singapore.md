@@ -1,10 +1,13 @@
 ---
 layout: leftnav-page-content
-title: About Convention
-permalink: /about/about-convention/
+title: Why Singapore
+permalink: /about/about-convention/why-singapore
 breadcrumb: About Convention
 collection_name: about-the-convention
+second_nav_title: "Why Singapore"
 ---
+
+
 
 ### **Why Singapore?** 
 
