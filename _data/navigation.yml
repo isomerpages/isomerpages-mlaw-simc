@@ -6,10 +6,10 @@
 - title: Home
   url: /
 - title: About
-  url: /about/about-the-convention/
+  url: /about/about-convention/
   sub-links:
-  - title: About the Convention
-    url: /about/about-the-convention/
+  - title: About Convention
+    url: /about/about-convention/
   - title: About Singapore
     url: /about/about-singapore/
 #  - title: Conference
