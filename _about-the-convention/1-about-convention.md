@@ -10,7 +10,7 @@ collection_name: about-the-convention
 
 On 20 December 2018, the United Nations General Assembly (UNGA), passed a resolution to adopt the United Nations (UN) Convention on International Settlement Agreements Resulting from Mediation, and to name it after Singapore.
 
-The ### **Singapore Convention on Mediation** is the first treaty under the auspices of the UN to be named after Singapore. The signing ceremony for the Convention will be held in Singapore on 7 August 2019.
+The **Singapore Convention on Mediation** is the first treaty under the auspices of the UN to be named after Singapore. The signing ceremony for the Convention will be held in Singapore on 7 August 2019.
 
 ### **What is the Singapore Convention on Mediation?**
 
@@ -25,17 +25,24 @@ This will give businesses greater assurance that mediated settlement agreements 
 The Convention will apply to international commercial settlement agreements resulting from mediation. 
 
 •	It will not apply to international settlement agreements concluded in the course of judicial or arbitral proceedings which are enforceable as a court judgment or arbitral award.
+
 •	It will also not apply to settlement agreements concluded for personal, family or household purposes by one of the parties (a consumer), as well as settlement agreements relating to family, inheritance or employment law.
 
 The courts of a contracting party will be expected to handle applications either
+
 (a)	To enforce an international settlement agreement which falls within the scope of the Convention 
 or 
+
 (b)	To allow a party to invoke the settlement agreement in order to prove that the matter has already been resolved, in accordance with its rules of procedure, and under the conditions laid down in the Convention.
+
 The courts of a contracting party may refuse to grant relief on the grounds laid down in the Convention, including:
 
 •	If a party to the settlement agreement was under incapacity;
+
 •	If the settlement agreement is not binding, null and void, inoperative or incapable of being performed under the law which it is subjected to;
+
 •	If there was a serious breach by the conciliator of standards applicable to the conciliator, without which breach that party would not have entered into the settlement agreement;
+
 •	If granting relief would be contrary to the public policy of the contracting party.
 
 ### **Why Singapore?**
