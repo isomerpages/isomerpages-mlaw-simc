@@ -27,7 +27,7 @@ paginate: 12
 homepage_hero_i_want_to: false
 homepage_programmes: true
 homepage_resources: true
-homepage_careers: false
+# homepage_careers: false
 
 
 # Feedback Form URL
