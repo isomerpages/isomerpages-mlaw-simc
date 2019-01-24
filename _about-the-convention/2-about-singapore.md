@@ -30,6 +30,7 @@ Singapore is home to top international law practices, its law practices among th
 Singapore has launched various programmes such as the public sector transformation and initiatives to promote a conducive environment for innovation and encourage the development of legal tech and other advancements in law. 
 
 **International Dispute Resolution Hub**
+
 Singapore is recognised today, as the 3rd most preferred seat of arbitration globally, having introduced sound and progressive legislation for dispute resolution, including a framework for third-party funding in international commercial arbitration.
 
 Arbitral awards, court judgments and mediated settlement agreements in Singapore have the advantage of enforceability, as Singapore has ratified the New York Convention on the Cross-Border Enforceability of Arbitral Awards, the Hague Convention on Choice of Court Agreements; while its Mediation Act provides for mediated settlement agreements to be recorded and enforced as court orders.
