@@ -49,7 +49,8 @@ The Ministry of Law team and other government agencies also worked alongside sta
 
 ### **Timeline**
 
-February 2018
+**February 2018**
+
 WGII finalised:
 •	The United Nations Convention on International Settlement Agreements Resulting from Agreement (“the Convention”).
 •	The amendments to the Model Law on International Commercial Conciliation (2002). 
