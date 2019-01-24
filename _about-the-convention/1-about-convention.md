@@ -2,8 +2,8 @@
 layout: leftnav-page-content
 title: About Convention
 permalink: /about/about-convention/
-breadcrumb: About Conve  ntion
-collection_name: about-the-convention
+breadcrumb: About Convention
+collection_name: about-convention
 ---
 
 ### **Introduction** 
