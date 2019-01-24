@@ -43,8 +43,6 @@ hero-banner: /images/hero-banner-6.jpg
 # programmes-description: 
  programmes-more-button: Express Your Interest
  programmes-more-button-url: http://form.gov.sg
- external: true
-
 
 # Careers Section
 # To edit the careers details, go to careers-stories.yml
