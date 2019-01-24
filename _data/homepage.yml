@@ -22,7 +22,7 @@ hero-banner: /images/hero-banner-6.jpg
 #  - text: Learn More
 #    url: /who-we-are/
     
-# key-highlights:
+ key-highlights:
 #   - title: About the Convention
 #     description: First of its kind
 #     url: /about/about-the-convention/
@@ -31,16 +31,16 @@ hero-banner: /images/hero-banner-6.jpg
 #     description: Highlights of Singapore
 #     url: /about/about-singapore/
 #    external: true
-#   - title: Express your interest
-#     description: Provide your details
-#     url: /formSG/
-
+   - title: Express your interest
+     description: Provide your details
+     url: /formSG/
+     external: true
 
 # Programmes Section
 # To edit the programme details, go to programmes.yml
- programmes-title: 
- programmes-subtitle: 
- programmes-description: 
+ programmes-title: T
+ programmes-subtitle: T
+ programmes-description: T
  programmes-more-button: Express Your Interest
  programmes-more-button-url: /form/
 
