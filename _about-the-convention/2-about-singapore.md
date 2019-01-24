@@ -8,9 +8,7 @@ collection_name: about-the-convention
 
 ### **About Singapore**
 
-Singapore is a sunny, cosmopolitan city-state in South-east Asia, off the southern tip of the Malay Peninsula. 
-
-Comprising 63 islands at 721.5 square kilometres, its mainland is home to more than five million people of four major communities; Chinese, Malay, Indian and Eurasian. 
+Singapore is a sunny, cosmopolitan city-state in South-east Asia, off the southern tip of the Malay Peninsula. Comprising 63 islands at 721.5 square kilometres, its mainland is home to more than five million people of four major communities; Chinese, Malay, Indian and Eurasian. 
 
 Since its independence in 9 August 1965, Singapore has adopted a parliamentary democracy system. The government and the cabinet are helmed by Prime Minister Lee Hsien Loong while President Halimah Yacob is Singapore’s President.
 
