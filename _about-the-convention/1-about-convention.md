@@ -79,9 +79,7 @@ At the 51st Session of the UNCITRAL
 The United Nations General Assembly: 
 
 •	Adopted the Convention
-
 •	Authorised the signing ceremony of the Convention to be held in Singapore
-
 •	Authorised the nomenclature of the “Singapore Convention on Mediation”
 
 
