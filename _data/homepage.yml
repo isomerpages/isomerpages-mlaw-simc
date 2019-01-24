@@ -22,27 +22,28 @@ hero-banner: /images/hero-banner-6.jpg
 #  - text: Learn More
 #    url: /who-we-are/
     
- key-highlights:
-   - title: About the Convention
-     description: First of its kind
-     url: /about/about-the-convention/
-    external: true
+key-highlights:
+  - title: About the Convention
+    description: First of its kind
+    url: /about/about-the-convention/
+#    external: true
   - title: About Singapore
-     description: Highlights of Singapore#     
-     url: /about/about-singapore/
-    external: true
-   - title: Express your interest
-     description: Provide your details
-     url: /formSG/
+    description: Highlights of Singapore
+    url: /about/about-singapore/
+#    external: true
+  - title: Express your interest
+    description: Provide your details
+    url: /formSG/
 
 
 # Programmes Section
 # To edit the programme details, go to programmes.yml
- programmes-title: T
- programmes-subtitle: T
- programmes-description: T
- programmes-more-button: Express Your Interest
- programmes-more-button-url: /form/
+programmes-title: About
+programmes-subtitle: Singapore Convention On Mediation
+programmes-description: 
+programmes-more-button: Introduction
+programmes-more-button-url: /about/about-the-convention/
+
 
 # Careers Section
 # To edit the careers details, go to careers-stories.yml
