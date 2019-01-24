@@ -22,18 +22,18 @@ hero-banner: /images/hero-banner-6.jpg
 #  - text: Learn More
 #    url: /who-we-are/
     
-key-highlights:
-  - title: About the Convention
-    description: First of its kind
-    url: /about/about-the-convention/
+# key-highlights:
+#   - title: About the Convention
+#     description: First of its kind
+#     url: /about/about-the-convention/
 #    external: true
-  - title: About Singapore
-    description: Highlights of Singapore
-    url: /about/about-singapore/
+#  - title: About Singapore
+#     description: Highlights of Singapore
+#     url: /about/about-singapore/
 #    external: true
-  - title: Express your interest
-    description: Provide your details
-    url: /formSG/
+#   - title: Express your interest
+#     description: Provide your details
+#     url: /formSG/
 
 
 # Programmes Section
