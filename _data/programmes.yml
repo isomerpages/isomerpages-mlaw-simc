@@ -1,12 +1,12 @@
 - title: About Convention
   category: ABOUT
   desc: About Convention Desc.
-  img: images/programmes/products-and-services/BeeLine.png
+  img: images/hm_bg1.jpg
   bg-color: bg-beeline
 
 - title: About Singapore
   category: ABOUT
   desc: About Singapore Desc.
-  img: images/programmes/products-and-services/ParkingSG.png
+  img: images/hm_bg3.jpg
   bg-color: bg-parkingsg
 
