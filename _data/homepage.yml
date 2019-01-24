@@ -38,9 +38,9 @@ hero-banner: /images/hero-banner-6.jpg
 
 # Programmes Section
 # To edit the programme details, go to programmes.yml
-# programmes-title: 
-# programmes-subtitle: 
-# programmes-description: 
+ programmes-title: 
+ programmes-subtitle: 
+ programmes-description: 
  programmes-more-button: Express Your Interest
  programmes-more-button-url: http://form.gov.sg
 
