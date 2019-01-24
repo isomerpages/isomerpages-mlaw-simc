@@ -24,9 +24,8 @@ This will give businesses greater assurance that mediated settlement agreements 
 
 The Convention will apply to international commercial settlement agreements resulting from mediation. 
 
-•	It will not apply to international settlement agreements concluded in the course of judicial or arbitral proceedings which are enforceable as a court judgment or arbitral award.
-
-•	It will also not apply to settlement agreements concluded for personal, family or household purposes by one of the parties (a consumer), as well as settlement agreements relating to family, inheritance or employment law.
+*	It will not apply to international settlement agreements concluded in the course of judicial or arbitral proceedings which are enforceable as a court judgment or arbitral award.
+*	It will also not apply to settlement agreements concluded for personal, family or household purposes by one of the parties (a consumer), as well as settlement agreements relating to family, inheritance or employment law.
 
 The courts of a contracting party will be expected to handle applications either
 
