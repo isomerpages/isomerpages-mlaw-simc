@@ -8,8 +8,6 @@ collection_name: about-the-convention
 
 ### **About Singapore**
 
-**Where Worlds Meet**
-
 Singapore is a sunny, cosmopolitan city-state in South-east Asia, off the southern tip of the Malay Peninsula. 
 
 Comprising 63 islands at 721.5 square kilometres, its mainland is home to more than five million people of four major communities; Chinese, Malay, Indian and Eurasian. 
