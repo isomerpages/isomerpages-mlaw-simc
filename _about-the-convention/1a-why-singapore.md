@@ -4,7 +4,7 @@ title: Why Singapore
 permalink: /about/about-convention/why-singapore
 breadcrumb: About Convention
 collection_name: about-the-convention
-second_nav_title: "About Convention"
+# second_nav_title: "About Convention"
 ---
 
 
