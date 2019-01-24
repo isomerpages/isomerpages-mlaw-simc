@@ -59,11 +59,13 @@ The Ministry of Law team and other government agencies also worked alongside sta
 **February 2018**
 
 WGII finalised:
+
 •	The United Nations Convention on International Settlement Agreements Resulting from Agreement (“the Convention”).
 
 •	The amendments to the Model Law on International Commercial Conciliation (2002). 
 
 **June 2018**
+
 At the 51st Session of the UNCITRAL 
 
 •	Final drafts of the Convention were approved.
@@ -73,6 +75,7 @@ At the 51st Session of the UNCITRAL
 •	The Commission subsequently recommended that the 73rd United Nations General Assembly (UNGA) consider the draft convention with a view to adopting/authorising: (i) the Convention; (ii) for the signing ceremony of the Convention to be held in Singapore; and (iii) the nomenclature of the “Singapore Convention on Mediation”. 
 
 **December 2018**
+
 The United Nations General Assembly: 
 
 •	Adopted the Convention
