@@ -50,7 +50,7 @@ The Singapore delegation’s role as chair included handling of cross-border tel
 The Ministry of Law team and other government agencies also worked alongside stakeholders and the UN, and Singapore’s effort in the entire process was recognised by the unanimous support of the UN for Singapore to host the signing of this convention and for the convention to be named the Singapore Convention of Mediation. 
 
 
-### **Timeline**
+### **Key Events Leading to the Convention**
 
 **February 2018**
 
