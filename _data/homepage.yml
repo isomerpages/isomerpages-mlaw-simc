@@ -25,7 +25,7 @@ hero-banner: /images/hero-banner-7.jpg
 key-highlights:
   - title: About the Convention
     description: First of its kind
-    url: /about/about-the-convention/
+    url: /about/about-convention/
 #    external: true
   - title: About Singapore
     description: Highlights of Singapore
