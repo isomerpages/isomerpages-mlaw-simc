@@ -12,9 +12,10 @@
     url: /about/about-convention/
   - title: About Singapore
     url: /about/about-singapore/
-  - title: Conference
+ - title: Conference
     url: /about-the-convention/conference/
-  - title: Conference
+  sub-links:
+   - title: Speakers
     url: /about-the-convention/conference-speakers/
 # - title: Visitor Information
 #  url: /visitor-information/about-singapore/
