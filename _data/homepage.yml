@@ -12,8 +12,8 @@ favicon: /images/favicon-isomer.ico
 agency-logo: /images/logo.png
 
 # Hero Banner
-hero-title: <font size=14>Singapore Convention on Mediation</font>
-hero-subtitle: <font size=6>7 August 2019</font>
+#hero-title: <font size=14>Singapore Convention on Mediation</font>
+#hero-subtitle: <font size=6>7 August 2019</font>
 hero-banner: /images/Hero-Banner-SCM.PNG
 
 #Call to Action Button
