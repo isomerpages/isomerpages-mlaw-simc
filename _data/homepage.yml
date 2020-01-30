@@ -19,8 +19,8 @@ hero-banner: /images/Hero_Banner_SCM.jpg
 #Call to Action Button
 # commenting the call to action button as requested by Lisa (CCD)
 #button:
-#  - text: Learn More
-#    url: /who-we-are/
+ - text: Learn More
+   url: /about/
     
 key-highlights:
   - title: About the Convention
