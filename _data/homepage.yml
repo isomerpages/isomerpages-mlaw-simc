@@ -18,7 +18,7 @@ hero-banner: /images/Hero_Banner_SCM.jpg
 
 #Call to Action Button
 # commenting the call to action button as requested by Lisa (CCD)
-#button:
+button:
  - text: Learn More
    url: /about/
     
