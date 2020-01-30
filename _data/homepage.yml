@@ -44,6 +44,14 @@ key-highlights:
 # programmes-more-button: Express your interest
 # programmes-more-button-url: https://form.gov.sg
 
+# Info Sections
+info-sections:
+  - section-title: 
+    section-subtitle: Video on Demand
+    section-description:  Click on the link below to watch the Formal Addresses by PM Lee Hsien Loong and UN ASG Mr Stephen Mathias
+    section-more-button: Watch now
+    section-more-button-url: https://www.youtube.com/embed/PmRTkEGYHz0?rel=0&autoplay=1
+    section-image-path: /images/
 
 # Careers Section
 # To edit the careers details, go to careers-stories.yml
