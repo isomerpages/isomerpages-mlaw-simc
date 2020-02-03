@@ -2,7 +2,7 @@
 layout: leftnav-page-content
 title: About Singapore
 permalink: /conference/about-Singapore/
-breadcrumb: About Singapore
+breadcrumb: Conference - About Singapore
 collection_name: about-conference
 ---
 
