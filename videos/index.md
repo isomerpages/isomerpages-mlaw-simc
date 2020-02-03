@@ -7,6 +7,6 @@ title: Videos
 
 ### **Videos**
 
---- This page is copied from FAQ.md
+ This page is copied from FAQ.md
 
 
