@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: About Singapore
-permalink: /about/about-Singapore/
+permalink: /conference/about-Singapore/
 breadcrumb: About Singapore
 collection_name: about-conference
 ---
