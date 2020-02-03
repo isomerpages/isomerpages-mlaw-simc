@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Post 2
+title:  50 students from 13 schools to be appointed Singapore Convention Youth Ambassadors
 date:   2019-06-18
 permalink: /media/media-release/50-students-from-13-schools
 ---
