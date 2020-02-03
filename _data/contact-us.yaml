@@ -24,13 +24,12 @@
 column:
   - title: General Enquiries & Feedback
     content:
-    - line: +65 6222 5295
-    - line:  (email)
+#    - line: +65 6222 5295
+    - line:  SgConvention@mlaw.gov.sg(email)
     # If you have an email, put (email) after the actual email
 
-  - title: Fax
+  - title: United Nations Commission on International Trade Law (UNCITRAL)
     content:
-    - line: +65 6222 4452
-
-# Image
+    - line: uncitral@un.org(email)
+    
 image-url:
