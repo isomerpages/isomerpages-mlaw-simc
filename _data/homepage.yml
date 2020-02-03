@@ -36,13 +36,13 @@ key-highlights:
     url: /
 
 # Info Sections
- info-sections:
-  - section-title: 
-    section-subtitle: Video on Demand
-    section-description:  Click on the link below to watch the Formal Addresses by PM Lee Hsien Loong and UN ASG Mr Stephen Mathias
-    section-more-button: Watch now
-    section-more-button-url: https://www.youtube.com/embed/PmRTkEGYHz0?rel=0&autoplay=1
-    section-image-path: /images/Hero_Banner_SCM.jpg
+# info-sections:
+#  - section-title: 
+#    section-subtitle: Video on Demand
+#    section-description:  Click on the link below to watch the Formal Addresses by PM Lee Hsien Loong and UN ASG Mr Stephen Mathias
+#    section-more-button: Watch now
+#    section-more-button-url: https://www.youtube.com/embed/PmRTkEGYHz0?rel=0&autoplay=1
+#    section-image-path: /images/Hero_Banner_SCM.jpg
 
 # Programmes Section
 # To edit the programme details, go to programmes.yml
@@ -63,6 +63,6 @@ key-highlights:
 # careers-more-button-url: /about/about-the-convention/
 
 resources-title:  Media
-resources-subtitle: News
-resources-more-button: More News
+resources-subtitle: 
+resources-more-button: Read More
 resources-more-button-url: media/
