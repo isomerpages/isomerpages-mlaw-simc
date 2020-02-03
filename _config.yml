@@ -45,6 +45,6 @@ baseurl: ""
 collections:
   about-the-convention:
     output: true
-  visitor-information:
+  about-singapore:
     output: true
 resources_name: media
