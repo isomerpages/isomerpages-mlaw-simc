@@ -42,7 +42,7 @@ info-sections:
     section-description: View the live stream
     section-more-button: Watch now
     section-more-button-url: https://www.youtube.com/embed/tda0GLO9WtQ?rel=0&autoplay=1
-    section-image-path: /images/vid-formal-addresses.jpg
+    section-image-path: /images/live_stream.jpeg
 
   - section-title: 
     section-subtitle: Video on Demand
