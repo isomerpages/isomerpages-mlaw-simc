@@ -12,3 +12,15 @@ title: Round Table
 K Shanmugam, Minister for Home Affairs and Minister for Law, Singapore
 
 [Read more](#)
+
+### Opening Statement by Chairman
+#### Singapore
+K Shanmugam, Minister for Home Affairs and Minister for Law, Singapore
+
+[Read more](#)
+
+### Statement by United Nations
+#### United Nations
+Stephen Mathias, Assistant Secretary-General for Legal Affairs, United Nations
+
+[Read more](#)
