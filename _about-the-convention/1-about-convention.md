@@ -17,11 +17,18 @@ The Singapore Convention will facilitate international trade and commerce by ena
 
 *A uniform and efficient framework for international settlement agreements resulting from mediation*
 
-The Singapore Convention on Mediation addresses the lack of an effective means to enforce cross-border mediated settlement agreements.
+The Singapore Convention applies to international settlement agreements resulting from mediation, concluded by parties to resolve a commercial dispute. It provides an efficient and harmonised framework for the enforcement of international settlement agreements resulting from mediation and for allowing parties to invoke such agreements.
 
-The Courts of contracting parties to the Convention can readily enforce the agreements and also invoke the Convention as a defence against a claim.
+The Singapore Convention has been designed to become an essential instrument in the facilitation of international trade and in the promotion of mediation as an alternative and effective method of resolving trade disputes. It ensures that a settlement reached by parties becomes binding and enforceable in accordance with a simplified and streamlined procedure. It thereby contributes to strengthening access to justice and the rule of law.
 
-This will give businesses greater assurance that mediated settlement agreements can be relied upon to resolve cross-border commercial disputes, facilitating the growth of international commerce and promotes the use of mediation around the world.
+Mediation is known for improving efficiency of dispute resolution and flexibility. The mediator’s role is not to adjudicate, but rather to facilitate discussions between disputing parties to arrive at a mutually acceptable solution. The mediation process is more flexible, and in many instances, more cost and time efficient than other dispute resolution processes such as litigation and arbitration.
+
+Until the introduction of the Singapore Convention however, an often-cited challenge to the use of mediation was the lack of an efficient and harmonised framework for cross-border enforcement of settlement agreements resulting from mediation. It was in response to this need that the Singapore Convention was developed and adopted by the United Nations.
+
+The Convention contributes to the development of a mature, rule-based global commercial system. The **primary goals** of the Convention are to:
+
+* facilitate international trade; and
+* promote the use of mediation for the resolution of cross-border commercial disputes.
 
 ### **Key Features**
 
