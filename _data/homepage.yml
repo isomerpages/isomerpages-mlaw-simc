@@ -41,7 +41,7 @@ info-sections:
     section-subtitle: Video on Demand
     section-description: Click on the link below to watch the Formal Addresses by PM Lee Hsien Loong and UN ASG Mr Stephen Mathias
     section-more-button: Watch now
-    section-more-button-url: https://www.youtube.com/embed/PmRTkEGYHz0?rel=0&autoplay=1
+    section-more-button-url: /videos/
     section-image-path: /images/Hero_Banner_SCM.jpg
 
 # Info Sections
