@@ -38,6 +38,13 @@ key-highlights:
 # Info Sections
 info-sections:
   - section-title: 
+    section-subtitle: Live Streaming
+    section-description: View the live stream
+    section-more-button: Watch now
+    section-more-button-url: https://www.youtube.com/embed/tda0GLO9WtQ?rel=0&autoplay=1
+    section-image-path: /images/vid-formal-addresses.jpg
+
+  - section-title: 
     section-subtitle: Video on Demand
     section-description: View the Formal Addresses by PM Lee Hsien Loong and UN ASG Mr Stephen Mathias and other Conference videos.
     section-more-button: Watch now
