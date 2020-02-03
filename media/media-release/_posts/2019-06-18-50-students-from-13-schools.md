@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  Post 2
-date:   2018-12-18
+date:   2019-06-18
 permalink: /media/media-release/50-students-from-13-schools
 ---
 
-1. Post Some 50 students from 13 schools will be appointed Singapore Convention Youth Ambassadors to high-level international delegations visiting Singapore in August to witness the signing of the Singapore Convention on Mediation. This was announced today by the Singapore Ministry of Law (MinLaw) at the launch of the Singapore Convention Youth Involvement Programme. The list of 13 participating schools can be found at Annex A.
+1. Some 50 students from 13 schools will be appointed Singapore Convention Youth Ambassadors to high-level international delegations visiting Singapore in August to witness the signing of the Singapore Convention on Mediation. This was announced today by the Singapore Ministry of Law (MinLaw) at the launch of the Singapore Convention Youth Involvement Programme. The list of 13 participating schools can be found at Annex A.
 
-Under this programme, these 17- and 18-year old students will host guided tours to key places of interest and share with international delegates Singapore’s history, heritage and approach to nation-building. Seven agencies will come together to conduct a structured five-day training programme to prepare the students for their appointment. The agencies are MinLaw, the Singapore Bicentennial Office (SBO), Maxwell Chambers, the Urban Redevelopment Authority of Singapore (URA), the National Heritage Board (NHB), the National Parks Board (NParks) and Gardens by the Bay.
+2. Under this programme, these 17- and 18-year old students will host guided tours to key places of interest and share with international delegates Singapore’s history, heritage and approach to nation-building. Seven agencies will come together to conduct a structured five-day training programme to prepare the students for their appointment. The agencies are MinLaw, the Singapore Bicentennial Office (SBO), Maxwell Chambers, the Urban Redevelopment Authority of Singapore (URA), the National Heritage Board (NHB), the National Parks Board (NParks) and Gardens by the Bay.
 
 In December 2018, the United Nations General Assembly adopted the United Nations Convention on International Settlement Agreements Resulting from Mediation and authorised the naming of the Convention after Singapore and for the signing ceremony to be held in Singapore. The Convention will be the first international treaty under the auspices of the United Nations (UN) to be named after Singapore. This is expected to boost Singapore’s position as an international dispute resolution hub and reinforce our reputation as a trusted, neutral jurisdiction with strong rule of law.
 
