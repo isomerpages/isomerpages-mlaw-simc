@@ -38,9 +38,9 @@ key-highlights:
 # Info Sections
 info-sections:
   - section-title: 
-    section-subtitle: Live Streaming
-    section-description: View the live stream
-    section-more-button: Watch now
+    section-subtitle: Live Streaming @Youtube
+    section-description: View the live stream at youtube
+    section-more-button: Watch at Youtube
     section-more-button-url: https://www.youtube.com/embed/tda0GLO9WtQ?rel=0&autoplay=1
     section-image-path: /images/live_stream.jpeg
 
