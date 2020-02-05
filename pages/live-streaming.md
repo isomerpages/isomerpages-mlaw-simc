@@ -1,5 +1,5 @@
 ---
-layout: leftnav-page-content
+layout: simple-page
 title: Live Streaming
 permalink: /live/
 breadcrumb: Live Streaming
