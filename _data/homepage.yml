@@ -52,12 +52,12 @@ info-sections:
     section-more-button-url: /videos/
     section-image-path: /images/vid-formal-addresses.jpg
 
-  - section-title: 
-    section-subtitle: Singapore Convention Roundtable
-    section-description: The Singapore Convention Roundtable was held on 7 August 2019 in conjunction with the signing ceremony of the Singapore Convention on Mediation.
-    section-more-button: View Statements
-    section-more-button-url: /roundtable/
-    section-image-path: /images/roundtable.jpeg
+#  - section-title: 
+#    section-subtitle: Singapore Convention Roundtable
+#    section-description: The Singapore Convention Roundtable was held on 7 August 2019 in conjunction with the signing ceremony of the Singapore Convention on Mediation.
+#    section-more-button: View Statements
+#    section-more-button-url: /roundtable/
+#    section-image-path: /images/roundtable.jpeg
 
 
 # Info Sections
