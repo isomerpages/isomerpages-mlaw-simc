@@ -20,7 +20,7 @@ hero-banner: /images/background.jpg
 # commenting the call to action button as requested by Lisa (CCD)
 button:
  - text: Register your interest
-   url: /live/
+   url: /
     
 key-highlights:
   - title: About the Convention
