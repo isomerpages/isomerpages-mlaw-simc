@@ -13,7 +13,7 @@ agency-logo: /images/logo.png
 
 # Hero Banner
 hero-title: <font size=14>Singapore Convention on Mediation</font>
-hero-subtitle: <font size=6>A new UN treaty on mediation</font>
+# hero-subtitle: <font size=6>A new UN treaty on mediation</font>
 hero-banner: /images/background.jpg
 
 #Call to Action Button
