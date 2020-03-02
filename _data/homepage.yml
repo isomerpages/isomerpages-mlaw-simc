@@ -19,7 +19,7 @@ hero-banner: /images/background.jpg
 #Call to Action Button
 # commenting the call to action button as requested by Lisa (CCD)
 button:
- - text: Register your interest
+ - text: Indicate your interest
    url: /
     
 key-highlights:
