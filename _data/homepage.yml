@@ -46,8 +46,8 @@ info-sections:
     section-image-path: /images/Callout-SMS.jpg
 
   - section-title: 
-    section-subtitle: Video on Demand
-    section-description: View the Formal Addresses by PM Lee Hsien Loong and UN ASG Mr Stephen Mathias and other Conference videos.
+    section-subtitle: 2019 Video Highlights
+    section-description: View the videos here
     section-more-button: Watch now
     section-more-button-url: /videos/
     section-image-path: /images/vid-formal-addresses.jpg
