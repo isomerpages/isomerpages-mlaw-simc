@@ -7,7 +7,6 @@
 // HLB brand colors
 $primary: #7F3F8C;
 $secondary: #174792;
-
 //$tertiary: #7FA344;
 $tertiary: red;
 //#318cdd
@@ -174,7 +173,8 @@ $desktop: 960px + (2 * $gap) !default;
   }
 }
 .bp-button:hover {
-  color: $secondary;
+  //color: $secondary;
+  color: $tertiary;	
 }
 
 // Secondary button
