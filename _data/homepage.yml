@@ -31,9 +31,9 @@ key-highlights:
     description: Read the Panels and Breakout Sessions Reports
     url: /
 #    external: true
-  - title: Conference Photos
-    description: View the conference photos!
-    url: /
+#  - title: Conference Photos
+#    description: View the conference photos!
+#    url: /
 
 # Info Sections
 info-sections:
