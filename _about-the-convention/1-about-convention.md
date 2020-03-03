@@ -12,7 +12,7 @@ collection_name: about-the-convention
 </style>
 
 <div class="image">
-  <img src="/images/Abt-960.jpg/" title="About Convention" alt="About Convention"></div>
+  <img src="../images/Abt-960.jpg/" title="About Convention" alt="About Convention"></div>
 
 ### **Introduction** 
 
