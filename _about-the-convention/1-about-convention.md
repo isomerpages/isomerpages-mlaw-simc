@@ -18,7 +18,7 @@ collection_name: about-the-convention
 
 ### **Introduction** 
 
-OIn December 2018, the United Nations General Assembly adopted, by consensus, the United Nations Convention on International Settlement Agreements Resulting from Mediation, recommended that the Convention be known as the “Singapore Convention on Mediation” (the “Singapore Convention” or “Convention”), and authorised the signing ceremony of the Convention to be held in Singapore on
+In December 2018, the United Nations General Assembly adopted, by consensus, the United Nations Convention on International Settlement Agreements Resulting from Mediation, recommended that the Convention be known as the “Singapore Convention on Mediation” (the “Singapore Convention” or “Convention”), and authorised the signing ceremony of the Convention to be held in Singapore on
 7 August 2019.
 
 The Singapore Convention will facilitate international trade and commerce by enabling disputing parties to easily enforce and invoke settlement agreements across borders. Businesses will benefit from mediation as an additional dispute resolution option to litigation and arbitration in settling cross-border disputes.
