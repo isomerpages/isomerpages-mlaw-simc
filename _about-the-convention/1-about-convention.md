@@ -5,11 +5,9 @@ permalink: /about/about-convention/
 breadcrumb: About Convention
 collection_name: about-the-convention
 ---
----  
-.image {width: 960px;}
----
-<style>
 
+<style>
+  .image {width: 720px;}
   .image img {max-width: 100%; max-height:100%; object-fit: contain;}
                 
 </style>
