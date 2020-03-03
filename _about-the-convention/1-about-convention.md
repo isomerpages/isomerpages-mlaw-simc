@@ -5,6 +5,7 @@ permalink: /about/about-convention/
 breadcrumb: About Convention
 collection_name: about-the-convention
 ---
+![About Convention](image/Abt-960w.jpg)
 
 ### **Introduction** 
 
