@@ -5,7 +5,14 @@ permalink: /about/about-convention/
 breadcrumb: About Convention
 collection_name: about-the-convention
 ---
-![About Convention](image/Abt-960w.jpg)
+
+<style>
+  .image {width: 960px;}
+  .image img {max-width: 100%;}
+</style>
+
+<div class="image">
+  <img src="/images/Abt-960.jpg/" title="About Convention" alt="About Convention"></div>
 
 ### **Introduction** 
 
