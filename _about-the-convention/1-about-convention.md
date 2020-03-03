@@ -8,7 +8,8 @@ collection_name: about-the-convention
 
 <style>
   .image {width: 600px;}
-  .image img {max-width: 100%;}
+  .image img {max-width: 100%; max-height:100%; object-fit: contain;}
+                
 </style>
 
 <div class="image">
