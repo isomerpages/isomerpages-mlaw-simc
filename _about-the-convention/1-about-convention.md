@@ -7,7 +7,7 @@ collection_name: about-the-convention
 ---
 
 <style>
-  .image {width: 600px;}
+  .image {width: 960px;}
   .image img {max-width: 100%;}
 </style>
 
