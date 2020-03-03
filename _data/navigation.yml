@@ -42,15 +42,19 @@
 - title: Related Events
   url: /
   sub-links:
-   - title: Singapore Convention Roundtable
-     url: /roundtable/
+   - title: Singapore Convention Week
+     url: /
 - title: Media
   url: /media/
   sub-links:
 # - title: All
 #    url: /media/
-  - title: Media Releases
+  - title: Press Releases
     url: /media/media-release/
+  - title: Live Broadcast
+    url: /live/
+  - title: Gallery
+    url: /
 # - title: Events
 #   url: /
 - title: Past Event
