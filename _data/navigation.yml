@@ -10,7 +10,13 @@
   sub-links:
   - title: About Convention
     url: /about/about-convention/
-
+  - title: The Convention Text
+    url: /
+  - title: Official Signatories
+    url: /   
+  - title: Logo
+    url: /   
+    
 - title: Conference
   url: /conference/
   sub-links:
