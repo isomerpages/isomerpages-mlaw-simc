@@ -7,12 +7,12 @@ collection_name: about-the-convention
 ---
 
 <style>
-  .image {width: 960px;}
+  .image {width: 600px;}
   .image img {max-width: 100%;}
 </style>
 
 <div class="image">
-  <img src="/images/Abt-960W.jpg/" title="About Convention" alt="About Convention"></div>
+  <img src="/images/Abt-960.jpg/" title="About Convention" alt="About Convention"></div>
 
 ### **Introduction** 
 
