@@ -22,6 +22,14 @@
   sub-links:
     - title: About Singapore
       url: /conference/about-singapore/
+    - title: Programme
+      url: /
+    - title: Breakout Session
+      url: /
+    - title: Reports
+      url: /
+    - title: Organisers and Partners
+      url: /
 #   - title: Speakers
 #     url: /about-the-convention/conference-speakers/
 # - title: Visitor Information
