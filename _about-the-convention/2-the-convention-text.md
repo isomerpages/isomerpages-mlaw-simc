@@ -16,3 +16,13 @@ collection_name: about-the-convention
 
 
 * United Nations Model Law on International Commercial Mediation and International Settlement Agreements Resulting from Mediation, 2018 (amending the UNCITRAL Model Law on International Commercial Conciliation, 2002)[Read More](http://www.uncitral.org/pdf/english/commissionsessions/51st-session/Annex_II.pdf){:target="_blank"}
+
+#### **Related Materials** 
+* Resolution 73/198, "United Nations Convention on International Settlement Agreements Resulting from Mediation", adopted by the United Nations General Assembly at its 73rd session on 20 December 2018
+[Read More](https://uncitral.un.org/sites/uncitral.un.org/files/singapore_convention_eng.pdf){:target="_blank"}
+
+* Report of the United Nations Commission on International Trade Law at its 51st session (25 June–13 July 2018)
+[Read More](https://uncitral.un.org/sites/uncitral.un.org/files/singapore_convention_eng.pdf){:target="_blank"}
+
+* Working Documents of Working Group II: Arbitration and Conciliation / Dispute Settlemen
+[Read More](https://uncitral.un.org/sites/uncitral.un.org/files/singapore_convention_eng.pdf){:target="_blank"}
