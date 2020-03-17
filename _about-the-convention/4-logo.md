@@ -5,12 +5,16 @@ permalink: /about/Logo/
 breadcrumb: Logo
 collection_name: about-the-convention
 ---
+<style>
+  .image {width: 350px;}
+  .image img {max-width: 100%;}
+</style>
 
 ### **Logo** 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Sk6dt91WFig?rel=0&autoplay=10" title="Singapore Convention on Mediation Logo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### **Introducing the Singapore Convention on Mediation Logo**
-<img src="/images/SCM-logo-peaceful.jpg" title="Logo" alt="Peaceful" width="350">
+<div class="image"><img src="/images/SCM-logo-peaceful.jpg" title="Logo" alt="Peaceful"></div>
 The Singapore Convention on Mediation (SCM) logo was designed to constitute speech bubbles that represent conversation and mediation, and are interlinked to reflect strength and enforceability as well as connectedness and cohesiveness.
 
 <img src="/images/SCM-logo-primary-color.jpg" title="Logo" alt="Primary Colors" width="350">
