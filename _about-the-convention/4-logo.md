@@ -6,7 +6,7 @@ breadcrumb: Logo
 collection_name: about-the-convention
 ---
 <style>
-  .image {width: 450px;text-align:center;display:block;}
+  .image {width: 450px;}
 .image1 img {max-width: 100%;}
 </style>
 
