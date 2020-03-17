@@ -7,7 +7,7 @@ collection_name: about-the-convention
 ---
 
 ### **Logo** 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Sk6dt91WFig?rel=0&autoplay=1" title="Singapore Convention on Mediation Logo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Sk6dt91WFig?rel=0&autoplay=10" title="Singapore Convention on Mediation Logo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### **Introducing the Singapore Convention on Mediation Logo**
 <img src="/images/SCM-logo-peaceful.jpg" title="Logo" alt="Peaceful">
