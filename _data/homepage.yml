@@ -77,7 +77,13 @@ info-sections:
 # programmes-more-button: Express your interest
 # programmes-more-button-url: https://form.gov.sg
 
-
+# Careers Section
+# To edit the careers details, go to careers-stories.yml
+careers-title: About
+careers-subtitle: Singapore Convention On Mediation 1
+careers-description: <NA2>
+careers-more-button: Button
+careers-more-button-url: /about/about-the-convention/
 
 
 resources-title:  Media
