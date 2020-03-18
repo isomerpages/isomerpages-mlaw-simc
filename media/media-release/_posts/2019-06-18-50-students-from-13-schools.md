@@ -50,7 +50,8 @@ permalink: /media/media-release/50-students-from-13-schools
 **Annex A**
 
 **List Of Participating Schools in Singapore Convention Youth Involvement Programme**
-|1|	Anderson Serangoon Junior College
+| 1 | hi   |
+1	Anderson Serangoon Junior College
 2	Catholic Junior College
 3	Dunman High School
 4	Eunoia Junior College
@@ -62,4 +63,3 @@ permalink: /media/media-release/50-students-from-13-schools
 10	River Valley High School
 11	St. Joseph’s Institution (Independent)
 12	Tampines Meridian Junior College
-13	Yishun Innova Junior College
