@@ -40,7 +40,7 @@
 #  - title: Getting To The Venue
 #    url: /visitor-information/getting-to-the-venue/
 - title: Singapore Convention Week
-#  url: /
+  url: /
 #  sub-links:
 #   - title: 
 #     url: /
@@ -60,12 +60,12 @@
 - title: Past Event
   url: /
   sub-links:
-  - title: Convention 2019
-    url: /
+    - title: Convention 2019
+      url: /
 - title: Contact Us
   url: /contact-us/
   sub-links:
-  - title: Save the Date
-    url: /
+    - title: Save the Date
+      url: /
 #  - title: Getting here
 #    url: /    
