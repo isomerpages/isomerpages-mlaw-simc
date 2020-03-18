@@ -36,17 +36,20 @@ The OPEC Fund for International Development (OFID) renewed a grant to support th
 
 ----------------------
 
-The United Nations Commission on International Trade Law (UNCITRAL) is the core legal body of the United Nations system in the field of international trade law. Its mandate is to remove legal obstacles to international trade by progressively modernizing and harmonizing trade law. It prepares legal texts in a number of key areas such as international commercial dispute settlement, electronic commerce, insolvency, international payments, sale of goods, transport law, procurement, and infrastructure development. UNCITRAL also provides technical assistance to law reform activities, including assisting Member States to review and assess their law reform needs and to draft the legislation required to implement UNCITRAL texts. The UNCITRAL Secretariat is located in Vienna and maintains a website at www.uncitral.org .
+The United Nations Commission on International Trade Law (UNCITRAL) is the core legal body of the United Nations system in the field of international trade law. Its mandate is to remove legal obstacles to international trade by progressively modernizing and harmonizing trade law. It prepares legal texts in a number of key areas such as international commercial dispute settlement, electronic commerce, insolvency, international payments, sale of goods, transport law, procurement, and infrastructure development. UNCITRAL also provides technical assistance to law reform activities, including assisting Member States to review and assess their law reform needs and to draft the legislation required to implement UNCITRAL texts. The UNCITRAL Secretariat is located in Vienna and maintains a website at [www.uncitral.org](https:www.uncitral.org){:target="_blank"}.
 
 
 
 For information contact, please contact:
 
 Jenny Clift
+
 Principal Legal Officer
+
 UNCITRAL Secretariat
+
 Email: jenny.clift@un.org
 
 
-Source: http://www.unis.unvienna.org/unis/en/pressrels/2018/unisl264.html
+Source: [http://www.unis.unvienna.org/unis/en/pressrels/2018/unisl264.html](http://www.unis.unvienna.org/unis/en/pressrels/2018/unisl264.html){:target="_blank"}
 
