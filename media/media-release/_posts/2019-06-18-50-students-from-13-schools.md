@@ -50,16 +50,27 @@ permalink: /media/media-release/50-students-from-13-schools
 **Annex A**
 
 **List Of Participating Schools in Singapore Convention Youth Involvement Programme**
-| 1 | hi   |
 1	Anderson Serangoon Junior College
+
 2	Catholic Junior College
+
 3	Dunman High School
+
 4	Eunoia Junior College
+
 5	Hwa Chong Institution
+
 6	Nanyang Junior College
+
 7	National Junior College
+
 8	NUS High School of Mathematics and Science
+
 9	Raffles Institution
+
 10	River Valley High School
+
 11	St. Joseph’s Institution (Independent)
+
 12	Tampines Meridian Junior College
+
