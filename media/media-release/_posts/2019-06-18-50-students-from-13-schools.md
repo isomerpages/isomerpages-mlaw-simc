@@ -29,13 +29,14 @@ permalink: /media/media-release/50-students-from-13-schools
 <ol start="7">
 <li>Other than building up knowledge in the respective domain areas, the students will also receive basic competency training in protocol. This will help them understand the need for facilitation and be able to do this more effectively, look out for body languages and acquire sensitivity to different cultures.</li></ol>
 
-Reaching Out to Other Youths through Social Media
-
-The Singapore Convention Youth Ambassadors will be encouraged to share with their peers through social media platforms what they have learnt about Singapore through the training programme and their personal experiences hosting international delegations. They will receive social media training in production and marketing. They will also participate in a Social Media Competition where they will produce short-form videos of their experiences and the top three videos with the most “likes” will win.
-
-Mr Han Kok Juan, Chairman of the Singapore Convention Signing Ceremony and Conference Organising Committee and Deputy Secretary, MinLaw said, “The students will be part of an important milestone in our history. The programme will give them the opportunity for high-profile international exposure as well as close interactions with leaders from around the world. They will develop a deeper understanding and appreciation of Singapore’s approach to nation-building, across different domain areas, and gain confidence to think and operate globally.”
-
-Mr Adrian Tay, Deputy Principal, Eunoia Junior College said, “Eunoia Junior College is excited to be part of this initiative to involve our youths as Singapore’s ambassadors on such a significant occasion. Global awareness and crosscultural skills are important 21st century competencies that EJC seeks to develop in our students. This will be a good opportunity for them to put these skills into practice.”
+<br>**Reaching Out to Other Youths through Social Media**<br>
+<ol start="8">
+<li>The Singapore Convention Youth Ambassadors will be encouraged to share with their peers through social media platforms what they have learnt about Singapore through the training programme and their personal experiences hosting international delegations. They will receive social media training in production and marketing. They will also participate in a Social Media Competition where they will produce short-form videos of their experiences and the top three videos with the most “likes” will win.</li>
+<ol start="9">
+<li>Mr Han Kok Juan, Chairman of the Singapore Convention Signing Ceremony and Conference Organising Committee and Deputy Secretary, MinLaw said, “The students will be part of an important milestone in our history. The programme will give them the opportunity for high-profile international exposure as well as close interactions with leaders from around the world. They will develop a deeper understanding and appreciation of Singapore’s approach to nation-building, across different domain areas, and gain confidence to think and operate globally.”</li>
+<ol start="10">
+<li>
+Mr Adrian Tay, Deputy Principal, Eunoia Junior College said, “Eunoia Junior College is excited to be part of this initiative to involve our youths as Singapore’s ambassadors on such a significant occasion. Global awareness and crosscultural skills are important 21st century competencies that EJC seeks to develop in our students. This will be a good opportunity for them to put these skills into practice.”</li>
 
 Mr Wan Wee Pin, Project Director, Singapore Bicentennial Office (SBO) said, “We hope the Youth Ambassadors will be inspired to learn more about our longer history and understand the richness of it. We also hope they will be able to connect the dots and learn from our past when we were already very much linked to the region and the world. Through this, we hope they recognise our 3 DNA traits, which will guide us in charting our paths forward.”
 
