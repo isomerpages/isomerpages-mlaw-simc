@@ -75,7 +75,7 @@ permalink: /media/media-release/50-students-from-13-schools
 
 12	Tampines Meridian Junior College
 
-**Annex B**
+Annex B
 
 <table>
   <tr>
