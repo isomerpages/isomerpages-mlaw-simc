@@ -48,7 +48,7 @@ Principal Legal Officer
 
 UNCITRAL Secretariat
 
-Email: jenny.clift@un.org
+Email: [jenny.clift@un.org](mailto:jenny.clift@un.org)
 
 
 Source: [http://www.unis.unvienna.org/unis/en/pressrels/2018/unisl264.html](http://www.unis.unvienna.org/unis/en/pressrels/2018/unisl264.html){:target="_blank"}
