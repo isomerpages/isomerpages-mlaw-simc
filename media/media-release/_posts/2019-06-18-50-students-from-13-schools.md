@@ -75,3 +75,15 @@ permalink: /media/media-release/50-students-from-13-schools
 
 12	Tampines Meridian Junior College
 
+<table>
+  <tr>
+    <th><span style="font-weight:bold">
+Singapore Convention on Mediation</span></th>
+    <th>新加坡调解公约</th>
+  </tr>
+  <tr>
+    <th><span style="font-weight:bold">
+Singapore Convention on Mediation</span></th>
+    <th>新加坡调解公约</th>
+
+  </tr>
