@@ -122,6 +122,6 @@ permalink: /media/media-release/50-students-from-13-schools
     <td>Han Kok Juan
 <br>Deputy Permanent Secretary,<br>
 Ministry of Law</td>
-    <th>韩国元<br>律政部副常任秘书</td>
+    <td>韩国元<br>律政部副常任秘书</td>
   </tr>
   </table>
