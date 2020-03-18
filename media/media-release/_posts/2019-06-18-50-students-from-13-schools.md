@@ -83,45 +83,45 @@ permalink: /media/media-release/50-students-from-13-schools
     <td>新加坡调解公约</td>
   </tr>
   <tr>
-    <th>Singapore Convention Youth Ambassadors</th>
-    <th>新加坡公约青年大使</th>
+    <td>Singapore Convention Youth Ambassadors</td>
+    <td>新加坡公约青年大使</td>
   </tr>
  <tr>
-    <th>Singapore Convention Youth Involvement Programm</th>
-    <th>	新加坡公约青年参与计划</th>
+    <td>Singapore Convention Youth Involvement Programm</td>
+    <td>	新加坡公约青年参与计划</td>
   </tr>
  <tr>
-    <th>The Ministry of Law</th>
-    <th>	律政部</th>
+    <td>The Ministry of Law</td>
+    <td>	律政部</td>
   </tr>
  <tr>
-    <th>The Singapore Bicentennial Office</th>
-    <th>	新加坡开埠200周年纪念活动小组</th>
+    <td>The Singapore Bicentennial Office</td>
+    <td>	新加坡开埠200周年纪念活动小组</td>
   </tr>
  <tr>
-    <th>Maxwell Chambers</th>
-    <th>	麦士威国际争议解决中心</th>
+    <td>Maxwell Chambers</td>
+    <td>	麦士威国际争议解决中心</td>
   </tr>
  <tr>
-    <th>The Urban Redevelopment Authority of Singapore (URA)</th>
-    <th>	市区重建局</th>
+    <td>The Urban Redevelopment Authority of Singapore (URA)</td>
+    <td>	市区重建局</td>
   </tr>
  <tr>
-    <th>The National Heritage Board (NHB)</th>
-    <th>	新加坡国家文物局</th>
+    <td>The National Heritage Board (NHB)</td>
+    <td>	新加坡国家文物局</td>
   </tr>
  <tr>
-    <th>The National Parks Board (NParks)</th>
-    <th>	国家公园局</th>
+    <td>The National Parks Board (NParks)</td>
+    <td>	国家公园局</td>
   </tr>
  <tr>
-    <th>Gardens by the Bay</th>
-    <th>	滨海湾花园</th>
+    <td>Gardens by the Bay</td>
+    <td>	滨海湾花园</td>
   </tr>
  <tr>
-    <th>Han Kok Juan
+    <td>Han Kok Juan
 <br>Deputy Permanent Secretary,<br>
-Ministry of Law</th>
-    <th>韩国元<br>律政部副常任秘书</th>
+Ministry of Law</td>
+    <th>韩国元<br>律政部副常任秘书</td>
   </tr>
   </table>
