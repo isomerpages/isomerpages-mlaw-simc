@@ -95,7 +95,7 @@ permalink: /media/media-release/50-students-from-13-schools
     <th>	律政部</th>
   </tr>
  <tr>
-    <th>The Singapore Bicentennial Office<</th>
+    <th>The Singapore Bicentennial Office</th>
     <th>	新加坡开埠200周年纪念活动小组</th>
   </tr>
  <tr>
