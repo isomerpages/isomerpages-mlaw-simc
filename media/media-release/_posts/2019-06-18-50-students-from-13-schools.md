@@ -13,7 +13,7 @@ permalink: /media/media-release/50-students-from-13-schools
 
 4.  The Singapore Convention Youth Involvement Programme is part of the Singapore Convention signing ceremony and conference co-organised by MinLaw and the United Nations Commission On International Trade Law (UNCITRAL) which will take place on 7 August 2019. The conference is expected to attract over 700 delegates from around the world, including overseas ministers, senior UN and UNCITRAL officials, Presidents of Bar Associations, Chair-persons and Board Members of dispute resolution institutions, Managing Partners of law firms and C-suites of multinational corporations. The delegates will also be invited to participate in a series of related conferences as part of the Singapore Convention Week stretching from 3 to 9 August, and to join Singaporeans in celebrating Singapore’s 54th National Day and marking our bicentennial year
 
-#### **Singapore Convention Youth Involvement Programme**
+**Singapore Convention Youth Involvement Programme**
 
 5.  As Singapore Convention Youth Ambassadors, the students will host guided tours to six places of interest in Singapore, namely The Bicentennial Experience, Maxwell Chambers, the Singapore City Gallery, Chinatown Food Street, the Singapore Botanic Gardens and the Gardens by the Bay, on 8 and 9 August after the Singapore Convention Signing Convention and Ceremony on 7 August. Each student will be matched to a small group of delegates and serve as their personal guides at these locations. They will share with their foreign guests Singapore’s history and heritage and approach to nation-building, in the areas of rule of law, urban planning and greening.
 
