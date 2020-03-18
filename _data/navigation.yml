@@ -20,10 +20,10 @@
 - title: Conference
   url: /conference/
   sub-links:
-    - title: About Singapore
-      url: /conference/about-singapore/
     - title: Programme
       url: /
+    - title: About Singapore
+      url: /conference/about-singapore/
     - title: Breakout Session
       url: /
     - title: Reports
