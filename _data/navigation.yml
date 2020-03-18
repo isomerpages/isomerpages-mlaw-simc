@@ -26,8 +26,8 @@
       url: /conference/about-singapore/
     - title: Breakout Session
       url: /
-    - title: Reports
-      url: /
+#    - title: Reports
+#      url: /
     - title: Organisers and Partners
       url: /
 #   - title: Speakers
@@ -39,11 +39,11 @@
 #    url: /visitor-information/about-singapore/
 #  - title: Getting To The Venue
 #    url: /visitor-information/getting-to-the-venue/
-- title: Related Events
-  url: /
-  sub-links:
-   - title: Singapore Convention Week
-     url: /
+- title: Singapore Convention Week
+#  url: /
+#  sub-links:
+#   - title: 
+#     url: /
 - title: Media
   url: /media/
   sub-links:
@@ -51,10 +51,10 @@
 #    url: /media/
   - title: Press Releases
     url: /media/media-release/
-  - title: Live Broadcast
-    url: /live/
-  - title: Gallery
-    url: /
+#  - title: Live Broadcast
+#    url: /live/
+#  - title: Gallery
+#    url: /
 # - title: Events
 #   url: /
 - title: Past Event
@@ -67,5 +67,5 @@
   sub-links:
   - title: Save the Date
     url: /
-  - title: Getting here
-    url: /    
+#  - title: Getting here
+#    url: /    
