@@ -86,5 +86,44 @@ Singapore Convention on Mediation</span></th>
     <th><span style="font-weight:bold">
 Singapore Convention Youth Ambassadors</span></th>
     <th>新加坡公约青年大使</th>
-
   </tr>
+ <tr>
+    <th><span style="font-weight:bold">Singapore Convention Youth Involvement Programm</span></th>
+    <th>	新加坡公约青年参与计划</th>
+  </tr>
+ <tr>
+    <th><span style="font-weight:bold">The Ministry of Law</span></th>
+    <th>	律政部</th>
+  </tr>
+ <tr>
+    <th><span style="font-weight:bold">The Singapore Bicentennial Office</span></th>
+    <th>	新加坡开埠200周年纪念活动小组</th>
+  </tr>
+ <tr>
+    <th><span style="font-weight:bold">Maxwell Chambers</span></th>
+    <th>	麦士威国际争议解决中心</th>
+  </tr>
+ <tr>
+    <th><span style="font-weight:bold">The Urban Redevelopment Authority of Singapore (URA)</span></th>
+    <th>	市区重建局</th>
+  </tr>
+ <tr>
+    <th><span style="font-weight:bold">The National Heritage Board (NHB)</span></th>
+    <th>	新加坡国家文物局</th>
+  </tr>
+ <tr>
+    <th><span style="font-weight:bold">The National Parks Board (NParks)</span></th>
+    <th>	国家公园局</th>
+  </tr>
+ <tr>
+    <th><span style="font-weight:bold">Gardens by the Bay</span></th>
+    <th>	滨海湾花园</th>
+  </tr>
+ <tr>
+    <th><span style="font-weight:bold">Han Kok Juan
+Deputy Permanent Secretary,
+Ministry of Law</span></th>
+    <th>	韩国元
+律政部副常任秘书</th>
+  </tr>
+  </table>
