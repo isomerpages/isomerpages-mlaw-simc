@@ -87,8 +87,8 @@ resources-more-button-url: media/
 
 # Careers Section
 # To edit the careers details, go to careers-stories.yml
- careers-title: About
- careers-subtitle: Singapore Convention On Mediation
- careers-description: <NA2>
- careers-more-button: Introduction
- careers-more-button-url: /about/about-the-convention/
+careers-title: About
+careers-subtitle: Singapore Convention On Mediation
+careers-description: <NA2>
+careers-more-button: Introduction
+careers-more-button-url: /about/about-the-convention/
