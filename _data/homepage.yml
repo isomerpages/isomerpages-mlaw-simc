@@ -40,7 +40,6 @@ info-sections:
   - section-title: 
     section-subtitle: 
     section-description: The Singapore Convention Conference will be held on 1 September 2020 in Singapore. In conjunction with the Conference is a week-long series of activities that start from 28 August – 2 September and will consist of key note speakers, panel discussions as well as technical workshops. The conference is specifically designed for Government officials, legal practitioners, in-house counsel, business executives interested in the applications of the Singapore Convention on Mediation, to keep updated on the latest in dispute resolution, and to meet like-minded individuals from around the world.
-
     section-more-button: More About Convention
     section-more-button-url: /about/about-convention/
     section-image-path: /images/SCM-Callout-Min4.jpg
@@ -79,17 +78,9 @@ info-sections:
 
 # Resources Section
 resources-title:  Media
-resources-subtitle: Newsroom1
+resources-subtitle: Newsroom
 resources-more-button: Read More
 resources-more-button-url: media/
-
-info-sections:
-  - section-title: Test
-    section-subtitle: 
-    section-description: The Singapore Convention Conference will be held on 1 September 2020 in Singapore. In conjunction with the Conference is a week-long series of activities that start from 28 August – 2 September and will consist of key note speakers, panel discussions as well as technical workshops. The conference is specifically designed for Government officials, legal practitioners, in-house counsel, business executives interested in the applications of the Singapore Convention on Mediation, to keep updated on the latest in dispute resolution, and to meet like-minded individuals from around the world.
-    section-more-button: More About Convention
-    section-more-button-url: /about/about-convention/
-    section-image-path: /images/SCM-Callout-Min4.jpg
 
 # Careers Section
 # To edit the careers details, go to careers-stories.yml
