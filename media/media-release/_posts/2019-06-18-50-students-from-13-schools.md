@@ -36,13 +36,30 @@ permalink: /media/media-release/50-students-from-13-schools
 <li>Mr Han Kok Juan, Chairman of the Singapore Convention Signing Ceremony and Conference Organising Committee and Deputy Secretary, MinLaw said, “The students will be part of an important milestone in our history. The programme will give them the opportunity for high-profile international exposure as well as close interactions with leaders from around the world. They will develop a deeper understanding and appreciation of Singapore’s approach to nation-building, across different domain areas, and gain confidence to think and operate globally.”</li></ol>
 <ol start="10">
 <li>Mr Adrian Tay, Deputy Principal, Eunoia Junior College said, “Eunoia Junior College is excited to be part of this initiative to involve our youths as Singapore’s ambassadors on such a significant occasion. Global awareness and crosscultural skills are important 21st century competencies that EJC seeks to develop in our students. This will be a good opportunity for them to put these skills into practice.”</li></ol>
-<ol start="10">
-<li>Mr Wan Wee Pin, Project Director, Singapore Bicentennial Office (SBO) said, “We hope the Youth Ambassadors will be inspired to learn more about our longer history and understand the richness of it. We also hope they will be able to connect the dots and learn from our past when we were already very much linked to the region and the world. Through this, we hope they recognise our 3 DNA traits, which will guide us in charting our paths forward.”</li></ol>
 <ol start="11">
-<li>Mr Goh Kong Aik, Director of Strategic Communications and Outreach, Urban Redevelopment Authority (URA) said, “We hope that through training to guide at URA’s Singapore City Gallery, the students will gain a deeper understanding and appreciation of how Singapore came to be the distinctive city it is today, the planning challenges we faced and still face, as well as the innovative spirit needed to overcome them. We hope that their experience with us will inspire them to continue to contribute to shaping this city that we all call home and encourage others to get involved as well.”</li></ol>
+<li>Mr Wan Wee Pin, Project Director, Singapore Bicentennial Office (SBO) said, “We hope the Youth Ambassadors will be inspired to learn more about our longer history and understand the richness of it. We also hope they will be able to connect the dots and learn from our past when we were already very much linked to the region and the world. Through this, we hope they recognise our 3 DNA traits, which will guide us in charting our paths forward.”</li></ol>
 <ol start="12">
-<li>Ms Gina Leong, Director of Communications & Community Engagement at NParks, said, “We are excited to have the students on board as part of our efforts to encourage youth to care for our natural heritage. We hope that through this experience, they will come to appreciate nature more and become stewards of our City in a Garden. We also look forward to meeting the delegates and through the students, share about our country’s first UNESCO World Heritage Site – the Singapore Botanic Gardens – and its contribution to research, conservation and education on not just Singapore’s flora, but also that of the region.”</li></ol>
+<li>Mr Goh Kong Aik, Director of Strategic Communications and Outreach, Urban Redevelopment Authority (URA) said, “We hope that through training to guide at URA’s Singapore City Gallery, the students will gain a deeper understanding and appreciation of how Singapore came to be the distinctive city it is today, the planning challenges we faced and still face, as well as the innovative spirit needed to overcome them. We hope that their experience with us will inspire them to continue to contribute to shaping this city that we all call home and encourage others to get involved as well.”</li></ol>
 <ol start="13">
-<li>Ms Ong Chui Leng, Senior Director (Programming), Gardens by the Bay said, “The Gardens by the Bay Ambassadors Programme has helped many youths to better understand what makes the Gardens a special place for plants. We hope that through this programme, the Singapore Convention Youth Ambassadors will gain a deeper appreciation of the world of plants and are able to engage our international guests with our Gardens’ sustainability story and natural heritage.”</li></ol>
+<li>Ms Gina Leong, Director of Communications & Community Engagement at NParks, said, “We are excited to have the students on board as part of our efforts to encourage youth to care for our natural heritage. We hope that through this experience, they will come to appreciate nature more and become stewards of our City in a Garden. We also look forward to meeting the delegates and through the students, share about our country’s first UNESCO World Heritage Site – the Singapore Botanic Gardens – and its contribution to research, conservation and education on not just Singapore’s flora, but also that of the region.”</li></ol>
 <ol start="14">
+<li>Ms Ong Chui Leng, Senior Director (Programming), Gardens by the Bay said, “The Gardens by the Bay Ambassadors Programme has helped many youths to better understand what makes the Gardens a special place for plants. We hope that through this programme, the Singapore Convention Youth Ambassadors will gain a deeper appreciation of the world of plants and are able to engage our international guests with our Gardens’ sustainability story and natural heritage.”</li></ol>
+<ol start="15">
 <li>Ms Katherine Yap, Chief Executive Officer, Maxwell Chambers, said, “The Singapore Convention Signing Ceremony and Conference provides a great opportunity for us to invite many distinguished legal practitioners from around the world to take time off their busy schedule to travel to Singapore. The Youth Ambassadors add a warm, personal touch to our hospitality. They can help show our foreign guests what we have to offer so that more of them would consider doing work out of Singapore.”</li></ol>
+
+**Annex A**
+
+**List Of Participating Schools in Singapore Convention Youth Involvement Programme**
+1	Anderson Serangoon Junior College
+2	Catholic Junior College
+3	Dunman High School
+4	Eunoia Junior College
+5	Hwa Chong Institution
+6	Nanyang Junior College
+7	National Junior College
+8	NUS High School of Mathematics and Science
+9	Raffles Institution
+10	River Valley High School
+11	St. Joseph’s Institution (Independent)
+12	Tampines Meridian Junior College
+13	Yishun Innova Junior College
