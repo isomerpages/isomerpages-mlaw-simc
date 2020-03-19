@@ -50,42 +50,18 @@ info-sections:
     section-more-button: Watch now
     section-more-button-url: /videos/
     section-image-path: /images/home_Pix.jpg
-
-#  - section-title: 
-#    section-subtitle: Singapore Convention Roundtable
-#    section-description: The Singapore Convention Roundtable was held on 7 August 2019 in conjunction with the signing ceremony of the Singapore Convention on Mediation.
-#    section-more-button: View Statements
-#    section-more-button-url: /roundtable/
-#    section-image-path: /images/roundtable.jpeg
-
-
-# Info Sections
-# info-sections:
-#  - section-title: 
-#    section-subtitle: Video on Demand
-#    section-description:  Click on the link below to watch the Formal Addresses by PM Lee Hsien Loong and UN ASG Mr Stephen Mathias
-#    section-more-button: Watch now
-#    section-more-button-url: https://www.youtube.com/embed/PmRTkEGYHz0?rel=0&autoplay=1
-#    section-image-path: /images/Hero_Banner_SCM.jpg
-
-# Programmes Section
-# To edit the programme details, go to programmes.yml
-# programmes-title: 
-# programmes-subtitle: 
-# programmes-description: The Singapore Convention on Mediation signing ceremony will be held in Singapore on 7 August 2019.
-# programmes-more-button: Express your interest
-# programmes-more-button-url: https://form.gov.sg
-
+    
 # Resources Section
 resources-title:  Media
 resources-subtitle: Newsroom
 resources-more-button: Read More
 resources-more-button-url: media/
 
-# Careers Section
-# To edit the careers details, go to careers-stories.yml
-#careers-title: About
-#careers-subtitle: Singapore Convention On Mediation
-#careers-description: <NA2>
-#careers-more-button: Introduction
-#careers-more-button-url: /about/about-the-convention/
+# Info Section 
+info-sections:
+ - section-title: TEST
+   section-subtitle: TEST
+   section-description: TEST
+   section-more-button: TEST
+   section-more-button-url: /test/
+   section-image-path: /images/Hero_Banner_SCM.jpg
