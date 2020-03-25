@@ -6,18 +6,33 @@ breadcrumb: About Singapore
 collection_name: Conference
 ---
 
-### **About Singapore**
+### **Where Worlds Meet**
 
-Singapore is a sunny, tropical island in South-east Asia, off the southern tip of the Malay Peninsula. The city-state is 710 square kilometres and inhabited by five million people from four major communities; Chinese (majority), Malay, Indian and Eurasian. Since its independence in 9 August 1965, the country has adopted a parliamentary democracy system.  Currently, the government and the cabinet are led by Prime Minister, Lee Hsien Loong while President Halimah Yacob is the Head of State.
+Nestled in the heart of South-east Asia, Singapore plays a unique role in the global economy, offering unparalleled access and connectivity to the rest of Asia and the world.
 
-Ideally positioned in South-east Asia, where the rest of the region is just a hop, skip and jump away, Singapore is a thriving metropolis offering a world-class infrastructure, a fully integrated island-wide transport network, dynamic business environment, vibrant living spaces and a rich culture largely influenced by the four major communities in Singapore with each offering different perspective of life in Singapore in terms of culture, religion, food, language and history.
+The bustling city-state, with its efficient infrastructure, forward looking business friendly policies and good governance, buttressed by a trusted legal and dispute resolution system, and strong rule of law, has consistently ranked highly as a preferred location for businesses to base their operations as well as for trade and investment.
 
-One of the reasons that Singapore proves to be such an attraction as a home is the ease of living, particularly in terms of residence, transportation and governance system. Over the years, Singapore has made significant strides in many areas and has attracted an encouraging number of international accolades which recognise the city as vibrant and world-class.
+Against the backdrop of an evolving international and regional landscape, Singapore continues to remake herself to ensure the needs of international commercial businesses operating in and out of Singapore continue to be well-served.
 
-Singapore is ranked fourth globally according to the 2018 Global Financial Centres Index (GCFI) survey, it is a regional gateway for Reminbi (RMB) with liquid capital markets. Its strategic location also makes it the preferred choice for businesses.  
+For more information about Singapore, click [here](http://www.visitsingapore.com/en/){:target="_blank"}
 
-So whether it's the arts and cultural exchanges, the creation of cutting-edge innovation to enrich the lives of the communities at home or abroad, or the coming together of world-class minds to spark new business opportunities locally and internationally, Singapore is simply, the place where worlds meet. 
+### **International Legal Services and Dispute Resolution Hub**
 
-### **Singapore’s Legal Industry**
+Singapore is recognised as one of the leading dispute resolution centres in the world today. It is a location of choice for parties to settle their disputes, and for dispute resolution institutions, practices and professionals to base their operations.
 
-The Ministry of Law (MinLaw) is constantly exploring and growing practice areas and the country’s legal capabilities beyond dispute resolution and debt restructuring. It has ratified The Hague Convention on Choice of Court Agreements which improves enforcement of Singapore Court judgements and introduced third-party framework as additional financing options for businesses in international commercial arbitration. MinLaw works with both public and private sectors to strengthen Singapore’s position as a legal hub. The Singapore Government has launched various programmes such as the public sector transformation and initiatives to promote a conducive environment for innovation and encourage the development of legal tech and other advancements in law. The Singapore International Arbitration Centre (SIAC) recorded the highest number of cases in 2017. 452 cases were filed in 2017 from parties in 58 countries which involved SGD$5.3 billion (US$4.07 billion). The country’s common law tradition has also led to international practitioners to build up a presence. 
+Singapore offers a strong dispute resolution ecosystem:
+
+* Trusted legal system. Singapore offers an independent and neutral venue, with a strong reputation for good governance, low corruption, efficiency, rule of law and a trusted legal system. Singapore’s legal framework is constantly updated to provide support to the enforceability of dispute resolution outcomes.
+
+* Comprehensive suite of international commercial dispute resolution services. This ranges from arbitration at the Singapore International Arbitration Centre (SIAC), to mediation at the Singapore International Mediation Centre (SIMC), and litigation at the Singapore International Commercial Court (SICC). Singapore’s flagship institutions have a renowned panel of local and international arbitrators, mediators and judges.
+
+* Home to many international dispute resolution institutions. The International Court of Arbitration of the International Chamber of Commerce (ICC), the Permanent Court of Arbitration (PCA), the World Intellectual Property Organization Arbitration and Mediation Center (WIPO AMC), and the American Arbitration Association International Centre for Dispute Resolution (AAA-ICDR) all have offices here.
+
+* Strong pool of dispute resolution practices. Singapore’s top local law practices are the largest in Southeast Asia with a wide network. About 40 of the top 100 international law firms by revenue are based in Singapore. Many arbitrators and mediators are also based in Singapore.
+
+* World-class infrastructure for dispute resolution hearings. Maxwell Chambers is the world’s first integrated dispute resolution complex, housing both international dispute resolution institutions and practices, and state-of-the-art hearing facilities. Maxwell Chambers has recently expanded to the adjacent Maxwell Chambers Suites, tripling its current size, to meet growing demand for dispute resolution services. It is home to the highest concentration of five case management offices – SIAC, SIMC, ICC, PCA and WIPO AMC.
+
+
+In 2018, Singapore was ranked in the 2018 International Arbitration Survey conducted by the School of International Arbitration, Queen Mary University of London and White & Case International, as the third most preferred seat of arbitration in the world, and top in Asia-Pacific. Singapore was also the only Asia-Pacific jurisdiction to be ranked among the top four in all regions except Latin America. Many of the cases heard in Singapore have no connection to Singapore.
+
+Singapore’s legal framework is also constantly updated to provide support to the enforceability of dispute resolution outcomes. Mediated settlement agreements, arbitral awards and court judgments have the advantage of enforceability in Singapore. Singapore’s Mediation Act 2017 provides for mediated settlement agreements to be recorded and enforced as court orders. Singapore is also a party to the United Nations Convention on the Recognition and Enforcement of Foreign Arbitral Awards (the New York Convention) and the Hague Convention on Choice of Court Agreements. When in force, the Singapore Convention on Mediation will provide an additional option for commercial parties.
