@@ -21,13 +21,13 @@
   url: /conference/
   sub-links:
   - title: Programme
-    url: /
+    url: /conference/programme/
   - title: About Singapore
     url: /conference/about-singapore/
 #  - title: Breakout Session
 #    url: /
   - title: Organisers and Partners
-    url: /
+    url: /conference/organsiers-and-partners/
       
 - title: Singapore Convention Week
   url: /singapore-convention-week/
