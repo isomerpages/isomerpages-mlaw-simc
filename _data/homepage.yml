@@ -50,7 +50,13 @@ info-sections:
     section-more-button: Watch now
     section-more-button-url: /videos/
     section-image-path: /images/home_Pix.jpg
-    
+   
+- infopic:
+         title: <font color="orangered"><b><br><a href="/about/acknowledgements/">Sponsors</a></b></font>
+         url: /about/acknowledgements/   
+         image: /images/updated_sponsor_logo.png
+         alt: Sponsors  
+   
 # Resources Section
 resources-title:  Media
 resources-subtitle: Newsroom
