@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: About Singapore
+title: About Singapore old url
 permalink: /visitor-information/about-singapore/
 breadcrumb: About Singapore
 collection_name: visitor-information
