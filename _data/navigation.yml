@@ -24,8 +24,8 @@
       url: /
     - title: About Singapore
       url: /conference/about-singapore/
-    - title: Breakout Session
-      url: /
+#    - title: Breakout Session
+#      url: /
     - title: Organisers and Partners
       url: /
       
@@ -38,12 +38,14 @@
   - title: Press Releases
     url: /media/media-release/
     
-- title: Past Event
+- title: SCM 2019
   url: /
   sub-links:
-    - title: Convention 2019
+    - title: Conference Reports
       url: /
-      
+    - title: Gallery
+      url: /
+
 - title: Contact Us
   url: /contact-us/
   sub-links:
