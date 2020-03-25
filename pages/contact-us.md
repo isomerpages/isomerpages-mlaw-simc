@@ -2,5 +2,5 @@
 layout: contact-us
 permalink: /contact-us/
 breadcrumb: Contact Us
-title: Contact Us 1
+title: Contact Us
 ---
