@@ -23,7 +23,7 @@ The Singapore Convention on Mediation (the “Singapore Convention” or “Conv
 
 The Singapore Convention will facilitate international trade and commerce by enabling disputing parties to easily enforce and invoke settlement agreements across borders. Businesses will benefit from mediation as an additional dispute resolution option to litigation and arbitration in settling cross-border disputes.
 
-For more details, please view the [Convention Text]{/about/the-convention-text}
+For more details, please view the [Convention Text]{/the-convention-text}
 
 ### **Key Milestones**
 
