@@ -3,7 +3,7 @@ layout: leftnav-page-content
 title: About Singapore
 permalink: /conference/about-singapore/
 breadcrumb: About Singapore
-collection_name: Conference
+collection_name: conference
 ---
 
 ### **Where Worlds Meet**
