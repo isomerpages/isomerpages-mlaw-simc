@@ -45,6 +45,6 @@ baseurl: ""
 collections:
   about-the-convention:
     output: true
-  conference:
+  about-conference:
     output: true
 resources_name: media
