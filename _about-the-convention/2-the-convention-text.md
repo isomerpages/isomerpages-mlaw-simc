@@ -13,33 +13,33 @@ The Singapore Convention applies to international settlement agreements resultin
 
 The Singapore Convention has been designed to become an essential instrument in the facilitation of international trade and in the promotion of mediation as an alternative and effective method of resolving trade disputes. It ensures that a settlement reached by parties becomes binding and enforceable in accordance with a simplified and streamlined procedure. It thereby contributes to strengthening access to justice and the rule of law.
 
-Mediation is known for improving efficiency of dispute resolution and flexibility. The mediator’s role is not to adjudicate, but rather to facilitate discussions between disputing parties to arrive at a mutually acceptable solution. The mediation process is more flexible, and in many instances, more cost and time efficient than other dispute resolution processes such as litigation and arbitration.
+Mediation is known for improving the efficiency of dispute resolution and flexibility. The mediator’s role is not to adjudicate, but rather to facilitate discussions between disputing parties to arrive at a mutually acceptable solution. The mediation process is more flexible, and in many instances, more cost and time efficient than other dispute resolution processes such as litigation and arbitration.
 
 Until the introduction of the Singapore Convention however, an often-cited challenge to the use of mediation was the lack of an efficient and harmonised framework for cross-border enforcement of settlement agreements resulting from mediation. It was in response to this need that the Singapore Convention was developed and adopted by the United Nations.
 
-The Convention contributes to the development of a mature, rule-based global commercial system. The **primary goals** of the Convention are to:
+The Convention contributes to the development of a mature, rule-based global commercial system. The **primary goals** of the Convention are:
 
-* facilitate international trade; and
-* promote the use of mediation for the resolution of cross-border commercial disputes.
+* To facilitate international trade; and
+* To promote the use of mediation for the resolution of cross-border commercial disputes.
 
 ### **Key Features**
 
-The Convention will apply to international commercial settlement agreements resulting from mediation. 
+The Convention applies to international commercial settlement agreements resulting from mediation. 
 
-*	It will not apply to international settlement agreements concluded in the course of judicial or arbitral proceedings which are enforceable as a court judgment or arbitral award.
-*	It will also not apply to settlement agreements concluded for personal, family or household purposes by one of the parties (a consumer), as well as settlement agreements relating to family, inheritance or employment law.
+*	It does not apply to settlement agreements that are enforceable as a judgment or as an arbitral award.
+*	It also does not apply to settlement agreements concluded for personal, family or household purposes by one of the parties (a consumer), as well as settlement agreements relating to family, inheritance or employment law.
 
-The courts of a contracting party will be expected to handle applications either
+The courts of a Party to the convention are expected to handle applications:
 
-(a)	To enforce an international settlement agreement which falls within the scope of the Convention 
-or 
+* To enforce a settlement agreement in accordance with its rules of procedure and under the conditions laid down in the Convention.
+* To allow a party to invoke the settlement agreement in accordance with its rules of procedure
+and under the conditions laid down in the Convention, in order to prove that the matter was
+already resolved by the settlement agreement.
 
-(b)	To allow a party to invoke the settlement agreement in order to prove that the matter has already been resolved, in accordance with its rules of procedure, and under the conditions laid down in the Convention.
-
-The courts of a contracting party may refuse to grant relief on the grounds laid down in the Convention, including:
+The courts of a Party to the Convention may refuse to grant relief on the grounds laid down in the Convention, including:
 
 *	If a party to the settlement agreement was under incapacity;
-*	If the settlement agreement is not binding, null and void, inoperative or incapable of being performed under the law which it is subjected to;
+*	If the settlement agreement is not binding, null and void, inoperative or incapable of being performed under the law to which it is subjected;
 *	If there was a serious breach by the conciliator of standards applicable to the conciliator, without which breach that party would not have entered into the settlement agreement;
 *	If granting relief would be contrary to the public policy of the contracting party.
 
