@@ -40,6 +40,15 @@ This special event celebrates the 10th Anniversary of Maxwell Chambers, the worl
 
 [Contact](mailto:MCturns10@maxwellchambers.com) | [Find out more](https://www.maxwellchambers.com){:target="_blank"}
 
+#### **SIAC Congress 2020** ####
+Organised by the Singapore International Arbitration Centre
+
+Date: 2 September, 8.30am – 10.00pm
+
+This is the fourth edition of SIAC’s biennial flagship conference. Topical issues in the field of international arbitration will be discussed.
+
+[Contact](mailto:events@siac.org.sg) | [Find out more](http://www.siac.org.sg/){:target="_blank"}
+
 
 
 
