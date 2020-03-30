@@ -9,7 +9,8 @@ The Singapore Convention Week will feature a series of events related to dispute
 
 #### **International Mediation Singapore (IMSG) 2020 – A Premier Mediation Competition for Students** ####
 
-Organised by the Singapore International Mediation Institute (SIMI) | Date: 27 – 30 August 
+Organised by the Singapore International Mediation Institute (SIMI) 
+* Date: 27 – 30 August 
  
 International Mediation Singapore (IMSG) 2020 is the second edition of the highly successful IMSG 2019. The event will see tertiary students from around the world compete as mediation advocates and mediators. It will also be judged by professional mediators on SIMI’s international panel. 
  
