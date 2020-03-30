@@ -43,12 +43,29 @@ This special event celebrates the 10th Anniversary of Maxwell Chambers, the worl
 #### **SIAC Congress 2020** ####
 Organised by the Singapore International Arbitration Centre
 
-Date: 2 September, 8.30am – 10.00pm
+* Date: 2 September, 8.30am – 10.00pm
 
 This is the fourth edition of SIAC’s biennial flagship conference. Topical issues in the field of international arbitration will be discussed.
 
 [Contact](mailto:events@siac.org.sg) | [Find out more](http://www.siac.org.sg/){:target="_blank"}
 
+#### **Litigating in the Asia Pacific Region Conference** ####
+Organised by the International Bar Association (IBA)
+
+* Venue: Swissotel The Stamford, Singapore and the Supreme Court of Singapore
+* Date: 2 – 4 September 
+ 
+A conference presented by the International Bar Association (IBA) Asia Pacific Regional Forum, supported by the IBA Litigation Committee, this conference will cover topics including:
+-   Practical and cultural difference of litigating in Asia
+-   Technological advances – the Asian experience
+-   Evidence – what you need and what you don’t!
+-   Global disputes: managing fraud, corruption and white-collar crime
+-   International commercial courts: the response
+-   Mock appeal: appellate advocacy in Asia
+ 
+Online registration is open and the full programme can be downloaded from the conference website. 
+
+[Contact](mailto:asia.office@int-bar.org)| [Find out more](https://www.ibanet.org/){:target="_blank"}
 
 
 
