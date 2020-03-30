@@ -21,8 +21,8 @@ For more information, please visit MinLaw’s [website](https://www.mlaw.gov.sg)
 ### **UNCITRAL**
 The United Nations Commission on International Trade and Law is the core legal body of the United Nations system in the field of international trade law. A legal body with universal membership specialising in commercial law reform worldwide for over 50 years, UNCITRAL's business is the modernisation and harmonisation of rules on international business.
 
-* Guide to UNCITRAL: Basic facts about the United Nations Commission on International Trade Law [hyperlink to https://uncitral.un.org/sites/uncitral.un.org/files/media-documents/uncitral/en/12-57491-guide-to-uncitral-e.pdf] 
+* [Guide to UNCITRAL: Basic facts about the United Nations Commission on International Trade Law(https://uncitral.un.org/sites/uncitral.un.org/files/media-documents/uncitral/en/12-57491-guide-to-uncitral-e.pdf){:target="_blank"}
 
-* Facts about UNCITRAL [hyperlink to https://uncitral.un.org/sites/uncitral.un.org/files/media-documents/uncitral/en/uncitral-leaflet-e.pdf]   
+* [Facts about UNCITRAL](https://uncitral.un.org/sites/uncitral.un.org/files/media-documents/uncitral/en/uncitral-leaflet-e.pdf){:target="_blank"}   
 
 For more information, please visit UNCITRAL’s website, [here](https://uncitral.un.org/en){:target="_blank"}.
