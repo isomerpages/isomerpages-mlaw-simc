@@ -6,7 +6,7 @@ breadcrumb: About Singapore
 collection_name: about-conference
 ---
 
-### **Where Worlds Meet** New
+### **Where Worlds Meet** New new
 
 Nestled in the heart of South-east Asia, Singapore plays a unique role in the global economy, offering unparalleled access and connectivity to the rest of Asia and the world.
 
