@@ -37,7 +37,7 @@ In 2018, Singapore was ranked in the International Arbitration Survey conducted 
 
 Singapore’s legal framework is also constantly updated to support the enforceability of dispute resolution outcomes. Mediated settlement agreements, arbitral awards and court judgments have the advantage of enforceability in Singapore. Singapore’s Mediation Act 2017 provides for mediated settlement agreements to be recorded and enforced as court orders. Singapore is also a party to the United Nations Convention on the Recognition and Enforcement of Foreign Arbitral Awards (the New York Convention) and the Hague Convention on Choice of Court Agreements. The Singapore Convention on Mediation Bill 2020 was passed on 4 February 2020. The Singapore Convention on Mediation will provide an additional option for commercial parties.
 
-### **Advisory on the Covid-19 Situation**
+### **Advisory on the Covid-19 Situation** ###
 The organisers are closely monitoring the situation in Singapore arising from the 2019-Novel Coronavirus (COVID-19) outbreak.
 
 The safety and well-being of our delegates, speakers, and conference attendees, as well as our staff, are our top priority. We are working closely with [venue] and local authorities to ensure that comprehensive precautionary and containment measures are properly planned for and will be put in place during the event to safeguard the health and safety of our participants.
@@ -45,3 +45,4 @@ The safety and well-being of our delegates, speakers, and conference attendees, 
 We will continue to monitor the COVID-19 situation closely and stay guided by the Ministry of Health (MOH) to implement all necessary precautionary measures in the lead up to, and during our event. The current guidelines and measures can be found at the [MOH website](https://www.moh.gov.sg/covid-19){:target="_blank"}.
 
 Should you require any further information or assistance, please do not hesitate to email us at [SgConvention@mlaw.gov.sg](mailto:SgConvention@mlaw.gov.sg).
+
