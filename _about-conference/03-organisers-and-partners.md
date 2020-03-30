@@ -16,7 +16,7 @@ In addition, MinLaw licences law practices, registers foreign-qualified legal pr
 
 MinLaw also oversees land policy and administration, and the development of Singapore’s intellectual property sector supported by its statutory boards.
 
-For more information, please visit MinLaw’s [website](https://www.mlaw.gov.sg){target="_blank"}.
+For more information, please visit MinLaw’s [website](https://www.mlaw.gov.sg){:target="_blank"}.
 
 ### **UNCITRAL**
 The United Nations Commission on International Trade and Law is the core legal body of the United Nations system in the field of international trade law. A legal body with universal membership specialising in commercial law reform worldwide for over 50 years, UNCITRAL's business is the modernisation and harmonisation of rules on international business.
@@ -25,4 +25,4 @@ The United Nations Commission on International Trade and Law is the core legal b
 
 * Facts about UNCITRAL [hyperlink to https://uncitral.un.org/sites/uncitral.un.org/files/media-documents/uncitral/en/uncitral-leaflet-e.pdf]   
 
-For more information, please visit UNCITRAL’s website, [here](https://uncitral.un.org/en){target="_blank"}.
+For more information, please visit UNCITRAL’s website, [here](https://uncitral.un.org/en){:target="_blank"}.
