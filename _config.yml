@@ -47,6 +47,6 @@ collections:
     output: true
   about-conference:
     output: true
-  about-sc-week:
+  sg-convention-week:
     output: true
 resources_name: media
