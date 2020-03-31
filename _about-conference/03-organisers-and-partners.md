@@ -42,6 +42,8 @@ For more information, please visit UNCITRAL’s website, [here](https://uncitral
 
 
 ### **Supporting Organisers**
-<div class="logo"><img src="../images/AAA-ICDR_Logo.jpg"></div><div class="logo"><img src="../images/iba_logo.png"></div>
-<div class="logo"><img src="../images/maxwell_logo.png"></div><div class="logo"><img src="../images/iba_logo.png"></div>
+<div class="logo"><img src="../images/AAA-ICDR_Logo.jpg"></div>
+<div class="logo"><img src="../images/iba_logo.png"></div>
+<div class="logo"><img src="../images/maxwell_logo.png"></div>
+<div class="logo"><img src="../images/iba_logo.png"></div>
 <br><br><br><br>
