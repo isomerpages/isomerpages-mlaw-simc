@@ -7,8 +7,11 @@ collection_name: about-conference
 ---
 <style>
   .image {width: 450px;}
-.image1 img {max-width: 100%;}
+  .image1 img {max-width: 100%;}
+  .logo {width: 250px;}
 </style>
+
+
 ### **Organisers**
 <div class="image"><img src="../images/logo-ministry-law-singapore.svg"></div>
 #### **Singapore Ministry of Law** 
@@ -36,4 +39,4 @@ For more information, please visit UNCITRAL’s website, [here](https://uncitral
 
 
 ### **Supporting Organisers**
-<div class="image"><img src="../images/AAA-ICDR_Logo.jpg"></div><div class="image"><img src="../images/AAA-ICDR_Logo.jpg"></div>
+<div class="logo"><img src="../images/AAA-ICDR_Logo.jpg"></div><div class="logo"><img src="../images/AAA-ICDR_Logo.jpg"></div>
