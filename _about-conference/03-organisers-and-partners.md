@@ -11,7 +11,7 @@ collection_name: about-conference
   .logo {margin: 5px;
   border: 0px solid #ccc;
   float: left;
-  width: 250px;}
+  width: 300px;}
 </style>
 
 
