@@ -8,7 +8,10 @@ collection_name: about-conference
 <style>
   .image {width: 450px;}
   .image1 img {max-width: 100%;}
-  .logo {width: 250px;}
+  .logo {margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 250px;}
 </style>
 
 
@@ -39,5 +42,5 @@ For more information, please visit UNCITRAL’s website, [here](https://uncitral
 
 
 ### **Supporting Organisers**
-<span class="logo"><img src="../images/AAA-ICDR_Logo.jpg"></span><span class="logo"><img src="../images/iba_logo.png"></span>
+<div class="logo"><img src="../images/AAA-ICDR_Logo.jpg"></div><div class="logo"><img src="../images/iba_logo.png"></div>
 <div class="logo"><img src="../images/maxwell_logo.png"></div><div class="logo"><img src="../images/iba_logo.png"></div>
