@@ -9,7 +9,7 @@ collection_name: about-conference
   .image {width: 450px;}
   .image1 img {max-width: 100%;}
   .logo {margin: 5px;
-  border: 1px solid #ccc;
+  border: 0px solid #ccc;
   float: left;
   width: 250px;}
 </style>
