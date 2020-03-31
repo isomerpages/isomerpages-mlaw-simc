@@ -36,3 +36,4 @@ For more information, please visit UNCITRAL’s website, [here](https://uncitral
 
 
 ### **Supporting Organisers**
+<div class="image"><img src="../images/AAA-ICDR_Logo.jpg"></div><div class="image"><img src="../images/AAA-ICDR_Logo.jpg"></div>
