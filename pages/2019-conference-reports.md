@@ -11,6 +11,8 @@ title: Conference Reports
 
 Multilateralism, International Collaboration and Rule of Law in an Evolving World
 
+[Read Report[(https://www.singaporeconvention.org/assets/pdf/conference-reports/1-Report-Panel-1.pdf){:target=_blank}
+
 **LUNCH-TIME PANEL**
 on the Negotiation of the Convention on Mediation
 
