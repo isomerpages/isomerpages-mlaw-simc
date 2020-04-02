@@ -15,6 +15,7 @@ Multilateralism, International Collaboration and Rule of Law in an Evolving Worl
 
 **LUNCH-TIME PANEL**
 on the Negotiation of the Convention on Mediation
+[Read Report](../pdf/2-Report-Lunch-time-Panel.pdf){:target=_blank}
 
 **PANEL 2**
 The Future of International Dispute Resolution: Challenges and Opportunities for Access to Justice
