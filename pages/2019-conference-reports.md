@@ -34,24 +34,24 @@ The Rise of Mediation: Bridging Differences for Tomorrow
 
 Foreign Investment in Dispute Resolutions
 
-[Read Report](../pdf/4-Report-Panel-3.pdf){:target="_blank"}
+[Read Report](../pdf/5-Report-Breakout-Session-1.pdf.{:target="_blank"}
 
 **BREAKOUT SESSION 2**
 
 Infrastructure Projects: Ecosystems and Frameworks
 
-[Read Report](../pdf/4-Report-Panel-3.pdf){:target="_blank"}
+[Read Report](../pdf/6-Report-Breakout-Session-2.pdf){:target="_blank"}
 
 **BREAKOUT SESSION 3**
 
 Setting Standards for Dispute Resolution in an AI Age
 
-[Read Report](../pdf/4-Report-Panel-3.pdf){:target="_blank"}
+[Read Report](../pdf/7-Report-Breakout-Session-3.pdf){:target="_blank"}
 
 **BREAKOUT SESSION 4**
 
 Efficiencies and Alliances in Partnerships
 
-[Read Report](../pdf/4-Report-Panel-3.pdf){:target="_blank"}
+[Read Report](../pdf/8-Report-Breakout-Session-4.pdf){:target="_blank"}
 
 
