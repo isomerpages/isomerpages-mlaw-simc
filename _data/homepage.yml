@@ -34,14 +34,7 @@ key-highlights:
   - title: Convention 2019
     description: Looking back at our inaugural event
     url: /
-#    external: true
-  - title: link 4 
-    description: 4 event
-    url: /
-#    external: true
-  - title: link 5
-    description: 5 event
-    url: /
+
 # Info Sections
 info-sections:
   - section-title: 
@@ -60,7 +53,7 @@ info-sections:
    
   - section-subtitle: Our Sponsors
     section-more-button: More about them
-    section-more-button-url: /url-to-sponsors-page/
+    section-more-button-url: /conference/organisers-and-partners/
     section-image-path: /images/logo.png
    
 # Resources Section
