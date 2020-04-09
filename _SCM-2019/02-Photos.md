@@ -6,8 +6,12 @@ title: Photos
 collection_name: SCM-2019
 second_nav_title: "Gallery"
 ---
+img[src*="#thumbnail"] {
+   width:150px;
+   height:100px;
+}
 ### **Photos new**
-![Album](/images/album-welcome-reception.jpg)
+![Album](/images/album-welcome-reception.jpg#thumbnail)
 Singapore Convention Welcome Reception
 |
 ![Album](/images/album-signing-ceremony.jpg)
