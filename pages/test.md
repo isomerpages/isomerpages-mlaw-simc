@@ -1,4 +1,4 @@
---
+---
 layout: simple-page
 title: test
 permalink: /test/
