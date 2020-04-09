@@ -34,9 +34,7 @@ signing ceremony to show their support for the Convention. Subsequently, [more c
 ### **Signing of the Convention**
 UNCITRAL has requested that Governments inform Ms Anna Joubin-Bret, Secretary of UNCITRAL at <uncitral@un.org>, of the delegation that will represent it at the signing ceremony and which delegation member will sign the Convention. When contacting the UNCITRAL Secretariat, Governments may wish to quote the note verbale from the UNCITRAL Secretariat dated 7 January 2019 (reference: LA/TL 133(3) - CU 2019/1/OLA/ITLD).
 -->
-<div class="image">
-  <img src="/images/about-signing.jpg/" title="About Convention" alt="About Convention"></div>
-  
+![About Convention](/images/about-signing.jpg/)
 *Mr Edwin Tong, SC, Senior Minister of State, Ministry of Law and Ministry of Health, at the UN Headquarters in New York for a handover ceremony of Singapore’s instrument of ratification with the Under-Secretary-General for Legal Affairs and UN Legal Counsel, Mr Miguel de Serpa Soares, and the Acting Chief of the UN Treaty Section, Mr David Nanopoulos, observing.*
 
 * On 25 February 2020 , Singapore and Fiji became the first two countries to deposit their respective instruments of ratification of the Convention at the United Nations Headquarters in New York. 
