@@ -36,7 +36,7 @@ Click on the album photo to view all the photos.
   
 <div class="row">
   <div class="column">
-  <a href="https://www.mlaw.gov.sg">
+  <a href="https://www.dropbox.com/sh/5gf65kl1i1egddq/AADzDBYe1YrD6NKgizgKXtRaa?dl=0"  target="_blank">
     <img src="/images/album-panel-breakout.jpg" title="Panel Discussions & Breakout Sessions" alt="Singapore Convention on Mediation 2019"></a><br>
   Panel Discussions & Breakout Sessions<br><br>
   </div>
