@@ -5,19 +5,12 @@ permalink: /about/about-convention/
 breadcrumb: About Convention
 collection_name: about-the-convention
 ---
-
 <style>
   .image {width: 720px;}
   .image {max-width: 100%; max-height:100%; object-fit: contain;}
   .image {width: auto; height: auto;}
 }         
 </style>
-
-<!--
-<div class="image1">
-  <img src="/images/Abt-960W.jpg/" title="About Convention" alt="About Convention"></div>
--->
-
 ### **Introduction** 
 The Singapore Convention on Mediation (the “Singapore Convention” or “Convention”) is a uniform and efficient framework for international settlement agreements resulting from mediation. It applies to international settlement agreements resulting from mediation, concluded by parties to resolve a commercial dispute.
 
