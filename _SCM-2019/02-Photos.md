@@ -26,7 +26,7 @@ Click on the album photo to view all the photos.
   <div class="column">
   <a href="https://www.dropbox.com/sh/1c43dt6ww6glrrm/AACcKYKOYEeC0bI7Tc7bXU4Ga/Singapore%20Convention%20Welcome%20Reception?dl=0&subfolder_nav_tracking=1" target="_blank">
     <img src="/images/album-welcome-reception.jpg" title="Welcome Reception" alt="Singapore Convention on Mediation 2019"></a><br>
-  Singapore Convention Welcome Reception
+  Singapore Convention Welcome Reception<br><br>
   </div>
    <div class="column">
   <a href="https://www.dropbox.com/sh/1c43dt6ww6glrrm/AABgqW18D7PFRrjEtbf-Fjuqa/Singapore%20Convention%20Signing%20Ceremony%20and%20Conference?dl=0&subfolder_nav_tracking=1"  target="_blank">
@@ -38,7 +38,7 @@ Click on the album photo to view all the photos.
   <div class="column">
   <a href="https://www.mlaw.gov.sg">
     <img src="/images/album-panel-breakout.jpg" title="Panel Discussions & Breakout Sessions" alt="Singapore Convention on Mediation 2019"></a><br>
-  Panel Discussions & Breakout Sessions
+  Panel Discussions & Breakout Sessions<br><br>
   </div>
    <div class="column">
   <a href="https://www.mlaw.gov.sg">
@@ -51,7 +51,7 @@ Click on the album photo to view all the photos.
   <div class="column">
   <a href="https://www.mlaw.gov.sg">
     <img src="/images/album-granding-opening.jpg" title="Grand Opening of Maxwell Chambers Suites" alt="Singapore Convention on Mediation 2019"></a><br>
-  Grand Opening of Maxwell Chambers Suites
+  Grand Opening of Maxwell Chambers Suites<br><br>
   </div>
    <div class="column">
   <a href="https://www.mlaw.gov.sg">
