@@ -30,8 +30,7 @@ second_nav_title: "Gallery"
   </div>
    <div class="column">
   <a href="https://www.mlaw.gov.sg">
-    <img src="/images/album-signing-ceremony.jpg" title="Singapore Ceremony alt="Singapore Convention on Mediation 2019"><br>
-  Singapore Convention Signing Ceremony and Conference</a>
+    <img src="/images/album-signing-ceremony.jpg" title="Singapore Convention Signing Ceremony and Conference" alt="Singapore Convention on Mediation 2019"><br>Singapore Convention Signing Ceremony and Conference</a>
   </div>
 </div>
   
