@@ -27,7 +27,7 @@ For more details, please view the [Convention Text](/about/the-convention-text)
 
 ### **Key Milestones**
 <div class="image1">
-  <img src="/images/about-signing.jpg/" title="About Convention" alt="About Convention"></div>
+  <img src="/images/about-UNCITRAL-grp.jpg/" title="About Convention" alt="About Convention"></div>
   <!-- need the other picture -->
   
 * In December 2018, the United Nations General Assembly adopted, by consensus, the United Nations Convention on International Settlement Agreements Resulting from Mediation, recommended that the Convention be known as the “Singapore Convention on Mediation”, and authorised the signing ceremony of the Convention to be held in Singapore on 7 August 2019.
