@@ -7,7 +7,7 @@ collection_name: about-conference
 second_nav_title: "Other Programme"
 ---
 
-Experience Singapore
+### **Experience Singapore** 
 ![Experience Singapore](/images/expsg-gardens.jpeg/)
 
 Foreign delegates are invited to join three curated programmes where you will cruise past Singapore’s unique skyline, stroll amid lush greenery, and experience our hawker culture and heritage.
