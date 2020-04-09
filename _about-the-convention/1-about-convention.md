@@ -42,7 +42,7 @@ UNCITRAL has requested that Governments inform Ms Anna Joubin-Bret, Secretary of
 <div class="image1">
   <img src="/images/about-signing.jpg/" title="About Convention" alt="About Convention"></div>
   
-<i>Mr Edwin Tong, SC, Senior Minister of State, Ministry of Law and Ministry of Health, at the UN Headquarters in New York for a handover ceremony of Singapore’s instrument of ratification with the Under-Secretary-General for Legal Affairs and UN Legal Counsel, Mr Miguel de Serpa Soares, and the Acting Chief of the UN Treaty Section, Mr David Nanopoulos, observing.</i>
+*Mr Edwin Tong, SC, Senior Minister of State, Ministry of Law and Ministry of Health, at the UN Headquarters in New York for a handover ceremony of Singapore’s instrument of ratification with the Under-Secretary-General for Legal Affairs and UN Legal Counsel, Mr Miguel de Serpa Soares, and the Acting Chief of the UN Treaty Section, Mr David Nanopoulos, observing.*
 
 * On 25 February 2020 , Singapore and Fiji became the first two countries to deposit their respective instruments of ratification of the Convention at the United Nations Headquarters in New York. 
 
