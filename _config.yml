@@ -49,4 +49,6 @@ collections:
     output: true
   sg-convention-week:
     output: true
+  SCM-2019:
+    output: true
 resources_name: media
