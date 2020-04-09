@@ -4,7 +4,7 @@ title: Experience Singapore
 permalink: /programe/experience-sg/
 breadcrumb: Experience Singapore
 collection_name: about-conference
-second_nav_title: "Experience Singapore"
+second_nav_title: "Programme"
 ---
 
 Experience Singapore
