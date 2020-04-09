@@ -1,8 +1,8 @@
 ---
-layout: simple-page
+layout: leftnav-page-content
+title: Conference Reports
 permalink: /SCM-2019/conference-reports/
 breadcrumb: SCM 2019 Conference Reports
-title: Conference Reports
 collection-name:SCM-2019
 ---
 
