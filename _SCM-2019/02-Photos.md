@@ -14,7 +14,7 @@ img[src*="#thumbnail"] {
 </style>
 
 ### **Photos**
-![Album](/images/album-welcome-reception.jpg#thumbnail)
+![Album][(/images/album-welcome-reception.jpg#thumbnail)](https://www.mlaw.gov.sg)
 Singapore Convention Welcome Reception
 |
 ![Album](/images/album-signing-ceremony.jpg)
