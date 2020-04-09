@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Singapore Convention on Mediation opens for signature on 7 August
-date:   2019-06-18
+date:   2019-07-22
 permalink: /media/media-release/SMC-opens-for-signature
 ---
 
