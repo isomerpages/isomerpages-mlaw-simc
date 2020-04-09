@@ -1,7 +1,7 @@
 ---
 layout: simple-page
-permalink: /SCM-2019/conference-reports/
-breadcrumb: SCM 2019 Conference Reports
+permalink: /SCM-2019/old
+breadcrumb: SCM 2019 Conference
 title: Conference Reports
 ---
 
