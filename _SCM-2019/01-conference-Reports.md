@@ -2,6 +2,7 @@
 layout: simple-page
 permalink: /SCM-2019/conference-reports/
 breadcrumb: SCM 2019 Conference
+collection_name: SCM-2019
 title: Conference Reports
 ---
 
