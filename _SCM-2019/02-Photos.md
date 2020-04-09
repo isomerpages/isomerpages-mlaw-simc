@@ -41,7 +41,7 @@ Click on the album photo to view all the photos.
   Panel Discussions & Breakout Sessions<br><br>
   </div>
    <div class="column">
-  <a href="https://www.mlaw.gov.sg">
+  <a href="https://www.dropbox.com/sh/1c43dt6ww6glrrm/AAA69LY6SG8rpcq5ZeCF_8pOa/Singapore%20Convention%20Gala%20Dinner?dl=0&subfolder_nav_tracking=1"  target="_blank">
     <img src="/images/album-gala-dinner.jpg" title="Singapore Convention Gala Dinner" alt="Singapore Convention on Mediation 2019"></a><br>
   Singapore Convention Gala Dinner
   </div>
