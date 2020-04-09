@@ -10,7 +10,8 @@ second_nav_title: "Gallery"
 Click on the album photo to view all the photos.
 <style>
 .row {
-  <!--display: flex;-->
+  display: flex;
+  height: 150px;
 }
   
 .row .column {
