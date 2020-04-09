@@ -6,13 +6,6 @@ title: SCM 2019 Photos
 collection_name: SCM-2019
 second_nav_title: "Gallery"
 ---
-<style>
-img[src*="#thumbnail"] {
-   width:350px;
-   <!--height:100px;-->
-}
-</style>
-
 ### **Photos**
 
 <style>
@@ -26,7 +19,7 @@ img[src*="#thumbnail"] {
 
 .row .column img {
   width: 300px;
-  height: 300px;
+  <!--height: 300px;-->
 }
 </style>
 <div class="row">
