@@ -1,9 +1,8 @@
 ---
-layout: leftnav-page-content
+layout: simple-page
+permalink: /SCM-2019/old
+breadcrumb: SCM 2019 Conference
 title: Conference Reports
-permalink: /SCM-2019/conference-reports/
-breadcrumb: SCM 2019 Conference Reports
-collection-name:SCM-2019
 ---
 
 ### **Conference Reports**
@@ -54,6 +53,5 @@ Setting Standards for Dispute Resolution in an AI Age
 Efficiencies and Alliances in Partnerships
 
 [Read Report](../pdf/8-Report-Breakout-Session-4.pdf){:target="_blank"}
-
 
 
