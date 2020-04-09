@@ -49,12 +49,12 @@ Click on the album photo to view all the photos.
 
 <div class="row">
   <div class="column">
-  <a href="https://www.mlaw.gov.sg">
+  <a href="https://www.dropbox.com/sh/1c43dt6ww6glrrm/AADWHs1YvcgOOUp4-dNAoN4Ca/Grand%20Opening%20of%20Maxwell%20Chambers%20Suites?dl=0&subfolder_nav_tracking=1"  target="_blank">
     <img src="/images/album-granding-opening.jpg" title="Grand Opening of Maxwell Chambers Suites" alt="Singapore Convention on Mediation 2019"></a><br>
   Grand Opening of Maxwell Chambers Suites<br><br>
   </div>
    <div class="column">
-  <a href="https://www.mlaw.gov.sg">
+  <a href="https://www.dropbox.com/sh/1c43dt6ww6glrrm/AAC1smNDuwiArkPLj4qRz1bfa/Experience%20Singapore?dl=0&subfolder_nav_tracking=1"  target="_blank">
     <img src="/images/album-experience-singapore.jpg" title="Experience Singapore" alt="Singapore Convention on Mediation 2019"></a><br>
   Experience Singapore
   </div>
