@@ -1,5 +1,5 @@
 ---
-layout: test
+layout: leftnav-page-content
 title: test
 permalink: /test/
 breadcrumb: test page
