@@ -42,14 +42,29 @@ img[src*="#thumbnail"] {
   </div>
 </div>
   
+<div class="row">
+  <div class="column">
+  <a href="https://www.mlaw.gov.sg">
+    <img src="/images/album-welcome-reception.jpg" title="Welcome Reception" alt="Singapore Convention on Mediation 2019"><br>
+  Panel Discussions & Breakout Sessions</a>
+  </div>
+   <div class="column">
+  <a href="https://www.mlaw.gov.sg">
+    <img src="/images/album-signing-ceremony.jpg" title="Singapore Ceremony alt="Singapore Convention on Mediation 2019"><br>
+  Singapore Convention Gala Dinner</a>
+  </div>
+</div>
 
-Panel Discussions & Breakout Sessions
-
-![Album](/images/album-signing-ceremony.jpg)
-Singapore Convention Gala Dinner
-
-![Album](/images/album-signing-ceremony.jpg)
-Grand Opening of Maxwell Chambers Suites
-
-![Album](/images/album-signing-ceremony.jpg)
-Experience Singapore
+<div class="row">
+  <div class="column">
+  <a href="https://www.mlaw.gov.sg">
+    <img src="/images/album-welcome-reception.jpg" title="Welcome Reception" alt="Singapore Convention on Mediation 2019"><br>
+  Grand Opening of Maxwell Chambers Suites</a>
+  </div>
+   <div class="column">
+  <a href="https://www.mlaw.gov.sg">
+    <img src="/images/album-signing-ceremony.jpg" title="Singapore Ceremony alt="Singapore Convention on Mediation 2019"><br>
+  Experience Singapore</a>
+  </div>
+</div>
+                                                                                                                        
