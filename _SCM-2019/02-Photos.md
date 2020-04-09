@@ -8,8 +8,8 @@ second_nav_title: "Gallery"
 ---
 <style>
 img[src*="#thumbnail"] {
-   width:150px;
-   height:100px;
+   width:350px;
+   <!--height:100px;-->
 }
 </style>
 
