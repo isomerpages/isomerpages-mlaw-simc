@@ -30,7 +30,7 @@ Click on the album photo to view all the photos.
   </div>
    <div class="column">
   <a href="https://www.dropbox.com/sh/1c43dt6ww6glrrm/AABgqW18D7PFRrjEtbf-Fjuqa/Singapore%20Convention%20Signing%20Ceremony%20and%20Conference?dl=0&subfolder_nav_tracking=1"  target="_blank">
-    <img src="/images/album-signing-ceremony.jpg" title="Singapore Convention Signing Ceremony and Conference" alt="Singapore Convention on Mediation 2019"></a><br>Singapore Convention Signing Ceremony and Conference
+<img src="/images/album-signing-ceremony.jpg" title="Singapore Convention Signing Ceremony and Conference" alt="Singapore Convention on Mediation 2019"></a><br>Singapore Convention Signing Ceremony and Conference
   </div>
 </div>
   
