@@ -37,12 +37,12 @@ second_nav_title: "Gallery"
 <div class="row">
   <div class="column">
   <a href="https://www.mlaw.gov.sg">
-    <img src="/images/album-welcome-reception.jpg" title="Welcome Reception" alt="Singapore Convention on Mediation 2019"><br>
+    <img src="/images/album-panel-breakout.jpg" title="Panel Discussions & Breakout Sessions" alt="Singapore Convention on Mediation 2019"><br>
   Panel Discussions & Breakout Sessions</a>
   </div>
    <div class="column">
   <a href="https://www.mlaw.gov.sg">
-    <img src="/images/album-signing-ceremony.jpg" title="Singapore Ceremony alt="Singapore Convention on Mediation 2019"><br>
+    <img src="/images/album-gala-dinner.jpg" title="Singapore Convention Gala Dinner" alt="Singapore Convention on Mediation 2019"><br>
   Singapore Convention Gala Dinner</a>
   </div>
 </div>
@@ -50,12 +50,12 @@ second_nav_title: "Gallery"
 <div class="row">
   <div class="column">
   <a href="https://www.mlaw.gov.sg">
-    <img src="/images/album-welcome-reception.jpg" title="Welcome Reception" alt="Singapore Convention on Mediation 2019"><br>
+    <img src="/images/album-granding-opening.jpg" title="Grand Opening of Maxwell Chambers Suites" alt="Singapore Convention on Mediation 2019"><br>
   Grand Opening of Maxwell Chambers Suites</a>
   </div>
    <div class="column">
   <a href="https://www.mlaw.gov.sg">
-    <img src="/images/album-signing-ceremony.jpg" title="Singapore Ceremony alt="Singapore Convention on Mediation 2019"><br>
+    <img src="/images/album-experience-singapore.jpg" title="Experience Singapore" alt="Singapore Convention on Mediation 2019"><br>
   Experience Singapore</a>
   </div>
 </div>
