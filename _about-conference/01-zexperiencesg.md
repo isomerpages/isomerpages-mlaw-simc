@@ -8,3 +8,4 @@ second_nav_title: "Other Programme"
 ---
 
 Experience Singapore
+![Experience Singapore](/images/expsg-gardens.jpeg/)
