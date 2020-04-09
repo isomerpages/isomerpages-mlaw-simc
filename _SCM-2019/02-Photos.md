@@ -7,7 +7,6 @@ collection_name: SCM-2019
 second_nav_title: "Gallery"
 ---
 ### **Photos**
-Click on the album photo to view all the photos.
 <style>
 .row {
   display: flex;
