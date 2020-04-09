@@ -5,14 +5,14 @@ permalink: /about/about-convention/
 breadcrumb: About Convention
 collection_name: about-the-convention
 ---
-<!--
+
 <style>
   .image {width: 720px;}
   .image {max-width: 100%; max-height:100%; object-fit: contain;}
   .image {width: auto; height: auto;}
 }         
 </style>
--->
+
 <!--
 <div class="image1">
   <img src="/images/Abt-960W.jpg/" title="About Convention" alt="About Convention"></div>
@@ -26,7 +26,8 @@ The Singapore Convention will facilitate international trade and commerce by ena
 For more details, please view the [Convention Text](/about/the-convention-text)
 
 ### **Key Milestones**
-// image of signing
+<div class="image1">
+  <img src="/images/about-signing.jpg/" title="About Convention" alt="About Convention"></div>
   
 * In December 2018, the United Nations General Assembly adopted, by consensus, the United Nations Convention on International Settlement Agreements Resulting from Mediation, recommended that the Convention be known as the “Singapore Convention on Mediation”, and authorised the signing ceremony of the Convention to be held in Singapore on 7 August 2019.
 * Forty-six countries, including the world’s two largest economies, the United States and China, and three of the four largest economies in Asia, China, India and South Korea, signed the Convention on the day it opened for signature, while another 24 countries attended the
