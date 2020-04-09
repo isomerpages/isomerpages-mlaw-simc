@@ -6,7 +6,7 @@ breadcrumb: Organisers and Partners
 collection_name: about-conference
 ---
 <style>
-  .image {width: 450px;}
+  .image {width: 400px;}
   .image1 img {max-width: 100%;}
   .logo {margin: 5px;
   border: 0px solid #ccc;
