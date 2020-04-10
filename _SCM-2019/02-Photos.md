@@ -18,7 +18,7 @@ second_nav_title: "Gallery"
 }
 
 .row .column img {
-  width: 300px;
+  width: 500px;
   <!--height: 300px;-->
 }
 </style>
