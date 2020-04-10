@@ -30,7 +30,7 @@ second_nav_title: "Gallery"
   </div>
    <div class="column">
   <a href="https://www.youtube.com/embed/tda0GLO9WtQ?rel=0&autoplay=1"  target="_blank">
-<img src="/images/vid-SCM-signing-ceremony.jpg" title="Singapore Convention Signing Ceremony and Conference" alt="Singapore Convention on Mediation 2019"></a><br>Singapore Convention on Mediation Signing Ceremony<br><br>
+<img src="/images/vid-SCM-signing-ceremony.jpg" title="Singapore Convention Signing Ceremony and Conference" alt="Singapore Convention on Mediation 2019"></a><br>Singapore Convention on Mediation Signing Ceremony<br><br><br><br>
   </div>
 </div>
   
