@@ -54,7 +54,7 @@ info-sections:
   - section-subtitle: Organisers
     # section-more-button: 
     section-more-button-url: /conference/organisers-and-partners/
-    section-image-path: /images/sponsor-logos.png
+    section-image-path: /images/sponsors-logos.png
    
 # Resources Section
 resources-title:  Media
