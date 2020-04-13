@@ -50,7 +50,7 @@ permalink: /media/media-release/States-signed-international-treaty
                       </ol>
 					  
 <b> MINISTRY OF LAW </b> <br>
-<b> 07 August 2019 </b>  <br>
+<b> 07 August 2019 </b>  <br> <br>
                       
 <b> Media Contact </b> <br>
 Helenn Loh <br>
