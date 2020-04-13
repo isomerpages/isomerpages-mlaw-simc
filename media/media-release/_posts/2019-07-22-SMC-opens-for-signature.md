@@ -23,10 +23,10 @@ permalink: /media/media-release/SMC-opens-for-signature
 
 Please see attached information sheet and visit <a href="https://www.singaporeconvention.org" target="_blank"> https://www.singaporeconvention.org</a>  for more information on the Singapore Convention Signing Ceremony and Conference.
 
-#### MINISTRY OF LAW
-#### 22 JULY 2019
+<b> MINISTRY OF LAW </b> <br>
+<b> 22 JULY 2019 </b> <br>
                       
-#### Media Contact
+<b> Media Contact </b> <br>
 
 Helenn Loh<br/>
 Assistant Director, Corporate Communications Division<br/>
