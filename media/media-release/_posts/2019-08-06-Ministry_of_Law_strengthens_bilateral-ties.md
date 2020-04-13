@@ -20,7 +20,7 @@ permalink: /media/media-release/strengthens-bilateral-ties
                       </ol>
  
 <b> MINISTRY OF LAW </b> <br>
-<b> 06 August 2019 </b>
+<b> 06 August 2019 </b> <br>
                       
 <b> Media Contact <br>
 Helenn Loh <br>
