@@ -26,11 +26,11 @@ second_nav_title: "Gallery"
   <div class="column">
   <a href="https://www.youtube.com/embed/PmRTkEGYHz0?rel=0&autoplay=1" target="_blank">
     <img src="/images/vid-formal-addresses.jpg" title="Formal Addresses" alt="Singapore Convention on Mediation 2019"></a><br>
-  Formal Addresses by PM Lee Hsien Loong and UN ASG Mr Stephen Mathias<br><br>
+    <b>Formal Addresses by PM Lee Hsien Loong and UN ASG Mr Stephen Mathias</b><br><br>
   </div>
    <div class="column">
   <a href="https://www.youtube.com/embed/tda0GLO9WtQ?rel=0&autoplay=1"  target="_blank">
-<img src="/images/vid-SCM-signing-ceremony.jpg" title="Singapore Convention Signing Ceremony and Conference" alt="Singapore Convention on Mediation 2019"></a><br>Singapore Convention on Mediation Signing Ceremony<br><br><br>
+<img src="/images/vid-SCM-signing-ceremony.jpg" title="Singapore Convention Signing Ceremony and Conference" alt="Singapore Convention on Mediation 2019"></a><br><b>Singapore Convention on Mediation Signing Ceremony</b><br><br><br>
   </div>
 </div>
   
@@ -85,7 +85,7 @@ second_nav_title: "Gallery"
 
 <div class="row">
   <div class="column">
-  <a href="https://www.youtube.com/embed/JTnSmaxpIKU?rel=0&autoplay=1"  target="_blank">
+  <a href="https://www.youtube.com/embed/H9dRramz9mw?rel=0&autoplay=1"  target="_blank">
     <img src="/images/vid-overall-highlights.jpg" title="Overall Highights" alt="Singapore Convention on Mediation 2019"></a><br><b>Overall Highlights Video of SCM</b><br><br>
   </div>
   <div class="column"></div>
