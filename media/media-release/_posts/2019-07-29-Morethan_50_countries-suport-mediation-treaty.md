@@ -235,15 +235,13 @@ Mobile: <a href="tel:+6597270537"> 9727 0537 </a>
  <br> <br>
  
  <a name="Annex_C"> </a>
- <b> <a href="#Annex_C"> Annex C </a> – Launch of the INSOL Asia Hub, Grand Opening of Maxwell Chambers Suites and inaugural IBA Asia Pacific Arbitration Conference  </b>
-                        <b>LAUNCH OF THE INSOL ASIA HUB </b>
-                        <ul >
-                            <li>
-                                <p>
-                                    On 3 April 2019, INSOL International and the Ministry of Law announced that INSOL will locate its Asia hub in Singapore. The INSOL Asia Hub in Singapore will be its first overseas office since it was established in London in 1982. The new office will be located at Maxwell Chambers Suites.
-                                </p>
-                            </li>
-                            <li>
+ <b> <a href="#Annex_C"> Annex C </a> – Launch of the INSOL Asia Hub, Grand Opening of Maxwell Chambers Suites and inaugural IBA Asia Pacific Arbitration Conference  </b> <br>
+ <b>LAUNCH OF THE INSOL ASIA HUB </b>
+ <ul >
+   <li>
+     On 3 April 2019, INSOL International and the Ministry of Law announced that INSOL will locate its Asia hub in Singapore. The INSOL Asia Hub in Singapore will be its first overseas office since it was established in London in 1982. The new office will be located at Maxwell Chambers Suites.
+     </li>
+   <li>
                                 <p>
                                     INSOL is a worldwide federation of national associations of accountants and lawyers who specialise in turnaround and insolvency. There are currently over 44 member associations, with over 10,500 restructuring and insolvency professionals participating as INSOL members. INSOL also has ancillary groups that represent that judiciary, regulators, lenders and academics. 
                                 </p>
