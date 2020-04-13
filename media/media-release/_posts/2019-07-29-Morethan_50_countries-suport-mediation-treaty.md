@@ -45,7 +45,7 @@ permalink: /media/media-release/suport-mediation-treaty
                          
 <p>	<a href="#Annex_A"> Annex A </a> : List of countries attending the Singapore Convention Signing Ceremony and Conference (subject to change; as of 28 July 2019) </p>
 
-<a href="assets/pdf/SCMPressRelease-29July-AnnexB-Programme.pdf" class="linkunderline" target="_blank"> Annex B</a> : Programme of the Singapore Convention Week  
+<a href="../pdf/SCMPressRelease-29July-AnnexB-Programme.pdf" class="linkunderline" target="_blank"> Annex B</a> : Programme of the Singapore Convention Week  
   
 <a href="#Annex_C"> Annex C</a> – Launch of the INSOL Asia Hub, Grand Opening of Maxwell Chambers Suites and inaugural IBA Asia Pacific Arbitration Conference 
   
