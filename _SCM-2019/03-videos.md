@@ -38,7 +38,7 @@ second_nav_title: "Gallery"
   <div class="column">
   <a href="https://www.youtube.com/embed/NfAddH56D0w?rel=0&autoplay=1"  target="_blank">
     <img src="/images/album-panel-breakout.jpg" title="Panel Discussions & Breakout Sessions" alt="Singapore Convention on Mediation 2019"></a><br>
-  <b>Panel 1</b>Multilateralism, International Collaboration and Rule of Law in an Evolving World<br><br>
+  <b>Panel 1</b><br>Multilateralism, International Collaboration and Rule of Law in an Evolving World<br><br>
   </div>
    <div class="column">
   <a href="https://www.youtube.com/embed/dvjOitAcAtY?rel=0&autoplay=1"  target="_blank">
