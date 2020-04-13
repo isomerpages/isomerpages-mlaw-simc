@@ -73,12 +73,12 @@ second_nav_title: "Gallery"
 
 <div class="row">
   <div class="column">
-  <a href="https://www.youtube.com/embed/JTnSmaxpIKU?rel=0&autoplay=1"  target="_blank">
-    <img src="/images/vid-highlights-welcome-recep.jpg" title="Highights:Welcome Reception" alt="Singapore Convention on Mediation 2019"></a><br><b>Highlights Video: Welcome Reception at Clifford Pier and Shangri-La</b><br><br>
+  <a href="https://www.youtube.com/embed/aDvFYelaK3M?rel=0&autoplay=1"  target="_blank">
+    <img src="/images/vid-highlights-welcome-recep.jpg" title="Highights Welcome Reception" alt="Singapore Convention on Mediation 2019"></a><br><b>Highlights Video: Welcome Reception at Clifford Pier and Shangri-La</b><br><br>
   </div>
  </div>
    <div class="column">
-  <a href="https://www.youtube.com/embed/CHnz1xN0Awg?rel=0&autoplay=1"  target="_blank">
+  <a href="https://www.youtube.com/embed/8skc2-k4gq4?rel=0&autoplay=1"  target="_blank">
     <img src="/images/vid-highlights-orchid-and-signing-ceremony.jpg" title="Highlights Video" alt="Singapore Convention on Mediation 2019"></a><br>
   <b>Highlights Video: Signing Ceremony and Orchid-Naming Ceremony</b><br><br>
   </div>
@@ -89,6 +89,6 @@ second_nav_title: "Gallery"
   <a href="https://www.youtube.com/embed/JTnSmaxpIKU?rel=0&autoplay=1"  target="_blank">
     <img src="/images/vid-highlights-welcome-recep.jpg" title="Overall Highights" alt="Singapore Convention on Mediation 2019"></a><br><b>Overall Highlights Video of SCM</b><br><br>
   </div>
-  <div class="column">
+  <div class="column">Test
   </div>
 </div>
