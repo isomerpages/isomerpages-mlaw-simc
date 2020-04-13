@@ -22,7 +22,7 @@ permalink: /media/media-release/suport-mediation-treaty
 
 7.   Over 1,500 delegates are expected to attend the Singapore Convention Signing Ceremony and Conference and related events during Singapore Convention Week. They include prominent judges, senior partners of major law firms, other senior practitioners, scholars, Presidents of Law Associations, Courts and Boards of top dispute resolution institutions, General Counsel of large MNCs and business leaders. A series of Experience Singapore programmes will be organised for the foreign delegates to introduce them to Singapore. They will be hosted by some 50 Junior College students from some 13 schools who will serve as Singapore Convention Youth Ambassadors as part of a youth involvement programme. More than 40% of the foreign delegates have signed up for these programmes, extending their stay in Singapore.
  
- #### Official Opening of INSOL Asia Hub 
+<b> Official Opening of INSOL Asia Hub </b>
  
  8.  On 5 August 2019, INSOL will be opening its Asia Hub in Singapore. More than 100 insolvency professionals, including legal practitioners, accountants, consultants, banks, distressed debt funders, third party funders, judges, and government officials are expected to attend the event.
  
@@ -30,14 +30,14 @@ permalink: /media/media-release/suport-mediation-treaty
  
  10.  With recent legislative reforms Singapore now has one of the most forward-looking, balanced and flexible debt restructuring regimes in Asia. The enhanced regime strikes an appropriate balance between stakeholders’ interests – enabling companies to restructure successfully while protecting creditors’ rights. Singapore also won the “Most Improved Jurisdiction” at the inaugural Global Restructuring Review Awards in 2017. INSOL’s presence will add to the vibrancy and development of this sector in Singapore and in the region.
   
-  #### Inaugural IBA Asia Pacific Arbitration Conference 
+ <b> Inaugural IBA Asia Pacific Arbitration Conference </b>
   
  11. On 6 August 2019, the International Bar Association will hold in Singapore its inaugural Asia Pacific Arbitration Conference. Established in 1947, the IBA is a leading professional organisation with a reach of more than 80,000 international lawyers and 190 bar associations from some 170 countries. It provides assistance to the global legal community, and through its global membership, influences the
                                 development of international law reform and shapes the future of the legal profession throughout the world. 
  
  12. This inaugural conference is presented by the IBA Arbitration Committee and the Asia Pacific Arbitration Group, supported by the IBA Asia Pacific Regional Forum. Singapore was chosen as the first stop for this new annual event on IBA’s calendar. The conference will feature 17 prominent speakers from 8 cities around the world. About 100 legal and arbitration practitioners, arbitrators, in-house counsel, and government officials are expected to attend the event at Maxwell Chambers.
 
- #### Grand Opening of Maxwell Chambers Suites 
+<b> Grand Opening of Maxwell Chambers Suites </b>
  
  13. On 8 August 2019, Maxwell Chambers Suites, an extension of Maxwell Chambers, will officially open. Established in 2010, Maxwell Chambers was the world’s first integrated dispute resolution complex, housing both purpose-built hearing facilities for arbitration and mediation, as well as offices for dispute resolution institutions and firms. Its extension, Maxwell Chambers Suites, was constructed to meet growing demand for dispute resolution work, and further expand the eco-system of legal service providers that use Singapore as a base to service the region. Dedicated to housing dispute resolution institutions and firms, the beautifully conserved building will add 120,000 square feet of floor space and triple the complex’s capacity. Over 300 foreign ministers, chief justices, attorney-generals and heads of delegation, as well as local and international legal and dispute resolution practitioners, in-house counsel, C-suite executives and government officials are also expected to attend the event.
 
@@ -51,7 +51,7 @@ permalink: /media/media-release/suport-mediation-treaty
   
 <a href="#Annex_D"> Annex D </a> – Singapore Convention on Mediation 
 
- #### MINISTRY OF LAW<br /> 29 JULY 2019 
+ <b> MINISTRY OF LAW<br /> 29 JULY 2019 
                       
 #### Media Contact <br>
 Helenn Loh <br>
@@ -60,7 +60,7 @@ Email: <a href="mailto:Helenn_loh@mlaw.gov.sg">Helenn_loh@mlaw.gov.sg </a> <br>
 Mobile: <a href="tel:+6597270537"> 9727 0537 </a> 
 
  <a name="Annex_A"> </a>
- #### <a href="#Annex_A"> Annex A: </a>  List of countries attending the Singapore Convention Signing Ceremony and Conference (subject to change; as of 28 July 2019) 
+<b> <a href="#Annex_A"> Annex A: </a>  List of countries attending the Singapore Convention Signing Ceremony and Conference (subject to change; as of 28 July 2019) 
                       
   <table>
                             <tr>
