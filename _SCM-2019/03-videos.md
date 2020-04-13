@@ -89,4 +89,6 @@ second_nav_title: "Gallery"
   <a href="https://www.youtube.com/embed/JTnSmaxpIKU?rel=0&autoplay=1"  target="_blank">
     <img src="/images/vid-highlights-welcome-recep.jpg" title="Overall Highights" alt="Singapore Convention on Mediation 2019"></a><br><b>Overall Highlights Video of SCM</b><br><br>
   </div>
+  <div class="column">
+  </div>
 </div>
