@@ -42,7 +42,7 @@ second_nav_title: "Gallery"
   </div>
    <div class="column">
   <a href="https://www.youtube.com/embed/dvjOitAcAtY?rel=0&autoplay=1"  target="_blank">
-    <img src="/images/album-gala-dinner.jpg" title="Singapore Convention Gala Dinner" alt="Singapore Convention on Mediation 2019"></a><br>Lunch-time Panel<br>on the Negotiation of the Convention on Mediation
+    <img src="/images/album-gala-dinner.jpg" title="Singapore Convention Gala Dinner" alt="Singapore Convention on Mediation 2019"></a><br><b>Lunch-time Panel</b><br>on the Negotiation of the Convention on Mediation
   </div>
 </div>
 
@@ -54,7 +54,7 @@ second_nav_title: "Gallery"
    <div class="column">
   <a href="https://www.youtube.com/embed/CHnz1xN0Awg?rel=0&autoplay=1"  target="_blank">
     <img src="/images/album-experience-singapore.jpg" title="Experience Singapore" alt="Singapore Convention on Mediation 2019"></a><br>
-  Panel 3<br>The Rise of Mediation: Bridging Differences for Tomorrow
+  <b>Panel 3</b><br>The Rise of Mediation: Bridging Differences for Tomorrow
   </div>
 </div>
                                                                                                                         
