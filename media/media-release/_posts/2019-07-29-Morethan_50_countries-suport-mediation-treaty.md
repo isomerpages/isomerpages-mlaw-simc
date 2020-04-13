@@ -232,9 +232,9 @@ Mobile: <a href="tel:+6597270537"> 9727 0537 </a>
                                 <td class="font-weight-bold">Yemen </td>
                             </tr>
                         </table>
-               <br><br>
-                        <a name="Annex_C"> </a>
-                        <p><strong><a href="#Annex_C" class="linkunderline"> Annex C</a> – Launch of the INSOL Asia Hub, Grand Opening of Maxwell Chambers Suites and inaugural IBA Asia Pacific Arbitration Conference  </strong></p>
+               <br> <br>
+ <a name="Annex_C"> </a>
+                        <p> <strong><a href="#Annex_C" class="linkunderline"> Annex C </a> – Launch of the INSOL Asia Hub, Grand Opening of Maxwell Chambers Suites and inaugural IBA Asia Pacific Arbitration Conference  </strong> </p>
                         <h5 class="text-center text-underline">LAUNCH OF THE INSOL ASIA HUB </h5>
                         <ul >
                             <li>
