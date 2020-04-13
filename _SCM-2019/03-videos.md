@@ -76,7 +76,6 @@ second_nav_title: "Gallery"
   <a href="https://www.youtube.com/embed/aDvFYelaK3M?rel=0&autoplay=1"  target="_blank">
     <img src="/images/vid-highlights-welcome-recep.jpg" title="Highights Welcome Reception" alt="Singapore Convention on Mediation 2019"></a><br><b>Highlights Video - Welcome Reception at Clifford Pier and Shangri-La</b><br><br>
   </div>
- </div>
    <div class="column">
   <a href="https://www.youtube.com/embed/8skc2-k4gq4?rel=0&autoplay=1"  target="_blank">
     <img src="/images/vid-highlights-orchid-and-signing-ceremony.jpg" title="Highlights Video" alt="Singapore Convention on Mediation 2019"></a><b>Highlights Video - Signing Ceremony and Orchid-Naming Ceremony</b><br><br>
