@@ -79,8 +79,7 @@ second_nav_title: "Gallery"
  </div>
    <div class="column">
   <a href="https://www.youtube.com/embed/8skc2-k4gq4?rel=0&autoplay=1"  target="_blank">
-    <img src="/images/vid-highlights-orchid-and-signing-ceremony.jpg" title="Highlights Video" alt="Singapore Convention on Mediation 2019"></a><br>
-  <b>Highlights Video: Signing Ceremony and Orchid-Naming Ceremony</b><br><br>
+    <img src="/images/vid-highlights-orchid-and-signing-ceremony.jpg" title="Highlights Video" alt="Singapore Convention on Mediation 2019"></a><b>Highlights Video: Signing Ceremony and Orchid-Naming Ceremony</b><br><br>
   </div>
 </div>
 
