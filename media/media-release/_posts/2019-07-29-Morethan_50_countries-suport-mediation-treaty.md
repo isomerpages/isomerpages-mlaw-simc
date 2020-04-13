@@ -235,7 +235,7 @@ Mobile: <a href="tel:+6597270537"> 9727 0537 </a>
  <br> <br>
  <a name="Annex_C"> </a>
  <b> <a href="#Annex_C" class="linkunderline"> Annex C </a> – Launch of the INSOL Asia Hub, Grand Opening of Maxwell Chambers Suites and inaugural IBA Asia Pacific Arbitration Conference  </b>
-                        <h5 class="text-center text-underline">LAUNCH OF THE INSOL ASIA HUB </h5>
+                        <h5>LAUNCH OF THE INSOL ASIA HUB </h5>
                         <ul >
                             <li>
                                 <p>
