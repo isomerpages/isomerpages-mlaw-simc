@@ -61,11 +61,32 @@ second_nav_title: "Gallery"
 <div class="row">
   <div class="column">
   <a href="https://www.youtube.com/embed/JTnSmaxpIKU?rel=0&autoplay=1"  target="_blank">
-    <img src="/images/vid-closing-remarks.jpg" title="Closing Remarks " alt="Singapore Convention on Mediation 2019"></a><br>Closing Remarks by UNCITRAL Secretary, Ms Anna Joubin-Bret<br><br>
+    <img src="/images/vid-closing-remarks.jpg" title="Closing Remarks " alt="Singapore Convention on Mediation 2019"></a><br><b>Closing Remarks by UNCITRAL Secretary, Ms Anna Joubin-Bret</b><br><br>
   </div>
    <div class="column">
   <a href="https://www.youtube.com/embed/CHnz1xN0Awg?rel=0&autoplay=1"  target="_blank">
     <img src="/images/vid-dinner-address-by-DPM.jpg" title="Singapore Convention Gala Dinner" alt="Singapore Convention on Mediation 2019"></a><br>
   <b>Singapore Convention Gala Dinner</b><br><br>
+  </div>
+</div>
+
+
+<div class="row">
+  <div class="column">
+  <a href="https://www.youtube.com/embed/JTnSmaxpIKU?rel=0&autoplay=1"  target="_blank">
+    <img src="/images/vid-highlights-welcome-recep.jpg" title="Highights:Welcome Reception" alt="Singapore Convention on Mediation 2019"></a><br><b>Highlights Video: Welcome Reception at Clifford Pier and Shangri-La</b><br><br>
+  </div>
+ </div>
+   <div class="column">
+  <a href="https://www.youtube.com/embed/CHnz1xN0Awg?rel=0&autoplay=1"  target="_blank">
+    <img src="/images/vid-highlights-orchid-and-signing-ceremony.jpg" title="Highlights Video" alt="Singapore Convention on Mediation 2019"></a><br>
+  <b>Highlights Video: Signing Ceremony and Orchid-Naming Ceremony</b><br><br>
+  </div>
+</div>
+
+<div class="row">
+  <div class="column">
+  <a href="https://www.youtube.com/embed/JTnSmaxpIKU?rel=0&autoplay=1"  target="_blank">
+    <img src="/images/vid-highlights-welcome-recep.jpg" title="Overall Highights" alt="Singapore Convention on Mediation 2019"></a><br><b>Overall Highlights Video of SCM</b><br><br>
   </div>
 </div>
