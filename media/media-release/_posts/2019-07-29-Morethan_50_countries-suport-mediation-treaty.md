@@ -399,12 +399,12 @@ Mobile: <a href="tel:+6597270537"> 9727 0537 </a>
                         </ul>  
  <a name="Annex_D"> </a>
 <b> <a href="#Annex_D"> Annex D </a> – Singapore Convention on Mediation </b>
-                        <b> Background to the Convention </b>
-                        <ul>
-                            <li>
-                                <p> The United Nations Commission on International Trade Law (“UNCITRAL”) is the core legal body of the United Nations system in the field of international trade law. UNCITRAL’s Working Group II (“WGII”) on Dispute Settlement has been working on instruments to provide for the cross-border enforcement of international commercial settlement agreements reached through mediation.</p>
-                            </li>
-                            <li>
+<b> Background to the Convention </b>
+ <ul>
+  <li>
+ The United Nations Commission on International Trade Law (“UNCITRAL”) is the core legal body of the United Nations system in the field of international trade law. UNCITRAL’s Working Group II (“WGII”) on Dispute Settlement has been working on instruments to provide for the cross-border enforcement of international commercial settlement agreements reached through mediation.
+</li>
+ <li>
                                 <p>In February 2018, WGII finalised (i) the United Nations Convention on International Settlement Agreements Resulting from Agreement (“the Convention”); as well as (ii) amendments to the Model Law on International Commercial Conciliation (2002). </p>
                             </li>
                             <li>
