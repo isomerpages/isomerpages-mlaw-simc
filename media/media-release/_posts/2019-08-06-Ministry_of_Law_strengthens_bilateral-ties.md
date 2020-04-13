@@ -18,3 +18,12 @@ permalink: /media/media-release/strengthens-bilateral-ties
                           <p>There were also bilateral meetings with the Benin’s Minister of Justice and Legislation Sévérin Maxime Quenum, Lao PDR Minister of Justice Xaysi Santivong, Philippines’s Secretary of Justice Menardo I. Guevarra, Turkey’s Deputy Minister of Justice Zekeriya Birkan, and Turkmenistan’s Deputy Minister of Justice Merettagan Taganov, where we reaffirmed our warm relations with these countries.</p>
                         </li>
                       </ol>
+ 
+<b> MINISTRY OF LAW </b> <br>
+<b> 06 August 2019 </b>
+                      
+#### Media Contact <br>
+Helenn Loh <br>
+Assistant Director, Corporate Communications Division<br>
+Email: <a href="mailto:Helenn_loh@mlaw.gov.sg">Helenn_loh@mlaw.gov.sg </a> <br>
+Mobile: <a href="tel:+6597270537"> 9727 0537 </a> 
