@@ -10,6 +10,7 @@ second_nav_title: "Gallery"
 <style>
 .row {
   display: flex;
+  width:350px;
   
 }
   
