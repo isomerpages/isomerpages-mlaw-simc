@@ -1,11 +1,13 @@
 ---
 layout: leftnav-page-content
 title: Experience Singapore
-permalink: /programe/experience-sg/
-breadcrumb: Experience Singapore
+permalink: /programe/
+breadcrumb: Programme and Experience Singapore
 collection_name: about-conference
-second_nav_title: "Other Programme"
+second_nav_title: "Programme"
 ---
+### **Programme**
+To be updated
 
 ### **Experience Singapore** 
 ![Experience Singapore](/images/expsg-gardens.jpeg/)
