@@ -11,7 +11,7 @@ permalink: /media/media-release/suport-mediation-treaty
 
 3.    The Singapore Convention Signing Ceremony and Conference will be part of a series of related events which will take place during the Singapore Convention Week from 2 to 8 August 2019, including the official launch of the INSOL Asia Hub in Singapore, the inaugural International Bar Association (IBA) Asia Pacific Arbitration Conference and the grand opening of Maxwell Chambers Suites. Together with the Singapore Convention on Mediation, these initiatives will give a further boost to Singapore’s position as a leading international legal hub in Asia, and the world.
                         
-#### Singapore Convention Signing Ceremony and Conference 
+<b> Singapore Convention Signing Ceremony and Conference </b> 
 
 4.   MinLaw and UNCITRAL will be holding the Singapore Convention Signing Ceremony and Conference at the Shangri-La Hotel, Singapore on 6 – 7 August 2019. Singapore Prime Minister Lee Hsien Loong and Stephen Mathias, Assistant Secretary-General for Legal Affairs, United Nations, will deliver the formal addresses at the conference. Topics to be discussed include emerging issues relating to business, international trade law and dispute resolution, the rise of mediation as an alternative way to resolve dispute resolution and the future of international dispute resolution. Singapore Deputy Prime Minister and Minister for Finance Heng Swee Keat will deliver the keynote address at the gala dinner that evening.
 
@@ -397,9 +397,9 @@ Mobile: <a href="tel:+6597270537"> 9727 0537 </a>
                                 <p>About 100 legal and arbitration practitioners, arbitrators, in-house counsel, and government officials are expected to attend the event at Maxwell Chambers.</p>
                             </li>
                         </ul>  
-                        <a name="Annex_D"></a>
-                        <p><strong><a href="#Annex_D" class="linkunderline">Annex D</a> – Singapore Convention on Mediation </strong></p>
-                        <p><strong> Background to the Convention </strong> </p>
+ <a name="Annex_D"> </a>
+<b> <a href="#Annex_D" class="linkunderline"> Annex D </a> – Singapore Convention on Mediation </b>
+                        <b> Background to the Convention </b>
                         <ul>
                             <li>
                                 <p> The United Nations Commission on International Trade Law (“UNCITRAL”) is the core legal body of the United Nations system in the field of international trade law. UNCITRAL’s Working Group II (“WGII”) on Dispute Settlement has been working on instruments to provide for the cross-border enforcement of international commercial settlement agreements reached through mediation.</p>
