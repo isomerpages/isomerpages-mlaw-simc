@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Singapore Convention on Mediation opens for signature on 7 August
+title:  More than 50 countries in Singapore on Aug 7 to support new mediation treaty
 date:   2019-07-29
 permalink: /media/media-release/suport-mediation-treaty
 ---
