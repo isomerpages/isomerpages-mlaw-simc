@@ -19,7 +19,7 @@ permalink: /media/media-release/strengthens-bilateral-ties
                         </li>
                       </ol>
  
-<b> MINISTRY OF LAW </b> 
+<b> MINISTRY OF LAW </b> <br>
 <b> 06 August 2019 </b> <br>  <br>
                       
 <b> Media Contact <br>
