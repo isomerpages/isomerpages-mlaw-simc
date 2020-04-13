@@ -53,7 +53,7 @@ permalink: /media/media-release/suport-mediation-treaty
 
  <b> MINISTRY OF LAW<br /> 29 JULY 2019 
                       
-#### Media Contact <br>
+<b> Media Contact <br>
 Helenn Loh <br>
 Assistant Director, Corporate Communications Division<br>
 Email: <a href="mailto:Helenn_loh@mlaw.gov.sg">Helenn_loh@mlaw.gov.sg </a> <br>
@@ -233,8 +233,8 @@ Mobile: <a href="tel:+6597270537"> 9727 0537 </a>
                             </tr>
                         </table>
                <br><br>
-                        <a name="Annex_C"></a>
-                        <p><strong><a href="#Annex_C" class="linkunderline">Annex C</a> – Launch of the INSOL Asia Hub, Grand Opening of Maxwell Chambers Suites and inaugural IBA Asia Pacific Arbitration Conference  </strong></p>
+                        <a name="Annex_C"> </a>
+                        <p><strong><a href="#Annex_C" class="linkunderline"> Annex C</a> – Launch of the INSOL Asia Hub, Grand Opening of Maxwell Chambers Suites and inaugural IBA Asia Pacific Arbitration Conference  </strong></p>
                         <h5 class="text-center text-underline">LAUNCH OF THE INSOL ASIA HUB </h5>
                         <ul >
                             <li>
