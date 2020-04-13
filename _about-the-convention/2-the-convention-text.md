@@ -62,3 +62,7 @@ The courts of a Party to the Convention may refuse to grant relief on the ground
 
 * Working Documents of Working Group II: Arbitration and Conciliation / Dispute Settlemen
 [Read More](https://uncitral.un.org/sites/uncitral.un.org/files/singapore_convention_eng.pdf){:target="_blank"}
+
+#### **Travaux Préparatoires** 
+For more information of how “Singapore Convention on Mediation” came to fruition, please view the list of travaux préparatoires [here](https://uncitral.un.org/en/texts/mediation/conventions/international_settlement_agreements/travaux){:target="_blank"}
+
