@@ -25,7 +25,7 @@ second_nav_title: "Gallery"
 <div class="row">
   <div class="column">
   <a href="https://www.youtube.com/embed/PmRTkEGYHz0?rel=0&autoplay=1" target="_blank">
-    <img src="/images/vid-formal-addresses.jpg" title="Welcome Reception" alt="Singapore Convention on Mediation 2019"></a><br>
+    <img src="/images/vid-formal-addresses.jpg" title="Formal Addresses" alt="Singapore Convention on Mediation 2019"></a><br>
   Formal Addresses by PM Lee Hsien Loong and UN ASG Mr Stephen Mathias<br><br>
   </div>
    <div class="column">
@@ -37,24 +37,35 @@ second_nav_title: "Gallery"
 <div class="row">
   <div class="column">
   <a href="https://www.youtube.com/embed/NfAddH56D0w?rel=0&autoplay=1"  target="_blank">
-    <img src="/images/vid-panel-1.jpg" title="Panel Discussions & Breakout Sessions" alt="Singapore Convention on Mediation 2019"></a><br>
+    <img src="/images/vid-panel-1.jpg" title="Panel 1" alt="Singapore Convention on Mediation 2019"></a><br>
   <b>Panel 1</b><br>Multilateralism, International Collaboration and Rule of Law in an Evolving World<br><br>
   </div>
    <div class="column">
   <a href="https://www.youtube.com/embed/dvjOitAcAtY?rel=0&autoplay=1"  target="_blank">
-    <img src="/images/vid-lunch-time-panel.jpg" title="Singapore Convention Gala Dinner" alt="Singapore Convention on Mediation 2019"></a><br><b>Lunch-time Panel</b><br>on the Negotiation of the Convention on Mediation
+    <img src="/images/vid-lunch-time-panel.jpg" title="Lunch-time Panel" alt="Singapore Convention on Mediation 2019"></a><br><b>Lunch-time Panel</b><br>on the Negotiation of the Convention on Mediation
   </div>
 </div>
 
 <div class="row">
   <div class="column">
   <a href="https://www.youtube.com/embed/JTnSmaxpIKU?rel=0&autoplay=1"  target="_blank">
-    <img src="/images/vid-panel-2.jpg" title="Grand Opening of Maxwell Chambers Suites" alt="Singapore Convention on Mediation 2019"></a><br>Panel 2<br>The Future of International Dispute Resolution: Challenges and Opportunities for Access to Justice<br><br>
+    <img src="/images/vid-panel-2.jpg" title="Panel 2" alt="Singapore Convention on Mediation 2019"></a><br>Panel 2<br>The Future of International Dispute Resolution: Challenges and Opportunities for Access to Justice<br><br>
   </div>
    <div class="column">
   <a href="https://www.youtube.com/embed/CHnz1xN0Awg?rel=0&autoplay=1"  target="_blank">
-    <img src="/images/vid-panel-3.jpg" title="Experience Singapore" alt="Singapore Convention on Mediation 2019"></a><br>
+    <img src="/images/vid-panel-3.jpg" title="Panel 3" alt="Singapore Convention on Mediation 2019"></a><br>
   <b>Panel 3</b><br>The Rise of Mediation: Bridging Differences for Tomorrow
   </div>
 </div>
                                                                                                                         
+<div class="row">
+  <div class="column">
+  <a href="https://www.youtube.com/embed/JTnSmaxpIKU?rel=0&autoplay=1"  target="_blank">
+    <img src="/images/vid-closing-remarks.jpg" title="Closing Remarks " alt="Singapore Convention on Mediation 2019"></a><br>Closing Remarks by UNCITRAL Secretary, Ms Anna Joubin-Bret<br><br>
+  </div>
+   <div class="column">
+  <a href="https://www.youtube.com/embed/CHnz1xN0Awg?rel=0&autoplay=1"  target="_blank">
+    <img src="/images/vid-dinner-address-by-DPM.jpg" title="Singapore Convention Gala Dinner" alt="Singapore Convention on Mediation 2019"></a><br>
+  <b>Singapore Convention Gala Dinner</b><br><br>
+  </div>
+</div>
