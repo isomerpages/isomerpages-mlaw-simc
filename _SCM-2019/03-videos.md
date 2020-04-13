@@ -37,23 +37,23 @@ second_nav_title: "Gallery"
 <div class="row">
   <div class="column">
   <a href="https://www.youtube.com/embed/NfAddH56D0w?rel=0&autoplay=1"  target="_blank">
-    <img src="/images/album-panel-breakout.jpg" title="Panel Discussions & Breakout Sessions" alt="Singapore Convention on Mediation 2019"></a><br>
+    <img src="/images/vid-panel-1.jpg" title="Panel Discussions & Breakout Sessions" alt="Singapore Convention on Mediation 2019"></a><br>
   <b>Panel 1</b><br>Multilateralism, International Collaboration and Rule of Law in an Evolving World<br><br>
   </div>
    <div class="column">
   <a href="https://www.youtube.com/embed/dvjOitAcAtY?rel=0&autoplay=1"  target="_blank">
-    <img src="/images/album-gala-dinner.jpg" title="Singapore Convention Gala Dinner" alt="Singapore Convention on Mediation 2019"></a><br><b>Lunch-time Panel</b><br>on the Negotiation of the Convention on Mediation
+    <img src="/images/vid-lunch-time-panel.jpg" title="Singapore Convention Gala Dinner" alt="Singapore Convention on Mediation 2019"></a><br><b>Lunch-time Panel</b><br>on the Negotiation of the Convention on Mediation
   </div>
 </div>
 
 <div class="row">
   <div class="column">
   <a href="https://www.youtube.com/embed/JTnSmaxpIKU?rel=0&autoplay=1"  target="_blank">
-    <img src="/images/album-granding-opening.jpg" title="Grand Opening of Maxwell Chambers Suites" alt="Singapore Convention on Mediation 2019"></a><br>Panel 2<br>The Future of International Dispute Resolution: Challenges and Opportunities for Access to Justice<br><br>
+    <img src="/images/vid-panel-2.jpg" title="Grand Opening of Maxwell Chambers Suites" alt="Singapore Convention on Mediation 2019"></a><br>Panel 2<br>The Future of International Dispute Resolution: Challenges and Opportunities for Access to Justice<br><br>
   </div>
    <div class="column">
   <a href="https://www.youtube.com/embed/CHnz1xN0Awg?rel=0&autoplay=1"  target="_blank">
-    <img src="/images/album-experience-singapore.jpg" title="Experience Singapore" alt="Singapore Convention on Mediation 2019"></a><br>
+    <img src="/images/vid-panel-3.jpg" title="Experience Singapore" alt="Singapore Convention on Mediation 2019"></a><br>
   <b>Panel 3</b><br>The Rise of Mediation: Bridging Differences for Tomorrow
   </div>
 </div>
