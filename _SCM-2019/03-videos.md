@@ -10,12 +10,11 @@ second_nav_title: "Gallery"
 <style>
 .row {
   display: flex;
-  width:350px;
-  
 }
   
 .row .column {
   margin: 5px;
+  width:350px;
 }
 
 .row .column img {
