@@ -19,10 +19,10 @@ permalink: /media/media-release/sign-mediation-treaty**
                           <p>Minister Shanmugam said, “The attendance by more than 60 countries, at this Singapore Convention, within shows the importance they place on the Convention, and the benefits it will bring to international trade and commerce. I am pleased to welcome our distinguished guests who have come for the signing of the Convention. We look forward to making history together, at the signing ceremony tomorrow.”</p>
                         </li>
                       </ol>
-<b> MINISTRY OF LAW </b><br> 
-06 August 2019 
+<b> MINISTRY OF LAW </b> <br> 
+<b> 06 August 2019 </b> <br> 
                       
-#### Media Contact <br>
+<b> Media Contact </b> <br>
 Helenn Loh <br>
 Assistant Director, Corporate Communications Division<br>
 Email: <a href="mailto:Helenn_loh@mlaw.gov.sg">Helenn_loh@mlaw.gov.sg </a> <br>
