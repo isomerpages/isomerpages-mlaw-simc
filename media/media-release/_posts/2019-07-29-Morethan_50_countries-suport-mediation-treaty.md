@@ -236,7 +236,7 @@ Mobile: <a href="tel:+6597270537"> 9727 0537 </a>
  
  <a name="Annex_C"> </a>
  <b> <a href="#Annex_C"> Annex C </a> – Launch of the INSOL Asia Hub, Grand Opening of Maxwell Chambers Suites and inaugural IBA Asia Pacific Arbitration Conference  </b> <br>
- <b>LAUNCH OF THE INSOL ASIA HUB </b>
+ <b> LAUNCH OF THE INSOL ASIA HUB </b>
  <ul >
    <li>
      On 3 April 2019, INSOL International and the Ministry of Law announced that INSOL will locate its Asia hub in Singapore. The INSOL Asia Hub in Singapore will be its first overseas office since it was established in London in 1982. The new office will be located at Maxwell Chambers Suites.
@@ -270,8 +270,8 @@ Mobile: <a href="tel:+6597270537"> 9727 0537 </a>
                                 <p>
                                     INSOL’s presence will add to the vibrancy and development of this sector in Singapore and in the region. INSOL will officially launch its Asia hub in Singapore on 5 August 2019. More than 100 insolvency professionals, including legal practitioners, accountants, consultants, banks, distressed debt funders, third party funders, judges, and government officials are expected to attend the event.  
                                 </p>
-                            </li>
-                            <h5 class="text-center text-underline">GRAND OPENING OF MAXWELL CHAMBERS SUITES </h5>
+                            </li> <br>
+                            <b>GRAND OPENING OF MAXWELL CHAMBERS SUITES </b>
                             <li>
                                 <p>
                                     On 8 August 2019, Maxwell Chambers Suites, an extension of Maxwell Chambers, will officially open, as part of a series of related events alongside the Singapore Convention Signing Ceremony and Conference that will be held in Singapore on 7 August 2019. Minister for Home Affairs and Minister for Law Mr K Shanmugam will be the Guest of Honour. Minister in the Prime Minister’s Office and Second Minister for Finance and Education Ms Indranee Rajah and Senior Minister of State for Law and Health Mr Edwin Tong will also grace the event. Over 300 foreign ministers, chief justices, attorney-generals and heads of delegation, as well as local and international legal and dispute resolution practitioners, in-house counsel, C-suite executives and government officials are also expected to attend the event.  
@@ -321,8 +321,8 @@ Mobile: <a href="tel:+6597270537"> 9727 0537 </a>
                             </li>
                             <li>
                                 <p>Based on the 2018 International Arbitration Survey by Queen Mary University of London and White and Case LLP, Singapore was ranked as the top arbitration seat in Asia and third in the world. It is the only Asian jurisdiction to be ranked within the top four in all regions except Latin America.</p>
-                            </li>
-                            <h5 class="text-center text-underline">INAUGURAL INTERNATIONAL BAR ASSOCIATION (IBA) ASIA PACIFIC ARBITRATION CONFERENCE</h5>
+                            </li> <br> 
+                            <b>INAUGURAL INTERNATIONAL BAR ASSOCIATION (IBA) ASIA PACIFIC ARBITRATION CONFERENCE</b>
                             <li>
                                 <p>The International Bar Association (IBA) will hold its Inaugural IBA Asia Pacific Arbitration Conference in Singapore on 6 August 2019, as part of a series of related events alongside the Singapore Convention Signing Ceremony and Conference that will be held in Singapore on 7 August 2019. </p>
                             </li>
@@ -398,7 +398,7 @@ Mobile: <a href="tel:+6597270537"> 9727 0537 </a>
                             </li>
                         </ul>  
  <a name="Annex_D"> </a>
-<b> <a href="#Annex_D" class="linkunderline"> Annex D </a> – Singapore Convention on Mediation </b>
+<b> <a href="#Annex_D"> Annex D </a> – Singapore Convention on Mediation </b>
                         <b> Background to the Convention </b>
                         <ul>
                             <li>
