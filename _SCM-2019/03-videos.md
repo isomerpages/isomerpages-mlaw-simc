@@ -14,11 +14,11 @@ second_nav_title: "Gallery"
   
 .row .column {
   margin: 5px;
-  width:350px;
+  width:500px;
 }
 
 .row .column img {
-  width: 350px;
+  width: 500px;
   <!--height: 300px;-->
 }
 </style>
