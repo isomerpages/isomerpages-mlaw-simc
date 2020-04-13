@@ -16,7 +16,6 @@ second_nav_title: "Gallery"
   
 .row .column {
   margin: 5px;
-  border:1px;
 }
 
 .row .column img {
