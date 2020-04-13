@@ -49,7 +49,7 @@ second_nav_title: "Gallery"
 <div class="row">
   <div class="column">
   <a href="https://www.youtube.com/embed/JTnSmaxpIKU?rel=0&autoplay=1"  target="_blank">
-    <img src="/images/vid-panel-2.jpg" title="Panel 2" alt="Singapore Convention on Mediation 2019"></a><br>Panel 2<br>The Future of International Dispute Resolution: Challenges and Opportunities for Access to Justice<br><br>
+    <img src="/images/vid-panel-2.jpg" title="Panel 2" alt="Singapore Convention on Mediation 2019"></a><br><b>Panel 2</b><br>The Future of International Dispute Resolution: Challenges and Opportunities for Access to Justice<br><br>
   </div>
    <div class="column">
   <a href="https://www.youtube.com/embed/CHnz1xN0Awg?rel=0&autoplay=1"  target="_blank">
