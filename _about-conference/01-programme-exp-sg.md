@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Experience Singapore
-permalink: /conference/
+permalink: /conference/programme/
 breadcrumb: Programme and Experience Singapore
 collection_name: about-conference
 second_nav_title: "Programme"
