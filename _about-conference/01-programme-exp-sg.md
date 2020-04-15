@@ -7,7 +7,7 @@ collection_name: about-conference
 second_nav_title: "Programme"
 ---
 ### **Programme**
-To be updated
+More details will be provided at a later date.
 
 ### **Experience Singapore** 
 ![Experience Singapore](/images/expsg-gardens.jpeg/)
