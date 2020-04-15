@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Logo
-permalink: /about/Logo/
+permalink: /convention/Logo/
 breadcrumb: Logo
 collection_name: about-convention
 ---
