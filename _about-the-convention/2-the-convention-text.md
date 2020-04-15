@@ -60,7 +60,7 @@ The courts of a Party to the Convention may refuse to grant relief on the ground
 * Report of the United Nations Commission on International Trade Law at its 51st session (25 June–13 July 2018)
 [Read More](https://uncitral.un.org/sites/uncitral.un.org/files/singapore_convention_eng.pdf){:target="_blank"}
 
-* Working Documents of Working Group II: Arbitration and Conciliation / Dispute Settlemen
+* Working Documents of Working Group II: Arbitration and Conciliation / Dispute Settlement
 [Read More](https://uncitral.un.org/sites/uncitral.un.org/files/singapore_convention_eng.pdf){:target="_blank"}
 
 #### **Travaux Préparatoires** 
