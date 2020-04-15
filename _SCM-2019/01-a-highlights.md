@@ -8,7 +8,7 @@ title: Singapore Convention Signing Ceremony and Conference Highlights
 
 ### **Singapore Convention Signing Ceremony and Conference Highlights**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H9dRramz9mw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="760" height="315" src="https://www.youtube.com/embed/H9dRramz9mw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 View more of last year’s Singapore Convention Signing Ceremony:
 
