@@ -27,7 +27,7 @@ To safeguard your Personal Data, all electronic storage and transmission of Pers
 <ol start="6"><li>
 This digital service may contain links to non-Government digital services whose data protection and privacy practices may differ from ours. We are not responsible for the content and privacy practices of these other digital services and encourage you to consult the privacy notices of those digital services.</li></ol>
 
-<ol start="7"><li>Please contact [SgConvention@mlaw.gov.sg](mailto:SgConvention@mlaw.gov.sg) if you:</li></ol>
+<ol start="7"><li>Please contact <a href="mailto:SgConvention@mlaw.gov.sg">SgConvention@mlaw.gov.sg</a> if you:</li></ol>
 <p style="margin-left: 40px">a. have any enquires or feedback on our data protection policies and procedures,
 
 <p style="margin-left: 40px">b. need more information on or access to data which you have provided to us in the past.
