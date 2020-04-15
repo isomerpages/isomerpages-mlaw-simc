@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: The Convention Text
-permalink: /about/the-convention-text/
+permalink: /convention/the-convention-text/
 breadcrumb: The Convention Text
 collection_name: about-convention
 ---
