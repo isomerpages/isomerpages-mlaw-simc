@@ -21,3 +21,4 @@ By accessing and using any part of The Website, you agree to be legally bound by
 <p style="margin-left: 40px"> a. Object to or disable any link or frame to or from The Website; and</p>
 <p style="margin-left: 40px"> b. Change the URL of The Website.</p>
 
+6. <b>Intellectual property</b><br>The contents of The Website, including source code, pages, documents and online graphics, audio and video, in The Website are protected by law. All rights, title and interest in the materials are owned by, licensed to or controlled by us.<br><br>Except as otherwise provided, the contents of The Website shall not be modified, reproduced, republished, uploaded, posted, transmitted or otherwise distributed in any way, without prior written permission.<br><br>Apart from any fair dealings permitted in law, no part of The Website may be reproduced or reused for any commercial purposes whatsoever without our prior written permission.<br><br>
