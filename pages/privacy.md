@@ -15,11 +15,11 @@ breadcrumb: Privacy
 
 4. If you provide us with personally identifiable data
 
-<p style="margin-left: 40px">a. Where appropriate, we may share necessary data with other Government or public agencies, including statutory boards so as to improve the discharge of public functions, and to serve you in the most efficient and effective way unless such sharing is prohibited by law.
+<p style="margin-left: 40px">a. Where appropriate, we may share necessary data with other Government or public agencies, including statutory boards so as to improve the discharge of public functions, and to serve you in the most efficient and effective way unless such sharing is prohibited by law.</p>
 
-<p style="margin-left: 40px">b. We will NOT share your Personal Data with non-Government or non-public entities, except where such entities have been authorised to carry out specific services for the Government or statutory boards.
+<p style="margin-left: 40px">b. We will NOT share your Personal Data with non-Government or non-public entities, except where such entities have been authorised to carry out specific services for the Government or statutory boards.</p>
 
-<p style="margin-left: 40px">c. For your convenience, we may also display to you data you had previously supplied us or other Government or public Agencies. This will speed up the transaction and save you the trouble of repeating previous submissions. Should the data be out-of-date, please supply us the latest data.
+<p style="margin-left: 40px">c. For your convenience, we may also display to you data you had previously supplied us or other Government or public Agencies. This will speed up the transaction and save you the trouble of repeating previous submissions. Should the data be out-of-date, please supply us the latest data.</p>
   
 <ol start="5"><li>
 5. To safeguard your Personal Data, all electronic storage and transmission of Personal Data is secured with appropriate security technologies.</li>
