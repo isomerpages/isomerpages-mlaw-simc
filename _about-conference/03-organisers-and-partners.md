@@ -48,7 +48,7 @@ The United Nations Commission on International Trade and Law is the core legal b
 
 For more information, please visit UNCITRAL’s website, [here](https://uncitral.un.org/en){:target="_blank"}.
 
-
+<!--
 ### **Supporting Organisers**
 <div class="container">
 <div class="logo"><img src="../images/AAA-ICDR_Logo.jpg"></div>
@@ -58,3 +58,4 @@ For more information, please visit UNCITRAL’s website, [here](https://uncitral
 <div class="logo"><img src="../images/simi_logo.png"></div>
   </div>
 <br><br><br><br>
+-->
