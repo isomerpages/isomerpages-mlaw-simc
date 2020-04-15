@@ -21,8 +21,8 @@ breadcrumb: Privacy
 
 <p style="margin-left: 40px">c. For your convenience, we may also display to you data you had previously supplied us or other Government or public Agencies. This will speed up the transaction and save you the trouble of repeating previous submissions. Should the data be out-of-date, please supply us the latest data.
   
-
-5. To safeguard your Personal Data, all electronic storage and transmission of Personal Data is secured with appropriate security technologies.
+<ol start="5"><li>
+5. To safeguard your Personal Data, all electronic storage and transmission of Personal Data is secured with appropriate security technologies.</li>
 
 6. This digital service may contain links to non-Government digital services whose data protection and privacy practices may differ from ours. We are not responsible for the content and privacy practices of these other digital services and encourage you to consult the privacy notices of those digital services.
 
