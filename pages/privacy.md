@@ -15,17 +15,18 @@ breadcrumb: Privacy
 
 4. If you provide us with personally identifiable data
 
-a. Where appropriate, we may share necessary data with other Government or public agencies, including statutory boards so as to improve the discharge of public functions, and to serve you in the most efficient and effective way unless such sharing is prohibited by law.
+<p style="margin-left: 40px">a. Where appropriate, we may share necessary data with other Government or public agencies, including statutory boards so as to improve the discharge of public functions, and to serve you in the most efficient and effective way unless such sharing is prohibited by law.
 
-b. We will NOT share your Personal Data with non-Government or non-public entities, except where such entities have been authorised to carry out specific services for the Government or statutory boards.
+<p style="margin-left: 40px">b. We will NOT share your Personal Data with non-Government or non-public entities, except where such entities have been authorised to carry out specific services for the Government or statutory boards.
 
-c. For your convenience, we may also display to you data you had previously supplied us or other Government or public Agencies. This will speed up the transaction and save you the trouble of repeating previous submissions. Should the data be out-of-date, please supply us the latest data.
+<p style="margin-left: 40px">c. For your convenience, we may also display to you data you had previously supplied us or other Government or public Agencies. This will speed up the transaction and save you the trouble of repeating previous submissions. Should the data be out-of-date, please supply us the latest data.
   
 5. To safeguard your Personal Data, all electronic storage and transmission of Personal Data is secured with appropriate security technologies.
 
 6. This digital service may contain links to non-Government digital services whose data protection and privacy practices may differ from ours. We are not responsible for the content and privacy practices of these other digital services and encourage you to consult the privacy notices of those digital services.
 
 7. Please contact SgConvention@mlaw.gov.sg if you:
-  a. have any enquires or feedback on our data protection policies and procedures,
-  b. need more information on or access to data which you have provided to us in the past.
+<p style="margin-left: 40px">a. have any enquires or feedback on our data protection policies and procedures,
+
+<p style="margin-left: 40px">b. need more information on or access to data which you have provided to us in the past.
   
