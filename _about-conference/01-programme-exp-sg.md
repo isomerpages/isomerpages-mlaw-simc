@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: Experience Singapore
+title: Programme and Experience Singapore
 permalink: /conference/programme/
 breadcrumb: Programme and Experience Singapore
 collection_name: about-conference
