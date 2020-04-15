@@ -4,6 +4,11 @@ title: Terms of Use
 permalink: /terms-of-use/
 breadcrumb: Terms of Use
 ---
+<style type="text/css">
+  #margin{
+    margin-left: 40px;
+  }
+  </style>
 ### **Terms of Use**
 
 Thank you for using www.singaporeconvention.org. ("The Website")
@@ -21,7 +26,7 @@ By accessing and using any part of The Website, you agree to be legally bound by
 
 <b>6. Intellectual property</b><br>The contents of The Website, including source code, pages, documents and online graphics, audio and video, in The Website are protected by law. All rights, title and interest in the materials are owned by, licensed to or controlled by us.<br><br>Except as otherwise provided, the contents of The Website shall not be modified, reproduced, republished, uploaded, posted, transmitted or otherwise distributed in any way, without prior written permission.<br><br>Apart from any fair dealings permitted in law, no part of The Website may be reproduced or reused for any commercial purposes whatsoever without our prior written permission.<br><br>
 
-<b>7. General disclaimer and limitation of liability</b><br>The contents of The Website are provided on an “as-is” basis without warranties of any kind. We will not be liable for any loss or damage arising out of or in connection with:<br><span style="margin-left: 40px"> a. your failure to follow the instructions, procedures and directions for using The Website;</span><br><span style="margin-left: 40px"> b. your reliance on any statement, opinion, representation or information in The Website;</span><br><span style="margin-left: 40px"> c. any delay in operation or transmission, communications failure, internet access difficulties or malfunctions in equipment or software (including malfunctions of any computer, terminal connection line, data processing system, transmission link or any other equipment whether or not belonging to us);</span><br><span style="margin-left: 40px"> d. any computer virus or other malicious, destructive or corrupting code;</span><br><span style="margin-left: 40px"> e. the conduct or the views of any person who accesses or uses The Website; and</span><br><span style="margin-left: 40px"> f. any loss of security or information.</span><br><br>
+<b>7. General disclaimer and limitation of liability</b><br>The contents of The Website are provided on an “as-is” basis without warranties of any kind. We will not be liable for any loss or damage arising out of or in connection with:<br><span style="margin-left: 40px"> a. your failure to follow the instructions, procedures and directions for using The Website;</span><br><span style="margin-left: 40px"> b. your reliance on any statement, opinion, representation or information in The Website;</span><br><span id="margin"> c. any delay in operation or transmission, communications failure, internet access difficulties or malfunctions in equipment or software (including malfunctions of any computer, terminal connection line, data processing system, transmission link or any other equipment whether or not belonging to us);</span><br><span style="margin-left: 40px"> d. any computer virus or other malicious, destructive or corrupting code;</span><br><span style="margin-left: 40px"> e. the conduct or the views of any person who accesses or uses The Website; and</span><br><span style="margin-left: 40px"> f. any loss of security or information.</span><br><br>
 
 <b>8. Fees</b><br>There are currently no fees for using any part of The Website. We reserve the right to introduce fees and revise the fees from time to time. We are not responsible for any fees charged by any other Internet Site.<br><br>
 
