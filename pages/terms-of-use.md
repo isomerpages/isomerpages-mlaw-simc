@@ -6,6 +6,7 @@ breadcrumb: Terms of Use
 ---
 ### **Terms of Use**
 
+Thank you for using www.singaporeconvention.org. ("The Website")
 
 1. <b>Agreement terms</b><br>
 By accessing and using any part of The Website, you agree to be legally bound by all Terms Of Use (“Terms”), which govern access of all areas of The Website. Other terms of use (which will be indicated to you) may apply upon your download of datasets from The Website or if you are redirected to other websites. If you do not accept any of these Terms, please do not use The Website.
