@@ -6,16 +6,16 @@
 #- title: Home
 #  url: /
 - title: Convention
-  url: /about/about-convention/
+  url: /convention/about-convention/
   sub-links:
   - title: About Convention
-    url: /about/about-convention/
+    url: /convention/about-convention/
   - title: The Convention Text
-    url: /about/the-convention-text/
+    url: /convention/the-convention-text/
   - title: Signatories
-    url: /about/signatories/   
+    url: /convention/signatories/   
   - title: Logo
-    url: /about/Logo/   
+    url: /convention/Logo/   
     
 - title: Conference
   url: /conference/programme/
