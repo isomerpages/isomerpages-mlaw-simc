@@ -62,11 +62,3 @@ resources-subtitle: Newsroom
 resources-more-button: Read More
 resources-more-button-url: media/
 
-# # Info Section 
-# info-sections:
-#  - section-title: TEST
-#    section-subtitle: TEST
-#    section-description: TEST
-#    section-more-button: TEST
-#    section-more-button-url: /test/
-#    section-image-path: /images/Hero_Banner_SCM.jpg
