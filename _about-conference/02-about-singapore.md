@@ -14,7 +14,7 @@ The bustling city-state, with its efficient infrastructure, forward looking busi
 
 Against the backdrop of an evolving international and regional landscape, Singapore continues to remake herself to ensure the needs of international commercial businesses operating in and out of Singapore continue to be well-served.
 
-For more information about Singapore, click [here](http://www.visitsingapore.com/en/){:target="_blank"}
+For more information about Singapore, click [here](http://www.visitsingapore.com/en/){:target="_blank"}.
 
 ### **International Legal Services and Dispute Resolution Hub**
 
