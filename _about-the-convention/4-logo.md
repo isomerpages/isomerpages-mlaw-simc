@@ -3,7 +3,7 @@ layout: leftnav-page-content
 title: Logo
 permalink: /about/Logo/
 breadcrumb: Logo
-collection_name: about-the-convention
+collection_name: about-convention
 ---
 <style>
   .image {width: 450px;}
