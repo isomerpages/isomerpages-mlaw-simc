@@ -54,6 +54,7 @@ The courts of a Party to the Convention may refuse to grant relief on the ground
 * United Nations Model Law on International Commercial Mediation and International Settlement Agreements Resulting from Mediation, 2018 (amending the UNCITRAL Model Law on International Commercial Conciliation, 2002) [Read More](http://www.uncitral.org/pdf/english/commissionsessions/51st-session/Annex_II.pdf){:target="_blank"}
 
 #### **Related Materials** 
+* For the Travaux Préparatoires on the Convention [Read More](https://uncitral.un.org/en/texts/mediation/conventions/international_settlement_agreements/travaux){:target="_blank"}.
 * Resolution 73/198, "United Nations Convention on International Settlement Agreements Resulting from Mediation", adopted by the United Nations General Assembly at its 73rd session on 20 December 2018
 [Read More](https://uncitral.un.org/sites/uncitral.un.org/files/singapore_convention_eng.pdf){:target="_blank"}
 
@@ -63,5 +64,3 @@ The courts of a Party to the Convention may refuse to grant relief on the ground
 * Working Documents of Working Group II: Arbitration and Conciliation / Dispute Settlement
 [Read More](https://uncitral.un.org/sites/uncitral.un.org/files/singapore_convention_eng.pdf){:target="_blank"}
 
-#### **Travaux Préparatoires** 
-For more information of how “Singapore Convention on Mediation” came to fruition, please view the list of travaux préparatoires [here](https://uncitral.un.org/en/texts/mediation/conventions/international_settlement_agreements/travaux){:target="_blank"}.
