@@ -26,7 +26,7 @@ For more details, please view the [Convention Text](/about/the-convention-text).
 ![About Convention - Group](/images/about-UNCITRAL_grp.jpg/)<br><i>UNCITRAL Working Group II that developed the Singapore Convention on Mediation</i>
 
 * In December 2018, the United Nations General Assembly adopted, by consensus, the United Nations Convention on International Settlement Agreements Resulting from Mediation, recommended that the Convention be known as the “Singapore Convention on Mediation”, and authorised the signing ceremony of the Convention to be held in Singapore on 7 August 2019.
-![46 countries photo](/images/about-groupphoto.jpg/)
+![46 countries photo](/images/About-groupphoto.jpg)
 * Forty-six countries, including the world’s two largest economies, the United States and China, and three of the four largest economies in Asia, China, India and South Korea, signed the Convention on the day it opened for signature, while another 24 countries attended the
 signing ceremony to show their support for the Convention. Subsequently, [more countries signed the Convention](/about/signatories/).
 * In February 2020, the Singapore Parliament passed the [Singapore Convention on Mediation Act 2020 (“the Act”)](https://www.parliament.gov.sg/docs/default-source/default-document-library/singapore-convention-on-mediation-bill-5-2020.pdf). The introduction of the Act, which gives effect to the Convention, is a significant step in Singapore’s efforts to strengthen its international commercial dispute resolution framework.
