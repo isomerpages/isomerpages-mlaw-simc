@@ -56,11 +56,11 @@ The courts of a Party to the Convention may refuse to grant relief on the ground
 #### **Related Materials** 
 * For the Travaux Préparatoires on the Convention [Read More](https://uncitral.un.org/en/texts/mediation/conventions/international_settlement_agreements/travaux){:target="_blank"}.
 * Resolution 73/198, "United Nations Convention on International Settlement Agreements Resulting from Mediation", adopted by the United Nations General Assembly at its 73rd session on 20 December 2018
-[Read More](https://uncitral.un.org/sites/uncitral.un.org/files/singapore_convention_eng.pdf){:target="_blank"}
+[Read More](https://undocs.org/Home/Mobile?FinalSymbol=A%2FRes%2F73%2F198&Language=E&DeviceType=Mobile){:target="_blank"}
 
 * Report of the United Nations Commission on International Trade Law at its 51st session (25 June–13 July 2018)
-[Read More](https://uncitral.un.org/sites/uncitral.un.org/files/singapore_convention_eng.pdf){:target="_blank"}
+[Read More](https://undocs.org/Home/Mobile?FinalSymbol=A%2F73%2F17&Language=E&DeviceType=Mobile){:target="_blank"}
 
 * Working Documents of Working Group II: Arbitration and Conciliation / Dispute Settlement
-[Read More](https://uncitral.un.org/sites/uncitral.un.org/files/singapore_convention_eng.pdf){:target="_blank"}
+[Read More](https://uncitral.un.org/en/working_groups/2/arbitration){:target="_blank"}
 
