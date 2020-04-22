@@ -51,7 +51,7 @@ permalink: /media/media-release/Chambers_Suites_officially
                         <ol>
                             <li>
                                 For arbitration, in 2018, Singapore was ranked as the top arbitration seat in the Asia-Pacific, and third in the world, after London and Paris. Singapore was also ranked within the top four in all regions of the world, except Latin America, including Europe, North America, Africa and Middle East. Singapore was the only Asia-Pacific jurisdiction to be ranked within top four outside the Asia-Pacific.
-                            </li>
+                            </li> <br/>
                             <li>
                                 For mediation, in December 2018, the United Nations General Assembly adopted a new international treaty on mediation, and agreed for it to be named after Singapore. Ministers and other senior officials from 46 countries attended the signing ceremony yesterday to support the Singapore Convention on Mediation.
                             </li>
@@ -78,13 +78,13 @@ permalink: /media/media-release/Chambers_Suites_officially
   </p>               
 <b> Media Contact </b> <br><br>
 Helenn Loh <br>
-Assistant Director, Corporate Communications Division<br>
+Assistant Director, Corporate Communications Division <br>
 Email: <a href="mailto:Helenn_loh@mlaw.gov.sg">Helenn_loh@mlaw.gov.sg </a> <br>
-Mobile: <a href="tel:+6597270537"> 9727 0537 </a>  / <a href="tel:+6563324801">6332 4801</a> 
+Mobile: <a href="tel:+6597270537"> 9727 0537 /</a>   <a href="tel:+6563324801">6332 4801</a> 
 
  <a name="Annex_A"> </a>
                     <p><strong><a href="#Annex_A" class="linkunderline"> Annex A: International Institutions at Maxwell Chambers Suites</a></strong></p>
-                      <p>1   American Arbitration Association, International Centre for Dispute Resolution (AAA-ICDR)<span class="color--red"><span class="color--red">*</span></span></p> <br>
+                      <p>1   American Arbitration Association, International Centre for Dispute Resolution (AAA-ICDR)<span class="color--red"><span class="color--red">*</span></span></p> 
                       <p>2   Chartered Institute of Arbitrators, Singapore (CIArb Singapore)</p>
                       <p>3   International Chamber of Commerce Academy (ICC Academy)</p> 
                       <p>4   International Chamber of Commerce, International Court of Arbitration (ICCICA)<span class="color--red">*</span></p>
