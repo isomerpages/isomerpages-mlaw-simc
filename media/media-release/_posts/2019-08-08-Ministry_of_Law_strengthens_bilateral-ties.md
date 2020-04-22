@@ -15,12 +15,11 @@ permalink: /media/media-release/strengthens-bilateral-ties_08Aug
                           <p>Bilateral meetings were also held with Georgia’s Minister of Justice Thea Tsulukiani, Hungary’s Deputy State Secretary for Cooperation in International Justice Affairs Zoltan Nemessanyi, Iran’s Minister of Justice Seyed Ali Reza Avaei, Montenegro’s Deputy Prime Minister for Political System, Interior & Foreign Policy and Minister of Justice Zoran Pažin, Republic of Korea Vice Minister of Justice Kim Oh Su, Serbia’s State Secretary in the Ministry of Justice Radomir Ilić, Sierra Leone’s Deputy Minister of Justice Umaru Napoleon Koroma, Timor-Leste’s Minister of Justice Manuel Cárceres da Costa, Uzbekistan’s Deputy Minister of Justice Makhmud Istamov, and Vietnam’s Deputy Director-General of International Law Department Pham Ho Huong, where we reaffirmed our warm relations with these countries.</p>
                         </li>
                       </ol>
-                      
-<b> MINISTRY OF LAW </b> <br>
-<b> 08 August 2019 </b> <br> <br>
-                      
-<b> Media Contact </b> <br>
+ <p>
+<b> MINISTRY OF LAW </b> <br> <b> 08 August 2019 </b>  
+  </p>               
+<b> Media Contact </b> <br><br>
 Helenn Loh <br>
-Assistant Director, Corporate Communications Division<br>
+Assistant Director, Corporate Communications Division <br>
 Email: <a href="mailto:Helenn_loh@mlaw.gov.sg">Helenn_loh@mlaw.gov.sg </a> <br>
-Mobile: <a href="tel:+6597270537"> 9727 0537 </a> 
+Mobile: <a href="tel:+6597270537"> 9727 0537 /</a>   <a href="tel:+6563324801">6332 4801</a> 
