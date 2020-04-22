@@ -8,4 +8,4 @@ collection_name: about-convention
 
 ### **Signatory Countries**
 
-Click [here](https://uncitral.un.org/en/texts/mediation/conventions/international_settlement_agreements/status){:target="_blank"} for the list of signatory countries.
+Click [here](https://treaties.un.org/pages/ViewDetails.aspx?src=TREATY&mtdsg_no=XXII-4&chapter=22&clang=_en){:target="_blank"} for the list of signatory countries.
