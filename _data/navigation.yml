@@ -14,20 +14,20 @@
     url: /convention/the-convention-text/
   - title: Signatories
     url: /convention/signatories/   
-  - title: Logo
-    url: /convention/Logo/   
+#  - title: Logo
+#    url: /convention/Logo/   
     
-- title: Conference
-  url: /conference/programme/
-  sub-links:
-  - title: Programme
-    url: /conference/programme/
-  - title: About Singapore
-    url: /conference/about-singapore/
+# - title: Conference
+#  url: /conference/programme/
+#  sub-links:
+#  - title: Programme
+#    url: /conference/programme/
+#  - title: About Singapore
+#    url: /conference/about-singapore/
 #  - title: Breakout Session
 #    url: /
-  - title: Organisers and Partners
-    url: /conference/organisers-and-partners/
+#  - title: Organisers and Partners
+#    url: /conference/organisers-and-partners/
       
 
   
