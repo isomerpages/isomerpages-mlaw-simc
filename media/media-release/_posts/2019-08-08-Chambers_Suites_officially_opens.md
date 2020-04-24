@@ -10,28 +10,24 @@ permalink: /media/media-release/Chambers_Suites_officially
                       <li>
                         <p align="justify">
                             Singapore Minister for Home Affairs and Minister for Law K Shanmugam, SC today officially opened Maxwell Chambers Suites, the new extension of Maxwell Chambers. He was joined by Minister in the Prime Minister’s Office and Second Minister for Finance and Education Indranee Rajah and Senior Minister of State for Law and Health Edwin Tong, as well as ministers and senior officials from 12 countries, and more than 350 guests from the government, judiciary, law firms, dispute resolution institutions, law associations, businesses and academia.
-                        </p>
+                        </p> <br>
                       </li>
                       <li>
                        <p align="justify">
                             The opening of Maxwell Chambers Suites will further enhance Singapore’s status as an international legal hub. It follows the opening of INSOL’s Asia hub on 5 August 2019 and the signing of the Singapore Convention on Mediation on 7 August 2019.
-                        </p>
+                        </p> <br>
                       </li>
                       <li>
                         <p align="justify">
                             In his keynote speech at the opening of Maxwell Chambers Suites, Minister Shanmugam announced yet another two boosts to Singapore’s leading position:
-                        </p>
-                       </li>
-                            <li>
-                               <p align="justify">
-                                First, the American Arbitration Association International Centre for Dispute Resolution (AAA-ICDR) will set up its Asia headquarters and case management centre at Maxwell Chambers Suites. AAA-ICDR will be the 6th dispute resolution institution to establish its case management office there, making it home to the highest concentration of case management offices in the world. AAA-ICDR joins INSOL which announced the launch of its Asia hub in Singapore on 5 August 2019. Maxwell Chambers Suites will house at least 11 international institutions (<a href="#Annex_A" class="linkunderline">Annex A</a>) and 20 disputes chambers and practices from 11 countries (<a href="#Annex_B" class="linkunderline">Annex B</a>).
+                        </p> <br>
+                               <p style="margin-left: 40px">
+                                a.        First, the American Arbitration Association International Centre for Dispute Resolution (AAA-ICDR) will set up its Asia headquarters and case management centre at Maxwell Chambers Suites. AAA-ICDR will be the 6th dispute resolution institution to establish its case management office there, making it home to the highest concentration of case management offices in the world. AAA-ICDR joins INSOL which announced the launch of its Asia hub in Singapore on 5 August 2019. Maxwell Chambers Suites will house at least 11 international institutions (<a href="#Annex_A" class="linkunderline">Annex A</a>) and 20 disputes chambers and practices from 11 countries (<a href="#Annex_B" class="linkunderline">Annex B</a>).
+                              </p> <br>
+                                <p style="margin-left: 40px">
+                                b.         Second, to meet growing demand for dispute resolution services in Asia, Maxwell Chambers will also be expanding its hearing facilities. 15 more hearing and preparation rooms will be added to its current 22 rooms, bringing the total to 37, a 60% increase. The new hearing facilities will be operational in August 2019. Maxwell Chambers will also offer six specially-designed executive suites for short-term rental to arbitrators, mediators and counsel who are based overseas but fly in and out of Singapore for dispute resolution.
                               </p>
-                            </li>
-                            <li>
-                               <p align="justify">
-                                Second, to meet growing demand for dispute resolution services in Asia, Maxwell Chambers will also be expanding its hearing facilities. 15 more hearing and preparation rooms will be added to its current 22 rooms, bringing the total to 37, a 60% increase. The new hearing facilities will be operational in August 2019. Maxwell Chambers will also offer six specially-designed executive suites for short-term rental to arbitrators, mediators and counsel who are based overseas but fly in and out of Singapore for dispute resolution.
-                              </p>
-                            </li>
+   </li>
                       <li>
                        <p align="justify">
                             Explaining the significance, Minister Shanmugam said, “This week, two top international institutions, INSOL which is based in London and AAA-ICDR based in New York, announced setting up their respective Asia Hubs in Singapore. We are happy that they have chosen Singapore, it shows their assessment of the opportunities in Asia, and that Singapore can help tap into those opportunities.”
