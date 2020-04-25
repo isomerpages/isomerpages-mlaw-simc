@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Status
-permalink: /convention/signatories/
+permalink: /convention/status/
 breadcrumb: Status
 collection_name: about-convention
 ---
