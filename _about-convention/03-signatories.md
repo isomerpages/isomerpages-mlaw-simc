@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Signatory Countries
+title: Status
 permalink: /convention/signatories/
-breadcrumb: Signatory Countries
+breadcrumb: Status
 collection_name: about-convention
 ---
 
