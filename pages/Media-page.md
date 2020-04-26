@@ -2,7 +2,7 @@
 layout: post
 title:  Maxwell Chambers Suites officially opens today giving yet another boost to Singapore’s legal hub position
 date:   2019-08-08
-permalink: 
+permalink: /chambers/
 ---
 <!-- /media/media-release/Chambers_Suites_officially -->
 <div>
