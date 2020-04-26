@@ -60,11 +60,11 @@ second_nav_title: "Gallery"
                                                                                                                         
 <div class="row">
   <div class="column">
-  <a href="https://www.youtube.com/embed/JTnSmaxpIKU?rel=0&autoplay=1"  target="_blank">
+  <a href="https://www.youtube.com/embed/ynFqoXDm7iI?rel=0&autoplay=1"  target="_blank">
     <img src="/images/vid-closing-remarks.jpg" title="Closing Remarks " alt="Singapore Convention on Mediation 2019"></a><br><b>Closing Remarks by UNCITRAL Secretary, Ms Anna Joubin-Bret</b><br><br>
   </div>
    <div class="column">
-  <a href="https://www.youtube.com/embed/CHnz1xN0Awg?rel=0&autoplay=1"  target="_blank">
+  <a href="https://www.youtube.com/embed/btH9yJ1u6-U?rel=0&autoplay=1"  target="_blank">
     <img src="/images/vid-dinner-address-by-DPM.jpg" title="Singapore Convention Gala Dinner" alt="Singapore Convention on Mediation 2019"></a><br>
   <b>Singapore Convention Gala Dinner</b><br><br>
   </div>
