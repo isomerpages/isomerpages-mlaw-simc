@@ -35,13 +35,13 @@ The Rise of Mediation: Bridging Differences for Tomorrow
 
 Foreign Investment in Dispute Resolutions
 
-[Read Report](../pdf/5-Report-Breakout-Session-1.pdf){:target="_blank"}
+[Read Report](../../pdf/5-Report-Breakout-Session-1.pdf){:target="_blank"}
 
 **BREAKOUT SESSION 2**
 
 Infrastructure Projects: Ecosystems and Frameworks
 
-[Read Report](../pdf/6-Report-Breakout-Session-2.pdf){:target="_blank"}
+[Read Report](../../pdf/6-Report-Breakout-Session-2.pdf){:target="_blank"}
 
 **BREAKOUT SESSION 3**
 
