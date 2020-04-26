@@ -28,7 +28,11 @@ By accessing and using any part of The Website, you agree to be legally bound by
 
 <b>7. General disclaimer and limitation of liability</b><br>The contents of The Website are provided on an “as-is” basis without warranties of any kind. We will not be liable for any loss or damage arising out of or in connection with:
 <p style="margin-left: 40px"> a. your failure to follow the instructions, procedures and directions for using The Website;</p>
-<br><span style="margin-left: 40px"> b. your reliance on any statement, opinion, representation or information in The Website;</span><br><span id="margin"> c. any delay in operation or transmission, communications failure, internet access difficulties or malfunctions in equipment or software (including malfunctions of any computer, terminal connection line, data processing system, transmission link or any other equipment whether or not belonging to us);</span><br><span style="margin-left: 40px"> d. any computer virus or other malicious, destructive or corrupting code;</span><br><span style="margin-left: 40px"> e. the conduct or the views of any person who accesses or uses The Website; and</span><br><span style="margin-left: 40px"> f. any loss of security or information.</span><br><br>
+<p style="margin-left: 40px"> b. your reliance on any statement, opinion, representation or information in The Website;</p>
+<p style="margin-left: 40px"> c. any delay in operation or transmission, communications failure, internet access difficulties or malfunctions in equipment or software (including malfunctions of any computer, terminal connection line, data processing system, transmission link or any other equipment whether or not belonging to us);</p>
+<p style="margin-left: 40px"> d. any computer virus or other malicious, destructive or corrupting code;</p>
+<p style="margin-left: 40px"> e. the conduct or the views of any person who accesses or uses The Website; and</p>
+<p style="margin-left: 40px"> f. any loss of security or information.</p><br><br>
 
 <b>8. Fees</b><br>There are currently no fees for using any part of The Website. We reserve the right to introduce fees and revise the fees from time to time. We are not responsible for any fees charged by any other Internet Site.<br><br>
 
