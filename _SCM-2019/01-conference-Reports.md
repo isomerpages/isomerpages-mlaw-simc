@@ -6,7 +6,7 @@ collection_name: SCM-2019
 title: Conference Reports
 ---
 
-### **Conference Reports**
+### **Conference Reports** ###
 
 **PANEL 1**
 
