@@ -5,55 +5,61 @@
 ##################################
 
 # Favicon
-favicon: /images/favicon-isomer.ico
+favicon: /images/favicon.png
 
 # Agency logo
-# agency-logo: /images/isomer-logo.svg
-agency-logo: /images/transparent.gif
+# agency-logo: /images/scm-logo.png
+agency-logo: /images/logo.png
 
 # Hero Banner
 hero-title: <font size=14>Singapore Convention on Mediation</font>
-hero-subtitle: <font size=6>7 August 2019</font>
-hero-banner: /images/hero-banner-7.jpg
+# hero-subtitle: <font size=6>A new UN treaty on mediation</font>
+hero-banner: /images/SCM2020-home.jpg
 
 #Call to Action Button
 # commenting the call to action button as requested by Lisa (CCD)
 #button:
-#  - text: Learn More
-#    url: /who-we-are/
+# - text: Indicate your interest
+#   url: /
     
 key-highlights:
   - title: About the Convention
     description: First of its kind
-    url: /about/about-convention/
+    url: /convention/about-convention/
 #    external: true
-  - title: About Singapore
-    description: Highlights of Singapore
-    url: /about/about-singapore/
+#  - title: Conference Reports
+#    description: Read the Panels and Breakout Sessions Reports
+#    url: /scm-2019/conference-reports/
 #    external: true
-#  - title: Express your interest
-#    description: Provide your details
-#    url: /formSG/
+  - title: Convention 2019
+    description: Looking back at our inaugural event
+    url: /scm-2019/
 
+# Info Sections
+info-sections:
+  - section-title: 
+    section-subtitle: 
+    section-description: In 2019, history was made when Singapore hosted the signing ceremony where 46 countries signed the Singapore Convention on Mediation, with more coming on board after. With Singapore, Fiji and Qatar now having deposited their respective instruments of ratification, the Convention will enter into force on 12 September 2020, marking yet another momentous occasion.
+    # Organised by the Singapore Ministry of Law together with the United Nations Commission on International Trade Law (UNCITRAL), the Conference will feature panel discussions and technical workshops, and will bring together legal practitioners, dispute resolution specialists, business executives and government officials from around the world to discuss emerging issues relating to dispute resolution, international trade law and business. The Singapore Convention Conference 2020 will be part of the Singapore Convention Week, a series of events related to dispute resolution, which will run from 27 August to 4 September 2020.
+    section-more-button: More About Convention
+    section-more-button-url: /convention/about-convention/
+    section-image-path: /images/SCM-Callout-Min4.jpg
 
-# Programmes Section
-# To edit the programme details, go to programmes.yml
-programmes-title: 
-programmes-subtitle: 
-programmes-description: The Singapore Convention on Mediation signing ceremony will be held in Singapore on 7 August 2019.
-programmes-more-button: Express your interest
-programmes-more-button-url: https://form.gov.sg
-
-
-# Careers Section
-# To edit the careers details, go to careers-stories.yml
-# careers-title: About
-# careers-subtitle: Singapore Convention On Mediation
-# careers-description: <NA2>
-# careers-more-button: Introduction
-# careers-more-button-url: /about/about-the-convention/
-
+  - section-title: 
+    section-subtitle: 2019 Conference Highlights
+    section-description:  Watch highlights from the Singapore Convention and Signing Ceremony.
+    section-more-button: Watch now
+    section-more-button-url: /scm-2019/gallery-videos/
+    section-image-path: /images/home_Pix.jpg
+   
+#  - section-subtitle: Organisers
+#    # section-more-button: 
+    # section-more-button-url: /conference/organisers-and-partners/
+#    section-image-path: /images/sponsors-logo.png
+   
+# Resources Section
 resources-title:  Media
-resources-subtitle: News
-resources-more-button: More News
+resources-subtitle: Newsroom
+resources-more-button: Read More
 resources-more-button-url: media/
+
