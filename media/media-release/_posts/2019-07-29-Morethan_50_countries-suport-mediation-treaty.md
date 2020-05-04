@@ -13,40 +13,27 @@ permalink: /media/media-release/suport-mediation-treaty
 <br>
 <p align="justify">
 3.    The Singapore Convention Signing Ceremony and Conference will be part of a series of related events which will take place during the Singapore Convention Week from 2 to 8 August 2019, including the official launch of the INSOL Asia Hub in Singapore, the inaugural International Bar Association (IBA) Asia Pacific Arbitration Conference and the grand opening of Maxwell Chambers Suites. Together with the Singapore Convention on Mediation, these initiatives will give a further boost to Singapore’s position as a leading international legal hub in Asia, and the world.</p>
-           <br>             
+<br>             
 <p align="justify"><b> Singapore Convention Signing Ceremony and Conference </b> </p> <br>
-
 <p align="justify">4.   MinLaw and UNCITRAL will be holding the Singapore Convention Signing Ceremony and Conference at the Shangri-La Hotel, Singapore on 6 – 7 August 2019. Singapore Prime Minister Lee Hsien Loong and Stephen Mathias, Assistant Secretary-General for Legal Affairs, United Nations, will deliver the formal addresses at the conference. Topics to be discussed include emerging issues relating to business, international trade law and dispute resolution, the rise of mediation as an alternative way to resolve dispute resolution and the future of international dispute resolution. Singapore Deputy Prime Minister and Minister for Finance Heng Swee Keat will deliver the keynote address at the gala dinner that evening.</p> <br>
 <p align="justify">5.   On the side of the conference, the Ministers and senior officials will participate in a Singapore Convention Roundtable chaired by Minister Shanmugam on the topic “Building Trust, Enabling International Trade”. They will discuss what governments can do to build and strengthen trust in order to sustain growth amidst global uncertainties, the importance of multilateralism and the international rule of law, and the contribution of the Singapore Convention on Mediation. </p>  <br>
  <p align="justify">6.   The Ministers and senior officials will meet PM Lee and DPM Heng respectively. They have also been invited to the launch of the INSOL Asia Hub and the opening of Maxwell Chambers Suites, and to visit the Singapore Bicentennial Experience and the Singapore City Gallery. The Ministers will also attend the National Day Parade at the Padang, hosted by Singapore Senior Minister and Coordinating Minister for National Security Teo Chee Hean.</p>  <br>
 <p align="justify">7.   Over 1,500 delegates are expected to attend the Singapore Convention Signing Ceremony and Conference and related events during Singapore Convention Week. They include prominent judges, senior partners of major law firms, other senior practitioners, scholars, Presidents of Law Associations, Courts and Boards of top dispute resolution institutions, General Counsel of large MNCs and business leaders. A series of Experience Singapore programmes will be organised for the foreign delegates to introduce them to Singapore. They will be hosted by some 50 Junior College students from some 13 schools who will serve as Singapore Convention Youth Ambassadors as part of a youth involvement programme. More than 40% of the foreign delegates have signed up for these programmes, extending their stay in Singapore.</p>  <br>
 <p align="justify"><b> Official Opening of INSOL Asia Hub </b></p><br>
- 
-<p align="justify">8.  On 5 August 2019, INSOL will be opening its Asia Hub in Singapore. More than 100 insolvency professionals, including legal practitioners, accountants, consultants, banks, distressed debt funders, third party funders, judges, and government officials are expected to attend the event.</p>  <br>
- 
-<p align="justify">9.  INSOL is a worldwide federation of 44 member associations, with over 10,500 restructuring and insolvency professionals as members. It is at the forefront of education and technical training for practitioners, and assists in the development of countries’ restructuring and insolvency systems. INSOL’s Asia Hub in Singapore will be its first overseas office since it was established in London in 1982. </p>  <br>
- 
+ <p align="justify">8.  On 5 August 2019, INSOL will be opening its Asia Hub in Singapore. More than 100 insolvency professionals, including legal practitioners, accountants, consultants, banks, distressed debt funders, third party funders, judges, and government officials are expected to attend the event.</p>  <br>
+ <p align="justify">9.  INSOL is a worldwide federation of 44 member associations, with over 10,500 restructuring and insolvency professionals as members. It is at the forefront of education and technical training for practitioners, and assists in the development of countries’ restructuring and insolvency systems. INSOL’s Asia Hub in Singapore will be its first overseas office since it was established in London in 1982. </p>  <br>
 <p align="justify">10.  With recent legislative reforms Singapore now has one of the most forward-looking, balanced and flexible debt restructuring regimes in Asia. The enhanced regime strikes an appropriate balance between stakeholders’ interests – enabling companies to restructure successfully while protecting creditors’ rights. Singapore also won the “Most Improved Jurisdiction” at the inaugural Global Restructuring Review Awards in 2017. INSOL’s presence will add to the vibrancy and development of this sector in Singapore and in the region.</p>  <br>
-  
- <b> Inaugural IBA Asia Pacific Arbitration Conference </b> <br>
-  
- <p align="justify">11. On 6 August 2019, the International Bar Association will hold in Singapore its inaugural Asia Pacific Arbitration Conference. Established in 1947, the IBA is a leading professional organisation with a reach of more than 80,000 international lawyers and 190 bar associations from some 170 countries. It provides assistance to the global legal community, and through its global membership, influences the development of international law reform and shapes the future of the legal profession throughout the world.</p>  <br>
- 
- <p align="justify">12. This inaugural conference is presented by the IBA Arbitration Committee and the Asia Pacific Arbitration Group, supported by the IBA Asia Pacific Regional Forum. Singapore was chosen as the first stop for this new annual event on IBA’s calendar. The conference will feature 17 prominent speakers from 8 cities around the world. About 100 legal and arbitration practitioners, arbitrators, in-house counsel, and government officials are expected to attend the event at Maxwell Chambers.</p>  <br>
-
+ <p>  <b> Inaugural IBA Asia Pacific Arbitration Conference </b> </p> <br>
+   <p align="justify">11. On 6 August 2019, the International Bar Association will hold in Singapore its inaugural Asia Pacific Arbitration Conference. Established in 1947, the IBA is a leading professional organisation with a reach of more than 80,000 international lawyers and 190 bar associations from some 170 countries. It provides assistance to the global legal community, and through its global membership, influences the development of international law reform and shapes the future of the legal profession throughout the world.</p>  <br>
+  <p align="justify">12. This inaugural conference is presented by the IBA Arbitration Committee and the Asia Pacific Arbitration Group, supported by the IBA Asia Pacific Regional Forum. Singapore was chosen as the first stop for this new annual event on IBA’s calendar. The conference will feature 17 prominent speakers from 8 cities around the world. About 100 legal and arbitration practitioners, arbitrators, in-house counsel, and government officials are expected to attend the event at Maxwell Chambers.</p>  <br>
 <b> Grand Opening of Maxwell Chambers Suites </b> <br>
- 
- <p align="justify">13. On 8 August 2019, Maxwell Chambers Suites, an extension of Maxwell Chambers, will officially open. Established in 2010, Maxwell Chambers was the world’s first integrated dispute resolution complex, housing both purpose-built hearing facilities for arbitration and mediation, as well as offices for dispute resolution institutions and firms. Its extension, Maxwell Chambers Suites, was constructed to meet growing demand for dispute resolution work, and further expand the eco-system of legal service providers that use Singapore as a base to service the region. Dedicated to housing dispute resolution institutions and firms, the beautifully conserved building will add 120,000 square feet of floor space and triple the complex’s capacity. Over 300 foreign ministers, chief justices, attorney-generals and heads of delegation, as well as local and international legal and dispute resolution practitioners, in-house counsel, C-suite executives and government officials are also expected to attend the event.</p>  <br>
-
+  <p align="justify">13. On 8 August 2019, Maxwell Chambers Suites, an extension of Maxwell Chambers, will officially open. Established in 2010, Maxwell Chambers was the world’s first integrated dispute resolution complex, housing both purpose-built hearing facilities for arbitration and mediation, as well as offices for dispute resolution institutions and firms. Its extension, Maxwell Chambers Suites, was constructed to meet growing demand for dispute resolution work, and further expand the eco-system of legal service providers that use Singapore as a base to service the region. Dedicated to housing dispute resolution institutions and firms, the beautifully conserved building will add 120,000 square feet of floor space and triple the complex’s capacity. Over 300 foreign ministers, chief justices, attorney-generals and heads of delegation, as well as local and international legal and dispute resolution practitioners, in-house counsel, C-suite executives and government officials are also expected to attend the event.</p>  <br>
 <p align="justify">14.  At its launch, Maxwell Chambers Suites will house 20 dispute firms and 11 international institutions. Five of the 11 international institutions, including the International Chamber of Commerce’s International Court of Arbitration and the Permanent Court of Arbitration, will have their case management offices in the building, giving Maxwell Chambers Suites the highest concentration of case management offices in the world.</p>  <br>
-                         
-<p>	<a href="#Annex_A"> Annex A </a> : List of countries attending the Singapore Convention Signing Ceremony and Conference (subject to change; as of 28 July 2019) </p> <br>
-
-<a href="../SCMPressRelease-29July-AnnexB-Programme.pdf" class="linkunderline" target="_blank"> Annex B</a> : Programme of the Singapore Convention Week  
-  
-<a href="#Annex_C"> Annex C</a> – Launch of the INSOL Asia Hub, Grand Opening of Maxwell Chambers Suites and inaugural IBA Asia Pacific Arbitration Conference 
+ <p><a href="#Annex_A"> Annex A </a> : List of countries attending the Singapore Convention Signing Ceremony and Conference (subject to change; as of 28 July 2019) </p> <br>
+<p> <a href="../SCMPressRelease-29July-AnnexB-Programme.pdf" class="linkunderline" target="_blank"> Annex B</a> : Programme of the Singapore Convention Week </p> <br>
+<p><a href="#Annex_C"> Annex C</a> – Launch of the INSOL Asia Hub, Grand Opening of Maxwell Chambers Suites and inaugural IBA Asia Pacific Arbitration Conference </p>
   <br>
-<a href="#Annex_D"> Annex D </a> – Singapore Convention on Mediation 
+<p><a href="#Annex_D"> Annex D </a> – Singapore Convention on Mediation </p>
 <br><p>
 <b> MINISTRY OF LAW </b> <br> <b> 29 JULY 2019  </b>  
   </p>                
@@ -231,9 +218,9 @@ Mobile: <a href="tel:+6597270537"> 9727 0537 /</a>   <a href="tel:+6563324801">6
                         </table>
  <br> <br>
  
- <a name="Annex_C"> </a> <br>
- <b> <a href="#Annex_C"> Annex C </a> – Launch of the INSOL Asia Hub, Grand Opening of Maxwell Chambers Suites and inaugural IBA Asia Pacific Arbitration Conference  </b> <br>
- <b> LAUNCH OF THE INSOL ASIA HUB </b> <br>
+<p> <a name="Annex_C"> </a> </p><br>
+<p> <b> <a href="#Annex_C"> Annex C </a> – Launch of the INSOL Asia Hub, Grand Opening of Maxwell Chambers Suites and inaugural IBA Asia Pacific Arbitration Conference  </b> </p><br>
+<p> <b> LAUNCH OF THE INSOL ASIA HUB </b> </p> <br>
  <ul >
    <li>
      On 3 April 2019, INSOL International and the Ministry of Law announced that INSOL will locate its Asia hub in Singapore. The INSOL Asia Hub in Singapore will be its first overseas office since it was established in London in 1982. The new office will be located at Maxwell Chambers Suites.
@@ -251,7 +238,7 @@ Mobile: <a href="tel:+6597270537"> 9727 0537 /</a>   <a href="tel:+6563324801">6
                             <li>
                                 <p align="justify">
                                     INSOL’s decision to locate here is testament to Singapore’s growing profile as an influential restructuring and insolvency jurisdiction and complements our efforts in this area. This has not occurred by happenstance; being part of Singapore’s longterm and broad efforts to strengthen Singapore as an international centre for crossborder debt restructuring. <br>  
-                                </p>
+                                </p> <br>
                             </li>
                             <li>
                                 <p align="justify">
@@ -265,11 +252,10 @@ Mobile: <a href="tel:+6597270537"> 9727 0537 /</a>   <a href="tel:+6563324801">6
                             </li>
                             <li>
                                 <p align="justify">
-                                    INSOL’s presence will add to the vibrancy and development of this sector in Singapore and in the region. INSOL will officially launch its Asia hub in Singapore on 5 August 2019. More than 100 insolvency professionals, including legal practitioners, accountants, consultants, banks, distressed debt funders, third party funders, judges, and government officials are expected to attend the event.  
-                                </p>
+                                    INSOL’s presence will add to the vibrancy and development of this sector in Singapore and in the region. INSOL will officially launch its Asia hub in Singapore on 5 August 2019. More than 100 insolvency professionals, including legal practitioners, accountants, consultants, banks, distressed debt funders, third party funders, judges, and government officials are expected to attend the event.  </p>
                             </li> <br>
                             <b>GRAND OPENING OF MAXWELL CHAMBERS SUITES </b> <br>
-                            <li><br>
+                            <li>
                                <p align="justify">
                                     On 8 August 2019, Maxwell Chambers Suites, an extension of Maxwell Chambers, will officially open, as part of a series of related events alongside the Singapore Convention Signing Ceremony and Conference that will be held in Singapore on 7 August 2019. Minister for Home Affairs and Minister for Law Mr K Shanmugam will be the Guest of Honour. Minister in the Prime Minister’s Office and Second Minister for Finance and Education Ms Indranee Rajah and Senior Minister of State for Law and Health Mr Edwin Tong will also grace the event. Over 300 foreign ministers, chief justices, attorney-generals and heads of delegation, as well as local and international legal and dispute resolution practitioners, in-house counsel, C-suite executives and government officials are also expected to attend the event.  
                                 </p> <br>
@@ -333,60 +319,60 @@ Mobile: <a href="tel:+6597270537"> 9727 0537 /</a>   <a href="tel:+6563324801">6
                                 <p>The conference will feature 17 prominent speakers from 8 cities around the world, including: </p> <br>
                                 <ul type="circle" >
                                     <li>
-                                        <p> Ms Sheila Ahuja, Co-Chair, Asia Pacific Arbitration Group </p>
+                                        <p> Ms Sheila Ahuja, Co-Chair, Asia Pacific Arbitration Group </p> <br>
                                     </li>
                                     <li>
-                                        <p>Ms Chiann Bao, Arbitrator, Arbitration Chambers </p>
+                                        <p>Ms Chiann Bao, Arbitrator, Arbitration Chambers </p> <br>
                                     </li>
                                     <li>
-                                        <p> Mr Lijun Cao, Partner, Zhong Lun </p>
+                                        <p> Mr Lijun Cao, Partner, Zhong Lun </p> <br>
                                     </li>
                                     <li>
-                                        <p>Ms Sarah Grimmer, Secretary-General, Hong Kong International Arbitration Centre </p>
+                                        <p>Ms Sarah Grimmer, Secretary-General, Hong Kong International Arbitration Centre </p> <br>
                                     </li>
                                     <li>
-                                        <p> Ms Delphine Ho, Registrar, Singapore International Arbitration Centre </p>
+                                        <p> Ms Delphine Ho, Registrar, Singapore International Arbitration Centre </p> <br>
                                     </li>
                                     <li>
-                                        <p> Ms Anna Joubin-Bret, Secretary, UNCITRAL </p>
+                                        <p> Ms Anna Joubin-Bret, Secretary, UNCITRAL </p> <br>
                                     </li>
                                     <li>
-                                        <p>Mr Sanjeev Kapoor, Partner, Khaitan & Co</p>
+                                        <p>Mr Sanjeev Kapoor, Partner, Khaitan & Co</p> <br>
                                     </li>
                                     <li>
-                                        <p> Prof Gabrielle Kaufmann-Kohler, President, International Council for Commercial Arbitration </p>
+                                        <p> Prof Gabrielle Kaufmann-Kohler, President, International Council for Commercial Arbitration </p> <br>
                                     </li>
                                     <li>
-                                        <p>Mr Kevin Kim, Partner, Bae, Kim & Lee </p>
+                                        <p>Mr Kevin Kim, Partner, Bae, Kim & Lee </p> <br>
                                     </li>
                                     <li>
-                                        <p>Ms Koh Swee Yen, Vice-Chair, IBA Arbitration Committee </p>
+                                        <p>Ms Koh Swee Yen, Vice-Chair, IBA Arbitration Committee </p> <br>
                                     </li>
                                     <li>
-                                        <p>Mr Neerav Merchant, Partner, Majmudar & Partners </p>
+                                        <p>Mr Neerav Merchant, Partner, Majmudar & Partners </p> <br>
                                     </li>
                                     <li>
-                                        <p> Prof Dr Colin Ong, QC, Managing Partner, Dr Colin Ong Legal Services </p>
+                                        <p> Prof Dr Colin Ong, QC, Managing Partner, Dr Colin Ong Legal Services </p> <br>
                                     </li>
                                     <li>
-                                        <p>Mr Kent Philips, Partner, Hogan Lovells</p>
+                                        <p>Mr Kent Philips, Partner, Hogan Lovells</p> <br>
                                     </li>
                                     <li>
-                                        <p> Mr Alvin Yeo, SC, Chairman and Senior Partner, WongPartnership </p>
+                                        <p> Mr Alvin Yeo, SC, Chairman and Senior Partner, WongPartnership </p> <br>
                                     </li>
                                 </ul>
                             </li>
                             <li>
-                                <p>They will speak on the following:</p>
+                                <p>They will speak on the following:</p> <br>
                                 <ol type="a">
                                     <li>
-                                        <p>The rise of Asia Pacific: Trends and developments</p>
+                                        <p>The rise of Asia Pacific: Trends and developments</p> <br>
                                     </li>
                                     <li>
-                                        <p>Innovation and change: Going beyond boundaries </p>
+                                        <p>Innovation and change: Going beyond boundaries </p> <br>
                                     </li>
                                     <li>
-                                        <p>What remains to be done: Gazing into the future </p>
+                                        <p>What remains to be done: Gazing into the future </p> <br>
                                     </li>
                                 </ol>
                             </li>
