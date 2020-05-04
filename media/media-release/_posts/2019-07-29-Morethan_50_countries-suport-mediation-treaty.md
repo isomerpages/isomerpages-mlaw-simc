@@ -7,10 +7,9 @@ permalink: /media/media-release/suport-mediation-treaty
 
 <p align="justify">
 1.    Ministers and senior officials from more than 50 countries will gather in Singapore to support a new international treaty on mediation when it opens for signature on 7 August 2019. The United Nations (UN) Convention on International Settlement Agreements Resulting from Mediation, also known as the Singapore Convention on Mediation, will provide for the cross-border enforcement of mediated settlement agreements, give businesses greater certainty and assurance, and facilitate international trade and commerce. The Convention was adopted by consensus at the UN General Assembly on 20 December 2018. It will be the first UN treaty to be named after Singapore.
-</p> <br>
+</p> 
 <p align="justify">
 2.    The Singapore Ministry of Law (MinLaw) and the United Nations Commission on International Trade Law (UNCITRAL) will be organising the signing ceremony and a conference in conjunction with it. To mark the historic signing of the new international treaty, Singapore Minister for Home Affairs and Minister for Law K Shanmugam and the UN Assistant Secretary-General for Legal Affairs Stephen Mathias will jointly name an orchid. This will be the first international treaty to have a flower named after it. MinLaw today also launched the logo for the Singapore Convention: an orchid in vibrant colours brought together by a little red dot connecting conversations.</p>
-<br>
 <p align="justify">
 3.    The Singapore Convention Signing Ceremony and Conference will be part of a series of related events which will take place during the Singapore Convention Week from 2 to 8 August 2019, including the official launch of the INSOL Asia Hub in Singapore, the inaugural International Bar Association (IBA) Asia Pacific Arbitration Conference and the grand opening of Maxwell Chambers Suites. Together with the Singapore Convention on Mediation, these initiatives will give a further boost to Singapore’s position as a leading international legal hub in Asia, and the world.</p>
 <br>             
@@ -36,7 +35,7 @@ permalink: /media/media-release/suport-mediation-treaty
 <p><a href="#Annex_D"> Annex D </a> – Singapore Convention on Mediation </p>
 <br><p>
 <b> MINISTRY OF LAW </b> <br> <b> 29 JULY 2019  </b>  
-  </p>                
+  </p>               
 <b> Media Contact </b> <br><br>
 Helenn Loh <br>
 Assistant Director, Corporate Communications Division <br>
