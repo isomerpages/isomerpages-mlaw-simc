@@ -22,7 +22,7 @@ permalink: /media/media-release/strengthens-bilateral-ties
 <b> MINISTRY OF LAW </b> <br> <b> 06 August 2019 </b>  
   </p>               
 <b> Media Contact </b> <br><br>
- <p> Helenn Loh </p><br>
-<p>Assistant Director, Corporate Communications Division </p><br>
-<p>Email: <a href="mailto:Helenn_loh@mlaw.gov.sg">Helenn_loh@mlaw.gov.sg </a> </p><br>
-<p>Mobile: <a href="tel:+6597270537"> 9727 0537 /</a>   <a href="tel:+6563324801">6332 4801</a> </p>
+ <p> Helenn Loh <br>
+Assistant Director, Corporate Communications Division <br>
+Email: <a href="mailto:Helenn_loh@mlaw.gov.sg">Helenn_loh@mlaw.gov.sg </a> <br>
+Mobile: <a href="tel:+6597270537"> 9727 0537 /</a>   <a href="tel:+6563324801">6332 4801</a> </p>
