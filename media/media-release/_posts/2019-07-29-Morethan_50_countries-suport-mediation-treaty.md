@@ -45,7 +45,6 @@ Mobile: <a href="tel:+6597270537"> 9727 0537 /</a>   <a href="tel:+6563324801">6
  <br> <br>
  <a name="Annex_A"> </a>
 <b> <a href="#Annex_A"> Annex A: </a>  List of countries attending the Singapore Convention Signing Ceremony and Conference (subject to change; as of 28 July 2019) <br>
-                      
   <table>
                             <tr>
                                 <th>S/N</th>
@@ -217,16 +216,15 @@ Mobile: <a href="tel:+6597270537"> 9727 0537 /</a>   <a href="tel:+6563324801">6
                             </tr>
                         </table>
  <br> <br>
- 
 <p> <a name="Annex_C"> </a> </p><br>
 <p> <b> <a href="#Annex_C"> Annex C </a> – Launch of the INSOL Asia Hub, Grand Opening of Maxwell Chambers Suites and inaugural IBA Asia Pacific Arbitration Conference  </b> </p><br>
 <p> <b> LAUNCH OF THE INSOL ASIA HUB </b> </p> <br>
- <ul >
+<ul >
    <li>
      On 3 April 2019, INSOL International and the Ministry of Law announced that INSOL will locate its Asia hub in Singapore. The INSOL Asia Hub in Singapore will be its first overseas office since it was established in London in 1982. The new office will be located at Maxwell Chambers Suites.
      </li> <br>
    <li>
-                                <p align="justify">
+<p align="justify">
                                     INSOL is a worldwide federation of national associations of accountants and lawyers who specialise in turnaround and insolvency. There are currently over 44 member associations, with over 10,500 restructuring and insolvency professionals participating as INSOL members. INSOL also has ancillary groups that represent that judiciary, regulators, lenders and academics. 
                                 </p> <br>
                             </li>
@@ -262,8 +260,7 @@ Mobile: <a href="tel:+6597270537"> 9727 0537 /</a>   <a href="tel:+6563324801">6
                             </li>
                             <li>
                                 <p align="justify">
-                                    Established in 2010, Maxwell Chambers was the world’s first integrated dispute resolution complex, housing both purpose-built hearing facilities for arbitration and mediation, as well as offices for dispute resolution institutions and firms. When it first opened, it was nominated by the Global Arbitration Review as one of the “Best Developments” in the arbitration industry. Since then, it has quickly become one of the most preferred hearing facilities in the world, handling about 200 cases a year.     
-                                </p> <br>
+                                    Established in 2010, Maxwell Chambers was the world’s first integrated dispute resolution complex, housing both purpose-built hearing facilities for arbitration and mediation, as well as offices for dispute resolution institutions and firms. When it first opened, it was nominated by the Global Arbitration Review as one of the “Best Developments” in the arbitration industry. Since then, it has quickly become one of the most preferred hearing facilities in the world, handling about 200 cases a year.                                 </p> <br>
                             </li>
                             <li>
                                <p align="justify">
