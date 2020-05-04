@@ -210,10 +210,10 @@ Mobile: <a href="tel:+6597270537"> 9727 0537 /</a>   <a href="tel:+6563324801">6
                                 <td class="font-weight-bold">Yemen </td>
                             </tr>
                         </table>
- <br> <br>
-<p> <a name="Annex_C"> </a> </p><br>
-<p> <b> <a href="#Annex_C"> Annex C </a> – Launch of the INSOL Asia Hub, Grand Opening of Maxwell Chambers Suites and inaugural IBA Asia Pacific Arbitration Conference  </b> </p><br>
-<p> <b> LAUNCH OF THE INSOL ASIA HUB </b> </p> <br>
+ <br>
+<p> <a name="Annex_C"> </a> </p>
+<p> <b> <a href="#Annex_C"> Annex C </a> – Launch of the INSOL Asia Hub, Grand Opening of Maxwell Chambers Suites and inaugural IBA Asia Pacific Arbitration Conference  </b> </p>
+<p> <b> LAUNCH OF THE INSOL ASIA HUB </b> </p>
 <ul >
    <li>
      On 3 April 2019, INSOL International and the Ministry of Law announced that INSOL will locate its Asia hub in Singapore. The INSOL Asia Hub in Singapore will be its first overseas office since it was established in London in 1982. The new office will be located at Maxwell Chambers Suites.
@@ -247,7 +247,7 @@ Mobile: <a href="tel:+6597270537"> 9727 0537 /</a>   <a href="tel:+6563324801">6
                                 <p align="justify">
                                     INSOL’s presence will add to the vibrancy and development of this sector in Singapore and in the region. INSOL will officially launch its Asia hub in Singapore on 5 August 2019. More than 100 insolvency professionals, including legal practitioners, accountants, consultants, banks, distressed debt funders, third party funders, judges, and government officials are expected to attend the event.  </p>
                             </li> <br>
-                            <b>GRAND OPENING OF MAXWELL CHAMBERS SUITES </b> <br>
+ <p> <b>GRAND OPENING OF MAXWELL CHAMBERS SUITES </b> <br> </p>
                             <li>
                                <p align="justify">
                                     On 8 August 2019, Maxwell Chambers Suites, an extension of Maxwell Chambers, will officially open, as part of a series of related events alongside the Singapore Convention Signing Ceremony and Conference that will be held in Singapore on 7 August 2019. Minister for Home Affairs and Minister for Law Mr K Shanmugam will be the Guest of Honour. Minister in the Prime Minister’s Office and Second Minister for Finance and Education Ms Indranee Rajah and Senior Minister of State for Law and Health Mr Edwin Tong will also grace the event. Over 300 foreign ministers, chief justices, attorney-generals and heads of delegation, as well as local and international legal and dispute resolution practitioners, in-house counsel, C-suite executives and government officials are also expected to attend the event.  
@@ -297,7 +297,7 @@ Mobile: <a href="tel:+6597270537"> 9727 0537 /</a>   <a href="tel:+6563324801">6
                             <li>
                                 <p align="justify">Based on the 2018 International Arbitration Survey by Queen Mary University of London and White and Case LLP, Singapore was ranked as the top arbitration seat in Asia and third in the world. It is the only Asian jurisdiction to be ranked within the top four in all regions except Latin America.</p><br>
                             </li> <br> 
-                            <b>INAUGURAL INTERNATIONAL BAR ASSOCIATION (IBA) ASIA PACIFIC ARBITRATION CONFERENCE</b> <br>
+                           <p> <b>INAUGURAL INTERNATIONAL BAR ASSOCIATION (IBA) ASIA PACIFIC ARBITRATION CONFERENCE</b> <br></p>
                             <li>
                                 <p align="justify">The International Bar Association (IBA) will hold its Inaugural IBA Asia Pacific Arbitration Conference in Singapore on 6 August 2019, as part of a series of related events alongside the Singapore Convention Signing Ceremony and Conference that will be held in Singapore on 7 August 2019. </p><br>
                             </li>
@@ -372,9 +372,9 @@ Mobile: <a href="tel:+6597270537"> 9727 0537 /</a>   <a href="tel:+6563324801">6
                                 <p align="justify">About 100 legal and arbitration practitioners, arbitrators, in-house counsel, and government officials are expected to attend the event at Maxwell Chambers.</p> <br>
                             </li>
                         </ul>  
- <a name="Annex_D"> </a> <br>
-<b> <a href="#Annex_D"> Annex D </a> – Singapore Convention on Mediation </b> <br>
-<b> Background to the Convention </b> <br>
+<p> <a name="Annex_D"> </a> </P>
+<p><b> <a href="#Annex_D"> Annex D </a> – Singapore Convention on Mediation </b> </p>
+<p><b> Background to the Convention </b> </p>
  <ul>
   <li>
 <p align="justify"> The United Nations Commission on International Trade Law (“UNCITRAL”) is the core legal body of the United Nations system in the field of international trade law. UNCITRAL’s Working Group II (“WGII”) on Dispute Settlement has been working on instruments to provide for the cross-border enforcement of international commercial settlement agreements reached through mediation.</p>
