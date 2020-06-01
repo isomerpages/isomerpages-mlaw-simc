@@ -5,7 +5,6 @@ date:   2019-08-08
 permalink: /media/media-release/strengthens-bilateral-ties_08Aug
 ---
 
- <div>
                 <ol type="1" class="liststyle">
                         <li>
                           <p align = "justify">Minister for Home Affairs and Minister for Law Mr K Shanmugam, SC and Senior Minister of State for Law Mr Edwin Tong, SC met with Malaysia’s Minister in the Prime Minister’s Department (Legal Affairs) Datuk Liew Vui Keong and reaffirmed the close and long-standing bilateral legal relations between Singapore and Malaysia.
