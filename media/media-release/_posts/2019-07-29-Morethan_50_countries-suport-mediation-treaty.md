@@ -4,6 +4,7 @@ title:  More than 50 countries in Singapore on Aug 7 to support new mediation tr
 date:   2019-07-29
 permalink: /media/media-release/suport-mediation-treaty
 ---
+                      
 
 <p align="justify">
 1.    Ministers and senior officials from more than 50 countries will gather in Singapore to support a new international treaty on mediation when it opens for signature on 7 August 2019. The United Nations (UN) Convention on International Settlement Agreements Resulting from Mediation, also known as the Singapore Convention on Mediation, will provide for the cross-border enforcement of mediated settlement agreements, give businesses greater certainty and assurance, and facilitate international trade and commerce. The Convention was adopted by consensus at the UN General Assembly on 20 December 2018. It will be the first UN treaty to be named after Singapore.
@@ -229,7 +230,7 @@ Mobile: <a href="tel:+6597270537"> 9727 0537 /</a>   <a href="tel:+6563324801">6
                                 <td class="font-weight-bold">Yemen </td>
                             </tr>
                         </table>
- <br> <br>
+
  
  <a name="Annex_C"> </a>
  <b> <a href="#Annex_C"> Annex C </a> – Launch of the INSOL Asia Hub, Grand Opening of Maxwell Chambers Suites and inaugural IBA Asia Pacific Arbitration Conference  </b> <br>
@@ -453,3 +454,4 @@ Mobile: <a href="tel:+6597270537"> 9727 0537 /</a>   <a href="tel:+6563324801">6
                             </li>
                       
                         
+
