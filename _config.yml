@@ -2,7 +2,7 @@ title: Singapore Convention on Mediation
 title-abbreviated: Us
 description: >- # this means to ignore newlines until "baseurl:"
   Description Singapore Convention on Mediation
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.singaporeconvention.org" # the base hostname & protocol for your site, e.g. http://example.com
 is_government: false
 
 # Build settings
