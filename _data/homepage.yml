@@ -11,6 +11,9 @@ favicon: /images/favicon.png
 # agency-logo: /images/scm-logo.png
 agency-logo: /images/logo.png
 
+# Google analytics
+google-analytics: UA-140220094-2
+
 # Hero Banner
 hero-title: <font size=14>Singapore Convention on Mediation</font>
 # hero-subtitle: <font size=6>A new UN treaty on mediation</font>
