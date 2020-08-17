@@ -24,8 +24,8 @@ hero-banner: /images/Web Banner_ClearBorder.png
 #Call to Action Button
 # commenting the call to action button as requested by Lisa (CCD)
 #button:
-# - text: Indicate your interest
-#   url: /
+ - text: Entry into Force
+   url: /
     
 key-highlights:
   - title: About the Convention
