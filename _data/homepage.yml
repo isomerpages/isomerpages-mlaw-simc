@@ -23,7 +23,7 @@ hero-banner: /images/Web Banner_ClearBorder.png
 
 #Call to Action Button
 # commenting the call to action button as requested by Lisa (CCD)
-#button:
+button:
  - text: Entry into Force
    url: /
     
