@@ -89,4 +89,8 @@ second_nav_title: "Gallery"
     <img src="/images/vid-overall-highlights.jpg" title="Overall Highights" alt="Singapore Convention on Mediation 2019"></a><br><b>Overall Highlights Video of SCM</b><br><br>
   </div>
   <div class="column"></div>
+  
+  <div class="row">
+  <div class="column">test <a href="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6657892148974841856"></a>
+  </div>
 </div>
