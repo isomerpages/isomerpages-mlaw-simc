@@ -90,9 +90,5 @@ second_nav_title: "Gallery"
   </div>
   <div class="column"></div>
   
-  <div class="row">
-  <div class="column">test <a href="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6657892148974841856"></a>
-    
-    <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6657892148974841856" height="691" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
-  </div>
+  
 </div>
