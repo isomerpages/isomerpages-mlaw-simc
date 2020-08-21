@@ -20,12 +20,6 @@ google-analytics: UA-140220094-2
 hero-banner: /images/Web_Banner_1.png
 
 #/images/SCM2020-home.jpg
-
-#Call to Action Button
-# commenting the call to action button as requested by Lisa (CCD)
-button:
- - text: Entry into Force
-   url: /
     
 key-highlights:
   - title: About the Convention
