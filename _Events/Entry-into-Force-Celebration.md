@@ -3,7 +3,7 @@ layout: leftnav-page-content
 title: Entry into Force Celebration 
 permalink: /Events/SCM2020
 breadcrumb: Entry into Force Celebration
-collection_name: Entry-into-Force-Celebration
+collection_name: Events
 ---
 <!--<style>
   .image {width: 720px;}
