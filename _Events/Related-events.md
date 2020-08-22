@@ -1,7 +1,8 @@
 ---
+layout: leftnav-page-content
 title: Related Events
-permalink: events/related-events
-breadcrumb: Related-Event
+permalink: /Events/related-events
+breadcrumb: Related Events
+collection_name: Events
 ---
-
 **SIMI content
