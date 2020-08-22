@@ -44,12 +44,12 @@ info-sections:
     section-more-button-url: /
     section-image-path: /images/SCM-Callout-Min4.jpg
 
-  - section-title: 
-    section-subtitle: 2019 Conference Highlights
-    section-description:  Watch highlights from the Singapore Convention and Signing Ceremony.
-    section-more-button: Watch now
-    section-more-button-url: /scm-2019/gallery-videos/
-    section-image-path: /images/home_Pix.jpg
+#  - section-title: 
+#    section-subtitle: 2019 Conference Highlights
+#    section-description:  Watch highlights from the Singapore Convention and Signing Ceremony.
+#    section-more-button: Watch now
+#    section-more-button-url: /scm-2019/gallery-videos/
+#    section-image-path: /images/home_Pix.jpg
    
 #  - section-subtitle: Organisers
 #    # section-more-button: 
