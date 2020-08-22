@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-permalink: /Event/SCM2020
+permalink: /Event/
 breadcrumb: Entry into Force Celebration
 collection_name: event
 title: Entry into Force Celebration 
