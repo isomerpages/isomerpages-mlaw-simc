@@ -13,7 +13,7 @@ title: Entry into Force Celebration
 </style>-->
 ### **Watch it here** 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Igb9ZqdhZiU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1120" height="630" src="https://www.youtube.com/embed/Igb9ZqdhZiU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 On 7 August 2019, 46 States signed the Singapore Convention on Mediation. Since then, more States have come on board. Singapore, Fiji, Qatar, Saudi Arabia and Belarus have deposited their respective instruments of ratification or approval. The Convention will enter into force on 12 September 2020. 
 
