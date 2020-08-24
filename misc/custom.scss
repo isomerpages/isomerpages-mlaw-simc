@@ -18,13 +18,14 @@ $tertiary: #7F3F98;
 //$secondary-hover: lighten($secondary, 10%);
 $secondary-hover: lighten($tertiary, 10%);
 
-$media-color-one: #3A8DDE; 
+$media-color-one: #7F3F98; 
 //#49759a; 
-$media-color-two: #3A8DDE; 
+$media-color-two: #7F3F98; 
 	//#744d9f;
-$media-color-three: #00838f;
-$media-color-four: #00838f;
-$media-color-five: #00838f;
+	//#3A8DDE
+$media-color-three: #7F3F98;
+$media-color-four: #7F3F98;
+$media-color-five: #7F3F98;
 
 $gap: 32px !default;
 $desktop: 960px + (2 * $gap) !default;
