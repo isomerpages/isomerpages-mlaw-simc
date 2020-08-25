@@ -11,11 +11,9 @@ title: Entry into Force Celebration
   .image {width: auto; height: auto;}
 }         
 </style>-->
-
   <!--<div class="image">
   <img src="/images/Event_banner.png/" title="SCM2020" alt="SCM2020"></div>
   -->
-  
 ![Event-banner](/images/Event_banner.png/)
 
 ### **Watch it Now** 
