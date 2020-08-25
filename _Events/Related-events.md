@@ -17,4 +17,5 @@ Run by an experienced team of mediation professionals and former competitors, IM
 
 [Contact](imsg@simi.org.sg)  
 [Find out more](https://www.simi.org.sg/imsg)
-<br>[E-Flyer](https://drive.google.com/file/d/1g8QmRKTEpEuD-3mxBTdfJidkKTDmHGTn/view?usp=sharing)
+<!-- <br>[E-Flyer](https://drive.google.com/file/d/1g8QmRKTEpEuD-3mxBTdfJidkKTDmHGTn/view?usp=sharing) -->
+<br>[E-Flyer](../pdf/IMSG%202020%20Registration.pdf)
