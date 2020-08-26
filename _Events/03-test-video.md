@@ -5,15 +5,7 @@ breadcrumb: Test Video
 collection_name: Events
 title: Test Video
 ---
-<!--<style>
-  .image {width: 720px;}
-  .image {max-width: 100%; max-height:100%; object-fit: contain;}
-  .image {width: auto; height: auto;}
-}         
-</style>-->
-  <!--<div class="image">
-  <img src="/images/Event_banner.png/" title="SCM2020" alt="SCM2020"></div>
-  -->
+
   <style>
   
   .video1 {
