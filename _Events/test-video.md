@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-permalink: /Events/SCM2020
+permalink: /Events/test-video
 breadcrumb: Entry into Force Celebration
 collection_name: Events
 title: Entry into Force Celebration 
