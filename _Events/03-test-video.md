@@ -1,9 +1,9 @@
 ---
 layout: leftnav-page-content
 permalink: /Events/test-video
-breadcrumb: Entry into Force Celebration
+breadcrumb: Test Video
 collection_name: Events
-title: Entry into Force Celebration 
+title: Test Video
 ---
 <!--<style>
   .image {width: 720px;}
