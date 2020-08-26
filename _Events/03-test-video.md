@@ -2,7 +2,6 @@
 layout: leftnav-page-content
 permalink: /Events/test-video
 breadcrumb: Test Video
-collection_name: Events
 title: Test Video
 ---
 
