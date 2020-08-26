@@ -9,7 +9,7 @@ collection_name: Events
 *Organised by Singapore International Mediation Institute (SIMI)*
 
 Dates:
-<br>30 Oct-1 Nov, 7 and 8 Nov
+<br>30 Oct to 1 Nov, 7 and 8 Nov
 
 International Mediation Singapore (IMSG) 2020 is the second edition of the highly successful IMSG 2019. The event will see tertiary students from around the world compete as mediation advocates and mediators. It will also be judged by professional mediators on SIMI’s international panel. 
 
