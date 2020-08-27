@@ -15,7 +15,7 @@ International Mediation Singapore (IMSG) 2020 is the second edition of the highl
 
 Run by an experienced team of mediation professionals and former competitors, IMSG was designed from the ground up to take the bar higher in the international mediation competition circuit. Driven by the “IMSG Ranking System”, teams can expect an immersive experience that truly challenges their skills from start to finish – with no eliminations, dynamic live power pairings and a top tier finish guaranteed for every team.
 
-[Contact]<imsg@simi.org.sg>  
+<imsg@simi.org.sg>  
 [Find out more](https://www.simi.org.sg/imsg)
 <!-- <br>[E-Flyer](https://drive.google.com/file/d/1g8QmRKTEpEuD-3mxBTdfJidkKTDmHGTn/view?usp=sharing) -->
 <br>[E-Flyer](../pdf/IMSG%202020%20Registration.pdf)
