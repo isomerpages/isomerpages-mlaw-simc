@@ -193,7 +193,7 @@ breadcrumb: About
 <div id="something">Bingo!</div>
 
 
-<table>
+
     
     
             <div id="intro" class="myModal" >
@@ -224,4 +224,4 @@ breadcrumb: About
             </div>   
 	    
         
-            </table>
+
