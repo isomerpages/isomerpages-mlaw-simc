@@ -14,6 +14,8 @@ breadcrumb: About
   display: block;
 }
 
+.container{width:100%;padding-right:15px;padding-left:15px;margin-right:auto;margin-left:auto}
+
   body {
     font-family: 'Open Sans', sans-serif;
     background: #FDFBF7;
@@ -194,7 +196,7 @@ breadcrumb: About
 
 
 
-    
+    <div class="container">
     
             <div id="intro" class="myModal" >
                 <div class="modal-window">
@@ -224,4 +226,4 @@ breadcrumb: About
             </div>   
 	    
         
-
+</div>
