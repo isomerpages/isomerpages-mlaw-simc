@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: About Singapore
+title: About 
 permalink: /about-sg-test
 breadcrumb: About
 
