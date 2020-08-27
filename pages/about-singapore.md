@@ -5,7 +5,7 @@ permalink: /about-sg-test
 breadcrumb: About
 
 ---
-
+<style>
 #something {
   display: none;
 }
@@ -13,6 +13,7 @@ breadcrumb: About
 #something:target {
   display: block;
 }
+</style>
 
 ### **About**
 <a href="#something">Show</a>
