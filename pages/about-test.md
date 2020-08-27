@@ -194,7 +194,7 @@ breadcrumb: About
 
 
 <table>
-    <div class="container">
+    
     
             <div id="intro" class="myModal" >
                 <div class="modal-window">
@@ -223,5 +223,5 @@ breadcrumb: About
                 </div>
             </div>   
 	    
-        </div>    
+        
             </table>
