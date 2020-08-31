@@ -52,4 +52,6 @@ collections:
     output: true
   SCM-2019:
     output: true
+  Events:
+    output: true
 resources_name: media

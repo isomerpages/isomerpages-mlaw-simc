@@ -29,7 +29,13 @@
 #  - title: Organisers and Partners
 #    url: /conference/organisers-and-partners/
       
-
+- title: Events 
+  url: /Events/SCM2020
+  sub-links:
+  - title: Entry into Force Celebration
+    url: /Events/SCM2020
+  - title: Related Events
+    url: /Events/related-events
   
 - title: Media
   url: /media/
