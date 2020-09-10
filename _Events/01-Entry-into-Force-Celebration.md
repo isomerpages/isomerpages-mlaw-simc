@@ -36,9 +36,8 @@ Watch it Now -->
  --!>
 </div>
 
-<!-- 
-If you are unable to view the video above, please try this link: [SMU Mediacast](https://mediacast.smu.edu.sg/)
---!>
+ [//]: # If you are unable to view the video above, please try this link: [SMU Mediacast](https://mediacast.smu.edu.sg/)
+
 
 On 7 August 2019, 46 States signed the Singapore Convention on Mediation. Since then, more States have come on board. Singapore, Fiji, Qatar, Saudi Arabia, Belarus and Ecuador have deposited their respective instruments of ratification or approval. The Convention will enter into force on 12 September 2020. 
 
