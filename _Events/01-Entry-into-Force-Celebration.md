@@ -31,6 +31,8 @@ title: Entry into Force Celebration
 
 <div class="video1">
 <iframe width="560" height="315" src="https://youtu.be/CnO9jgl7kIE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/CnO9jgl7kIE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 If you are unable to view the video above, please try this link: [SMU Mediacast](https://mediacast.smu.edu.sg/media/Singapore+Convention+on+MediationA+Entry+Into+Force+Celebration/1_ggn50nf7)
