@@ -403,7 +403,7 @@ Mobile: <a href="tel:+6597270537"> 9727 0537 /</a>   <a href="tel:+6563324801">6
 <p align="justify"> The United Nations Commission on International Trade Law (“UNCITRAL”) is the core legal body of the United Nations system in the field of international trade law. UNCITRAL’s Working Group II (“WGII”) on Dispute Settlement has been working on instruments to provide for the cross-border enforcement of international commercial settlement agreements reached through mediation.</p>
 </li>
  <li>
-                               <p align="justify">In February 2018, WGII finalised (i) the United Nations Convention on International Settlement Agreements Resulting from Agreement (“the Convention”); as well as (ii) amendments to the Model Law on International Commercial Conciliation (2002). </p>
+                               <p align="justify">In June 2018, the Commission finalised the United Nations Convention on International Settlement Agreements Resulting from Agreement (“the Convention”) and adopted the UNCITRAL Model Law on International Commercial Mediation and International Settlement Agreements Resulting from Mediation, 2018 (amending the Model Law on International Commercial Conciliation, 2002). </p>
                             </li>
                             <li>
                                 <p align="justify"> On 20 December 2018, the United Nations General Assembly (i) adopted the Convention; (ii) authorised the signing ceremony of the Convention to be held in Singapore; and (iii) authorised the nomenclature of the “Singapore Convention on Mediation”. </p>
