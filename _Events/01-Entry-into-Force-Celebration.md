@@ -29,9 +29,7 @@ title: Entry into Force Celebration
 
 ### **Watch it Now** 
 
-<div class="video1">
-<iframe width="560" height="315" src="https://youtu.be/CnO9jgl7kIE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  
+<div class="video1">  
   <iframe width="560" height="315" src="https://www.youtube.com/embed/CnO9jgl7kIE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
