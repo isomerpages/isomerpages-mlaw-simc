@@ -42,4 +42,4 @@ UNCITRAL has requested that Governments inform Ms Anna Joubin-Bret, Secretary of
 
 * On 25 February 2020 , Singapore and Fiji became the first two countries to deposit their respective instruments of ratification of the Convention at the United Nations Headquarters in New York. 
 
-* With the deposit on 12 March 2020 of the third instrument of ratification by Qatar, the Convention will enter into force on 12 September 2020.
+* With the deposit on 12 March 2020 of the third instrument of ratification by Qatar, the Convention entered into force on 12 September 2020.
