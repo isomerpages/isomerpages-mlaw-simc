@@ -36,11 +36,8 @@ title: Entry into Force Celebration
 If you are unable to view the digital event above, please try this link: [SMU Mediacast](https://mediacast.smu.edu.sg/media/Singapore+Convention+on+MediationA+Entry+Into+Force+Celebration/1_ggn50nf7)
 
 
-On 7 August 2019, 46 States signed the Singapore Convention on Mediation. Since then, more States have come on board. Singapore, Fiji, Qatar, Saudi Arabia, Belarus and Ecuador have deposited their respective instruments of ratification or approval. The Convention will enter into force on 12 September 2020. 
+On 7 August 2019, 46 States signed the Singapore Convention on Mediation. Since then, more States have come on board. Singapore, Fiji, Qatar, Saudi Arabia, Belarus and Ecuador have deposited their respective instruments of ratification or approval. The Convention entered into force on 12 September 2020. 
 
 This is a significant milestone. With the coming into force of the Convention, businesses will have greater assurance that mediation can be relied on to settle cross-border commercial disputes, which will facilitate the growth of international commerce and promote the use of mediation around the world. 
-
-Date: Saturday, 12 September 2020
-<br>Time: 0000hrs GMT-4 NY Time (1200hrs GMT+8 SG Time) 
 
 Jointly organised by the Singapore Ministry of Law and UNCITRAL, to commemorate the entry into force of the Convention. 
