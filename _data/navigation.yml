@@ -1,20 +1,12 @@
 logo: /images/logo.png
 links:
-    -
-        title: Convention
-        url: /convention/about-convention/
-        collection: convention
-    -
-        title: Events
-        url: /Events/SCM2020
-        collection: events
-    -
-        title: Media
-        resource_room: true
-    -
-        title: 'SCM 2019'
-        url: /SCM-2019/
-        collection: scm-2019
-    -
-        title: 'Contact Us'
-        url: /contact-us/
+  - title: Convention
+    collection: about-convention
+  - title: Events
+    collection: Events
+  - title: Media
+    resource_room: true
+  - title: 'SCM 2019'
+    collection: SCM-2019
+  - title: 'Contact Us'
+    url: /contact-us/
