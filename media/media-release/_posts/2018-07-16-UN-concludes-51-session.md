@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  UN Commission on International Trade Law concludes 51st Session in New York
-date:   2018-07-16
+title: 'UN Commission on International Trade Law concludes 51st Session in New York'
+date: 2018-07-16T00:00:00.000Z
 permalink: /media/media-release/UN-concludes-51-session
+
 ---
+
 
 VIENNA/NEW YORK, 16 July (UN Information Service) - The United Nations Commission on International Trade Law (UNCITRAL) celebrated the 60th anniversary of the New York Convention, adopted legislative texts on mediation, business registration and insolvency, and held a round table on technical assistance to law reform during its 51st annual session in New York.
 
