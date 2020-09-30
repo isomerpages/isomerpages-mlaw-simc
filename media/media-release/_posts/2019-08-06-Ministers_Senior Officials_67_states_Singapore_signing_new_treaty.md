@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  Ministers and Senior Officials from 67 states arrived in Singapore for signing of new treaty on mediation
-date:   2019-08-06
+title: 'Ministers and Senior Officials from 67 states arrived in Singapore for signing of new treaty on mediation'
+date: 2019-08-06T00:00:00.000Z
 permalink: /media/media-release/sign-mediation-treaty
+
 ---
+
  <ol type="1">
                         <li>
                           <p align="justify">Ministers and Senior Officials from 67 States around the world arrived in Singapore today for the signing of a new treaty on mediation which will provide a much needed boost to international trade and commerce. They were received by Singapore Minister for Home Affairs and Minister for Law K Shanmugam at an official Welcome Reception at the Clifford Pier, a historic site of trade and commerce, against the iconic skyline of the Marina Bay in Singapore.
