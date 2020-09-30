@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Related Events
+title: 'Related Events'
 permalink: /Events/related-events
-breadcrumb: Related Events
-collection_name: Events
+breadcrumb: 'Related Events'
+
 ---
+
 ### **International Mediation Singapore (IMSG) 2020 – A Premier Mediation Competition for Students** 
 *Organised by Singapore International Mediation Institute (SIMI)*
 
