@@ -1,9 +1,10 @@
 ---
-layout: simple-page
 permalink: /contact-us/
-breadcrumb: Contact Us
-title: Contact Us
+breadcrumb: 'Contact Us'
+title: 'Contact Us'
+
 ---
+
 ### **Get in touch** ###
 
 **General Enquiries**
