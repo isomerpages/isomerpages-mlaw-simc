@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
 title: Status
 permalink: /convention/status/
 breadcrumb: Status
-collection_name: about-convention
+
 ---
+
 
 ### **Status** ###
 
