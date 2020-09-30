@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
 permalink: /SCM-2019/Gallery-photos/
-breadcrumb: SCM 2019 Gallery Photos
-title: SCM 2019 Photos
-collection_name: SCM-2019
-second_nav_title: "Gallery"
+breadcrumb: 'SCM 2019 Gallery Photos'
+title: 'SCM 2019 Photos'
+third_nav_title: Gallery
+
 ---
+
 ### **Photos**
 <style>
 .row {
