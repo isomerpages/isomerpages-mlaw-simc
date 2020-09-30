@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: The Convention Text
+title: 'The Convention Text'
 permalink: /convention/the-convention-text/
-breadcrumb: The Convention Text
-collection_name: about-convention
+breadcrumb: 'The Convention Text'
+
 ---
+
 ### **What is the Singapore Convention on Mediation?**
 
 *A uniform and efficient framework for international settlement agreements resulting from mediation*

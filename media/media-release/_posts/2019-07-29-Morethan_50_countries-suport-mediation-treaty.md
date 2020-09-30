@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  More than 50 countries in Singapore on Aug 7 to support new mediation treaty
-date:   2019-07-29
+title: 'More than 50 countries in Singapore on Aug 7 to support new mediation treaty'
+date: 2019-07-29T00:00:00.000Z
 permalink: /media/media-release/suport-mediation-treaty
+
 ---
+
                       
 
 <p align="justify">

@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
 permalink: /SCM-2019/
-breadcrumb: SCM 2019 Conference
-collection_name: SCM-2019
-title: Singapore Convention Signing Ceremony and Conference Highlights 
+breadcrumb: 'SCM 2019 Conference'
+title: 'Singapore Convention Signing Ceremony and Conference Highlights'
+
 ---
+
 
 ### **Singapore Convention Signing Ceremony and Conference Highlights**
 

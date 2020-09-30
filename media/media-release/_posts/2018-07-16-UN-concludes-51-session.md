@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  UN Commission on International Trade Law concludes 51st Session in New York
-date:   2018-07-16
+title: 'UN Commission on International Trade Law concludes 51st Session in New York'
+date: 2018-07-16T00:00:00.000Z
 permalink: /media/media-release/UN-concludes-51-session
+
 ---
+
 
 VIENNA/NEW YORK, 16 July (UN Information Service) - The United Nations Commission on International Trade Law (UNCITRAL) celebrated the 60th anniversary of the New York Convention, adopted legislative texts on mediation, business registration and insolvency, and held a round table on technical assistance to law reform during its 51st annual session in New York.
 
@@ -33,23 +34,4 @@ The Commission discussed a number of topics for possible future work. It gave pr
 
 #### **Transparency Registry**
 The OPEC Fund for International Development (OFID) renewed a grant to support the UNCITRAL Transparency Registry for a further two years. The Commission extended its appreciation to OFID, which has been a donor to the Transparency Registry since December 2015, together with the European Union (EU).
-
-----------------------
-
-The United Nations Commission on International Trade Law (UNCITRAL) is the core legal body of the United Nations system in the field of international trade law. Its mandate is to remove legal obstacles to international trade by progressively modernizing and harmonizing trade law. It prepares legal texts in a number of key areas such as international commercial dispute settlement, electronic commerce, insolvency, international payments, sale of goods, transport law, procurement, and infrastructure development. UNCITRAL also provides technical assistance to law reform activities, including assisting Member States to review and assess their law reform needs and to draft the legislation required to implement UNCITRAL texts. The UNCITRAL Secretariat is located in Vienna and maintains a website at [www.uncitral.org](http://www.uncitral.org){:target="_blank"}.
-
-
-
-For information contact, please contact:
-
-Jenny Clift
-
-Principal Legal Officer
-
-UNCITRAL Secretariat
-
-Email: [jenny.clift@un.org](mailto:jenny.clift@un.org)
-
-
-Source: [http://www.unis.unvienna.org/unis/en/pressrels/2018/unisl264.html](http://www.unis.unvienna.org/unis/en/pressrels/2018/unisl264.html){:target="_blank"}
 
