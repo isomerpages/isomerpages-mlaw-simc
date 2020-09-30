@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  46 States signed new international treaty on mediation
-date:   2019-08-07
+title: '46 States signed new international treaty on mediation'
+date: 2019-08-07T00:00:00.000Z
 permalink: /media/media-release/States-signed-international-treaty
+
 ---
+
 
  <div>
                       <ol type="1" class="liststyle">
