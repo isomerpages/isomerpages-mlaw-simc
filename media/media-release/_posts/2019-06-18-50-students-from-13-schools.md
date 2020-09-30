@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  50 students from 13 schools to be appointed Singapore Convention Youth Ambassadors
-date:   2019-06-18
+title: '50 students from 13 schools to be appointed Singapore Convention Youth Ambassadors'
+date: 2019-06-18T00:00:00.000Z
 permalink: /media/media-release/50-students-from-13-schools
+
 ---
+
 
 1.  Some 50 students from 13 schools will be appointed Singapore Convention Youth Ambassadors to high-level international delegations visiting Singapore in August to witness the signing of the Singapore Convention on Mediation. This was announced today by the Singapore Ministry of Law (MinLaw) at the launch of the Singapore Convention Youth Involvement Programme. The list of 13 participating schools can be found at Annex A.
 
