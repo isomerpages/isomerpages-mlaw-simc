@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
 permalink: /SCM-2019/conference-reports/
-breadcrumb: SCM 2019 Conference
-collection_name: SCM-2019
-title: Conference Reports
+breadcrumb: 'SCM 2019 Conference'
+title: 'Conference Reports'
+
 ---
+
 
 ### **Conference Reports** ###
 
