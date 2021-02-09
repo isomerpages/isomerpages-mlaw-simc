@@ -10,9 +10,9 @@ sections:
         - title: 'About the Convention'
           description: 'First of its kind'
           url: /convention/about-convention/
-        - title: 'SC Week 2021'
-          description: '6 - 10 September 2021'
-          url: /events/scm2020
+        - title: 'Singapore Convention Week 2021'
+          description: 'Save the date'
+          url: /events/SC-Week-2021
   - infopic:
       title: null
       subtitle: null
