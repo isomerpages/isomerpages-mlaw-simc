@@ -5,13 +5,13 @@ permalink: /
 notification: null
 sections:
   - hero:
-      background: /images/Edited_KV.png
+      background: /images/SCWeekTestBanner.jpg
       key_highlights:
         - title: 'About the Convention'
           description: 'First of its kind'
           url: /convention/about-convention/
-        - title: 'Entry into Force Celebration'
-          description: 'Digital Event to Commemorate the Entry into Force of the Convention'
+        - title: 'SC Week 2021'
+          description: '6 - 10 September 2021'
           url: /events/scm2020
   - infopic:
       title: null
