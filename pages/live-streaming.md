@@ -23,3 +23,4 @@ td { font-size: 18px; }
 <td>Before serving the Notice of Negotiation, the Affected Business should prepare the supporting documents (set out <a href="https://go.gov.sg/re-align-eligibility-supportingdocs">here</a>) which should be enclosed to the Notice of Negotiation.</td>
 </tr>
 </table>
+
