@@ -11,7 +11,7 @@ breadcrumb: Live Streaming
 > Before serving the Notice of Negotiation, the Affected Business <mark>should prepare the supporting documents (set out <a href="https://go.gov.sg/re-align-eligibility-supportingdocs">here</a>)</mark> which should be enclosed to the Notice of Negotiation.
 
 <style>
-table { background-color: #d3d3d3; font-size: 24px;}
+table { background-color: #add8e6; font-size: 24px;}
 tr {  }
 td {  }  
   
