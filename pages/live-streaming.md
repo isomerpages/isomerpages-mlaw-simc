@@ -13,7 +13,7 @@ breadcrumb: Live Streaming
 <style>
 table { background-color: #d3d3d3; font-size: 24px;}
 tr {  }
-td { font-size: 18px; }  
+td {  }  
   
 </style>
 
