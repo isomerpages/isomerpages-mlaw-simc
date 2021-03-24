@@ -5,7 +5,7 @@ permalink: /
 notification: null
 sections:
   - hero:
-      background: /images/SCWeekTestBanner.jpg
+      background: /images/SCM2021Hero.jpg
       key_highlights:
         - title: 'About the Convention'
           description: 'First of its kind'
