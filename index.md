@@ -11,7 +11,7 @@ sections:
           description: 'First of its kind'
           url: /convention/about-convention/
         - title: 'Entry into Force Celebration'
-          description: 'Digital Cvent to Commemorate the Entry into Force of the Convention'
+          description: 'Digital Event to Commemorate the Entry into Force of the Convention'
           url: /events/scm2020
   - infopic:
       title: null
