@@ -10,17 +10,15 @@ sections:
         - title: 'About the Convention'
           description: 'First of its kind'
           url: /convention/about-convention/
-        - title: 'Singapore Convention Week 2021'
-          description: 'Save the date'
-          url: /events/SC-Week-2021
+        - title: 'Entry into Force Celebration'
+          description: 'Digital Cvent to Commemorate the Entry into Force of the Convention'
+          url: /events/scm2020
   - infopic:
       title: null
       subtitle: null
-      description: 'In 2019, history was made when Singapore hosted the signing ceremony where 46 countries signed the Singapore Convention on Mediation, with more coming on board after. With Singapore, Fiji, Qatar, Saudi Arabia, Belarus and Ecuador now having deposited their respective instruments of ratification or approval, come celebrate with us as the Convention enters into force. <br><br>Date | Saturday, 12 September 2020 <br>Time | 0000hrs, GMT-4 NY Time (1200hrs GMT+8 SG Time)'
+      description: 'In 2019, history was made when Singapore hosted the signing ceremony where 46 countries signed the Singapore Convention on Mediation, with more coming on board after. To-date, Singapore, Fiji, Qatar, Saudi Arabia, Belarus and Ecuador have deposited their respective instruments of ratification or approval. <br><br>On 12 September 2020, we celebrated the entry into force of the Singapore Convention on Mediation. <a href="/events/scm2020">Click here</a> to watch the digital ceremony.'
       url: /events/scm2020
       image: /images/Formal_Signatories_website_edited.jpg
-      alt: Watch Here
-      button: 'Watch Here'
   - resources:
       subtitle: Media
       title: Newsroom
