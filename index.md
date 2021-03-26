@@ -20,7 +20,7 @@ sections:
       url: /events/scm2020
       image: /images/Formal_Signatories_website_edited.jpg
       alt: Watch Here
-      button: 'Click here to watch the digital ceremony'
+      
   - resources:
       subtitle: Media
       title: Newsroom
