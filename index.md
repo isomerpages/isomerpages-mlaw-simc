@@ -20,7 +20,7 @@ sections:
       url: /events/scm2020
       image: /images/Formal_Signatories_website_edited.jpg
       alt: Watch Here
-      
+      The next Singapore Convention Week will be held 6 - 10 September 2021. Save the date and check back for moer information! 
   - resources:
       subtitle: Media
       title: Newsroom
