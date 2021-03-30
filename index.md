@@ -16,11 +16,10 @@ sections:
   - infopic:
       title: null
       subtitle: null
-      description: 'In 2019, history was made when Singapore hosted the signing ceremony where 46 countries signed the Singapore Convention on Mediation, with more coming on board after. To-date, Singapore, Fiji, Qatar, Saudi Arabia, Belarus and Ecuador have deposited their respective instruments of ratification or approval. <br><br>On 12 September 2020, we celebrated the entry into force of the Singapore Convention on Mediation. <a href="/events/scm2020">Click here</a> to watch the digital ceremony.'
+      description: 'In 2019, history was made when Singapore hosted the signing ceremony where 46 countries signed the Singapore Convention on Mediation, with more coming on board after. To-date, Singapore, Fiji, Qatar, Saudi Arabia, Belarus and Ecuador have deposited their respective instruments of ratification or approval. <br><br>On 12 September 2020, we celebrated the entry into force of the Singapore Convention on Mediation. <a href="/events/scm2020">Click here</a> to watch the digital ceremony.' <p>The next Singapore Convention Week will be held 6 - 10 September 2021. Save the date and check back for more information! 
       url: /events/scm2020
       image: /images/Formal_Signatories_website_edited.jpg
-      alt: Watch Here
-      The next Singapore Convention Week will be held 6 - 10 September 2021. Save the date and check back for moer information! 
+      alt: Watch Here 
   - resources:
       subtitle: Media
       title: Newsroom
