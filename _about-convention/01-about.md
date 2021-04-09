@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: About the Convention
+title: 'About the Convention'
 permalink: /convention/about-convention/
-breadcrumb: About the Convention
-collection_name: about-convention
+breadcrumb: 'About the Convention'
+
 ---
+
 <!--<style>
   .image {width: 720px;}
   .image {max-width: 100%; max-height:100%; object-fit: contain;}

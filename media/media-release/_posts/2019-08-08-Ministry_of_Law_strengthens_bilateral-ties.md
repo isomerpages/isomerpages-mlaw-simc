@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  Ministry of Law strengthens bilateral ties on the side of Singapore Convention Signing Ceremony and Conference
-date:   2019-08-08
+title: 'Ministry of Law strengthens bilateral ties on the side of Singapore Convention Signing Ceremony and Conference'
+date: 2019-08-08T00:00:00.000Z
 permalink: /media/media-release/strengthens-bilateral-ties_08Aug
+
 ---
+
 <div>
                 <ol type="1" class="liststyle">
                         <li>
@@ -18,8 +19,4 @@ permalink: /media/media-release/strengthens-bilateral-ties_08Aug
  <p>
 <b> MINISTRY OF LAW </b> <br> <b> 08 August 2019 </b>  
   </p>               
-<b> Media Contact </b> <br><br>
-Helenn Loh <br>
-Assistant Director, Corporate Communications Division <br>
-Email: <a href="mailto:Helenn_loh@mlaw.gov.sg">Helenn_loh@mlaw.gov.sg </a> <br>
-Mobile: <a href="tel:+6597270537"> 9727 0537 /</a>   <a href="tel:+6563324801">6332 4801</a> 
+

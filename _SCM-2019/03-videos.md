@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
 permalink: /SCM-2019/Gallery-videos/
-breadcrumb: SCM 2019 Gallery Videos
-title: SCM 2019 Videos
-collection_name: SCM-2019
-second_nav_title: "Gallery"
+breadcrumb: 'SCM 2019 Gallery Videos'
+title: 'SCM 2019 Videos'
+third_nav_title: Gallery
+
 ---
+
 ### **Videos**
 <style>
 .row {

@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
 permalink: /Events/SCM2020
-breadcrumb: Entry into Force Celebration
-collection_name: Events
-title: Entry into Force Celebration 
+breadcrumb: 'Entry into Force Celebration'
+title: 'Entry into Force Celebration'
+
 ---
+
 <style>
   
   .video1 {
@@ -27,7 +27,7 @@ title: Entry into Force Celebration
   
 ![Event-banner](/images/Event_banner.png/)
 
-### **Watch it Now** 
+### **Watch the Celebration** 
 
 <div class="video1">  
   <iframe width="560" height="315" src="https://www.youtube.com/embed/CnO9jgl7kIE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

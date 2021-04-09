@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  More than 50 countries in Singapore on Aug 7 to support new mediation treaty
-date:   2019-07-29
+title: 'More than 50 countries in Singapore on Aug 7 to support new mediation treaty'
+date: 2019-07-29T00:00:00.000Z
 permalink: /media/media-release/suport-mediation-treaty
+
 ---
+
                       
 
 <p align="justify">
@@ -51,11 +52,6 @@ permalink: /media/media-release/suport-mediation-treaty
 <p>
 <b> MINISTRY OF LAW </b> <br> <b> 29 JULY 2019  </b>  
   </p>               
-<b> Media Contact </b> <br><br>
-Helenn Loh <br>
-Assistant Director, Corporate Communications Division <br>
-Email: <a href="mailto:Helenn_loh@mlaw.gov.sg">Helenn_loh@mlaw.gov.sg </a> <br>
-Mobile: <a href="tel:+6597270537"> 9727 0537 /</a>   <a href="tel:+6563324801">6332 4801</a> 
 
  <a name="Annex_A"> </a>
 <b> <a href="#Annex_A"> Annex A: </a>  List of countries attending the Singapore Convention Signing Ceremony and Conference (subject to change; as of 28 July 2019) 

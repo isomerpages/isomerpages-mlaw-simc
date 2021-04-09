@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Singapore Convention Week
+title: 'Singapore Convention Week'
 permalink: /singapore-convention-week/
-breadcrumb: 
-collection_name: sg-convention-week
+breadcrumb: null
+
 ---
+
 The Singapore Convention Week will feature a series of events related to dispute resolution. 
 
 #### **International Mediation Singapore (IMSG) 2020 – A Premier Mediation Competition for Students** ####

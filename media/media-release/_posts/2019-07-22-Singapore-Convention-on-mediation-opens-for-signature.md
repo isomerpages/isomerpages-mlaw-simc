@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  Singapore Convention on Mediation opens for signature on 7 August
-date:   2019-07-22
+title: 'Singapore Convention on Mediation opens for signature on 7 August'
+date: 2019-07-22T00:00:00.000Z
 permalink: /media/media-release/Singapore-Convention-on-mediation-opens-for-signature
+
 ---
+
 <p align="justify">
 1.  On 20 December 2018, the United Nations General Assembly adopted the United Nations Convention on International Settlement Agreements Resulting from Mediation. The new Convention will be named the Singapore Convention on Mediation and opens for  signature in Singapore on 7 August 2019.
 </p>
@@ -34,9 +35,5 @@ Please see attached information sheet and visit <a href="https://www.singaporeco
 <p>
 <b> MINISTRY OF LAW </b> <br> <b> 22 JULY 2019  </b>  
   </p>               
-<b> Media Contact </b> <br><br>
-Helenn Loh <br>
-Assistant Director, Corporate Communications Division <br>
-Email: <a href="mailto:Helenn_loh@mlaw.gov.sg">Helenn_loh@mlaw.gov.sg </a> <br>
-Mobile: <a href="tel:+6597270537"> 9727 0537 /</a>   <a href="tel:+6563324801">6332 4801</a> 
+
 
