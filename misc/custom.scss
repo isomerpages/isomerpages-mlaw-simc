@@ -376,3 +376,10 @@ $desktop: 960px + (2 * $gap) !default;
     width: 100%;
   }
 }
+
+
+//provided by Isomer team to remove the effect of making the banner image darker.
+.bp-hero-body{
+	background:unset;
+}
+
