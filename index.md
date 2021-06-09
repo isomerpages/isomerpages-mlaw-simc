@@ -8,7 +8,7 @@ sections:
       background: /images/SCM2021Hero.jpg
       key_highlights:
         - title: 'Singapore Convention Week 2021'
-          description: 'Register your interest for SC Week here'
+          description: 'REGISTER your interest for SC Week here!'
           url: https://form.gov.sg/#!/5e4f409166472d0011c87d7c     
         - title: 'About the Convention'
           description: 'First of its kind'
