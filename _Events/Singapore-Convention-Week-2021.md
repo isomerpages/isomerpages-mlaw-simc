@@ -16,6 +16,8 @@ The Singapore Convention Week is a series of events related to dispute resolutio
 
 This includes the inaugural UNCITRAL Academy, which is jointly organised by the Singapore Ministry of Law and the United Nations Commission on International Trade Law (UNCITRAL), and various events organised by the Singapore Convention Week supporting organisations.
 
+Register your interest <a href="https://go.gov.sg/sgconvention2021" target="new">here</a>! 
+
 ### **Schedule**
   <!--<div class="image">
   <img src="/images/SCMwebsite-ProgramTable-22Jun21-B.jpg"></div>
