@@ -24,5 +24,5 @@ Register your interest <a href="https://go.gov.sg/sgconvention2021" target="new"
   -->
   
 ![Schedule](/images/SCMwebsite-ProgramTable-22Jun21-B.jpg/) 
-
+<i>Note: Timings indicated are in Singapore time (GMT +7)</i>
 
