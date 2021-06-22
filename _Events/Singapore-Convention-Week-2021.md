@@ -16,9 +16,9 @@ The Singapore Convention Week is a series of events related to dispute resolutio
 
 ### **Schedule**
   <!--<div class="image">
-  <img src="/images/SCMwebsite-ProgramTable-22Jun21.jpg"></div>
+  <img src="/images/SCMwebsite-ProgramTable-22Jun21-B.jpg"></div>
   -->
   
-![Schedule](/images/SCMwebsite-ProgramTable-22Jun21.jpg/) 
+![Schedule](/images/SCMwebsite-ProgramTable-22Jun21-B.jpg/) 
 
 
