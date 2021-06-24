@@ -67,13 +67,13 @@ Hear from a diverse range of experts over common issues that arise when working 
 - Privilege and confidentiality
 
 Moderator:
-- Mr. Yu-Jin Tay – Vice-President, Singapore Institute of Arbitrators; Partner & Head, International Arbitration (Asia), Mayer Brown LLP
+- Mr Yu-Jin Tay – Vice-President, Singapore Institute of Arbitrators; Partner & Head, International Arbitration (Asia), Mayer Brown LLP
 
 Experts:
 - Ms. Anne Connolly – Senior Managing Director, Ankura Consulting (APAC) Pte. Ltd
-- Mr. John Gibson – Director of Asia, Marine Engineer, Brookes Bell Singapore
-- Mr. Christopher Goncalves - Chair and Managing Director, Energy & Climate, BRG, USA 
-- Mr. Jonathan Humphrey – Partner, HKA, Australia
+- Mr John Gibson – Director of Asia, Marine Engineer, Brookes Bell Singapore
+- Mr Christopher Goncalves - Chair and Managing Director, Energy & Climate, BRG, USA 
+- Mr Jonathan Humphrey – Partner, HKA, Australia
 
 <b>SESSION 3: MOCK ARBITRATION: A DEMONSTRATION OF HOT-TUBBING</b>
   
@@ -82,19 +82,19 @@ Participants will see experienced counsel pit their wits against equally experie
 Scenario: Damages Experts in the Hot Seat
 
 Conveners:
-- Mr. Chan Leng Sun SC - Advocate, Duxton Hill Chambers (Singapore Group Practice) 
--	Mr. Iain Potter – Executive Vice President, JS Held
+- Mr Chan Leng Sun SC - Advocate, Duxton Hill Chambers (Singapore Group Practice) 
+-	Mr Iain Potter – Executive Vice President, JS Held
 
 Arbitrator: 
-- Mr. Thio Shen Yi SC  - Joint Managing Partner, TSMP Law Corporation
+- Mr Thio Shen Yi SC  - Joint Managing Partner, TSMP Law Corporation
 
 Expert Witnesses:
-- Mr. Hamish Egan – Associate Director, HKA
-- Mr. Jonathan Ellis – Mr. Jonathan Ellis – Managing Director, Secretariat International
+- Mr Hamish Egan – Associate Director, HKA
+- Mr Jonathan Ellis – Mr. Jonathan Ellis – Managing Director, Secretariat International
 
 Counsel:
-- Mr. Nicholas Lingard – Partner, Freshfields Bruckhaus Deringer
-- Ms. Koh Swee Yen – Partner, Commercial & Corporate Disputes and International Arbitration Practices, WongPartnership LLP
+- Mr Nicholas Lingard – Partner, Freshfields Bruckhaus Deringer
+- Ms Koh Swee Yen – Partner, Commercial & Corporate Disputes and International Arbitration Practices, WongPartnership LLP
 
 #### <a name="2"><b>Singapore Mediation Lecture</b></a><a href="#ref2" title="Return to top">↩</a> ####
   <b>Organised by:</b> Singapore Mediation Centre
