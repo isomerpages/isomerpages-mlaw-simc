@@ -39,27 +39,22 @@ Register your interest <a href="https://go.gov.sg/sgconvention2021" target="new"
  - <a href="#10" id="ref10">SIAC Congress by SIAC</a>
  
 #### <a name="1"><b>Spotlight on Experts Virtual Conference</b></a><a href="#ref1" title="Return to top">↩</a> ####
-  <i>Organised by Asia Pacific Institute of Experts (APIEx) and Singapore Institute of Arbitrators (SIArb)</i>
-  <br>6 Sep, 9am - 12.40pm
+  <b>Organised by:</b> Asia Pacific Institute of Experts (APIEx) and Singapore Institute of Arbitrators (SIArb)
+  <br><b>Date and Time:</b> 6 Sep, 9am - 12.40pm
   <br><b>Website:</b> <a href="https://apiex.org/events/events-calendar/eventdetail/3/-/online-joint-apiex-siarb-spotlight-on-experts-conference-6-september-2021" target="new">https://apiex.org/events/events-calendar/eventdetail/3/-/online-joint-apiex-siarb-spotlight-on-experts-conference-6-september-2021</a>
-  <br><b> Contact email:</b> <a href="mailto:secretariat@apiex.org">secretariat@apiex.org</a>
-  <br><b>Event description:</b> Join us in a first ever collaboration between the Singapore Institute of Arbitrators (SIArb) and the Asia Pacific Institute of Experts (APIEx).
-This Conference is unique. It is the first ever Singapore Conference which is organised by both Arbitrators and Experts and seeks to focus on not just arbitrators and arbitrations but the work of both arbitrators and experts - how they interact, relate and contribute to the dispute resolution process through the effective use of experts to provide the tribunal with the best evidence.
-  
-It is a Conference which all who are involved in the dispute resolution process should attend and participate.
-  
-We are privileged to have as our Guest-of-Honour & Keynote Speaker - Justice Vinodh Coomaraswamy, The Supreme Court of Singapore. 
+  <br><b>Contact email:</b> <a href="mailto:secretariat@apiex.org">secretariat@apiex.org</a>
+  <br><b>Event description:</b> Join us in a first ever collaboration between SIArb and APIEx. This Conference is unique. It is the first ever Singapore Conference which is organised by both Arbitrators and Experts and seeks to focus on not just arbitrators and arbitrations but the work of both arbitrators and experts - how they interact, relate and contribute to the dispute resolution process through the effective use of experts to provide the tribunal with the best evidence. It is a Conference which all who are involved in the dispute resolution process should attend and participate. We are privileged to have as our Guest-of-Honour & Keynote Speaker - Justice Vinodh Coomaraswamy, The Supreme Court of Singapore. 
   
 <b>SESSION 1: “EXPERTS IN FOCUS” PANEL DISCUSSION</b>
 <br>This session will focus on the role and work of experts in general, and in particular in arbitrations.  The experts and lawyers will discuss the challenges both lawyers and experts face in dealing with a myriad range of expert evidence and related issues.  The speakers will discuss how to deal effectively with tribunals and judges. 
 
 Moderator
--	Prof. Leslie Chew SC - President, Asia Pacific Institute of Experts; Dean, School of Law at the Singapore University of Social Sciences; Senior Consultant, RHT Law Asia LLP
+-	Prof Leslie Chew SC - President, Asia Pacific Institute of Experts; Dean, School of Law at the Singapore University of Social Sciences; Senior Consultant, RHT Law Asia LLP
 
 Panellists
 - Ms Julie Raneda – Partner, Schellenberg Wittmer Pte Ltd
-- Mr. Gregory Vijayendran SC - Partner, Dispute Resolution, Rajah & Tan LLP; President, Law Society of Singapore
-- Dr. Tan Teng Hooi – Assoc Prof and the Head of the Building and Project Management Programme, School of Science and Technology, Singapore University of Social Sciences 
+- Mr Gregory Vijayendran SC - Partner, Dispute Resolution, Rajah & Tan LLP; President, Law Society of Singapore
+- Dr Tan Teng Hooi – Assoc Prof and the Head of the Building and Project Management Programme, School of Science and Technology, Singapore University of Social Sciences 
 
 <b>SESSION 2: EXPERT VIEWS</b> 
 
@@ -80,7 +75,7 @@ Experts:
 - Mr. Christopher Goncalves - Chair and Managing Director, Energy & Climate, BRG, USA 
 - Mr. Jonathan Humphrey – Partner, HKA, Australia
 
-  <b>SESSION 3: MOCK ARBITRATION: A DEMONSTRATION OF HOT-TUBBING</b>
+<b>SESSION 3: MOCK ARBITRATION: A DEMONSTRATION OF HOT-TUBBING</b>
   
 Participants will see experienced counsel pit their wits against equally experienced experts in a Scenario to demonstrate how counsel rigorously test the opinions of damages experts who are being examined under a witness-conferencing (hot tubbing) procedure.
 
@@ -102,45 +97,58 @@ Counsel:
 - Ms. Koh Swee Yen – Partner, Commercial & Corporate Disputes and International Arbitration Practices, WongPartnership LLP
 
 #### <a name="2"><b>Singapore Mediation Lecture</b></a><a href="#ref2" title="Return to top">↩</a> ####
-  <i>Organised by Singapore Mediation Centre</i>
-  <br>6 Sep, 3.30pm - 5pm
-  <br>Website: pending
-  <br> Contact email: pending
-  <br> Event description: pending
+  <br><b>Organised by:</b> Singapore Mediation Centre
+  <br><b>Date and Time:</b> 6 Sep, 3.30pm - 5pm
+  <br><b>Website:</b> Pending
+  <br><b>Contact email:</b> Pending
+  <br><b>Event description:</b> Pending
   
 #### <a name="3"><b>Event</b></a><a href="#ref3" title="Return to top">↩</a> ####
-  <i>Organised by Singapore International Commercial Court</i>
-  <br>6 Sep, 5.30pm - 7pm
-  <br>Website: pending
-  <br> Contact email: pending
-  <br> Event description: pending
+  <b>Organised by:</b> Singapore International Commercial Court
+  <br><b>Date and Time:</b>6 Sep, 5.30pm - 7pm
+  <br><b>Website:</b> pending
+  <br><b>Contact email:</b> pending
+  <br><b>Event description:</b> pending
   
 #### <a name="4"><b>UNCITRAL Academy</b></a><a href="#ref4" title="Return to top">↩</a> ####
-  <i>Organised by Ministry of Law and United Nations Commission On International Trade Law (UNCITRAL)</i>
-  <br>7 - 8 Sep
-  <br>Website: pending
-  <br>Contact email: <a href="mailto:sgconvention@mlaw.gov.sg">sgconvention@mlaw.gov.sg</a>
-  <br>Event description: The inaugural UNCITRAL Academy 2021 is co-organised by the Singapore Ministry of Law and UNCITRAL. The UNCITRAL Academy comprises the Singapore Convention Conference and UNCITRAL Academy Workshops. The UNCITRAL Academy 2021 will bring together legal practitioners, dispute resolution specialists, business executives and government officials from around the world to discuss emerging issues relating to dispute resolution, international reade law and business.    
+  <br><b>Organised by:</b> Ministry of Law and United Nations Commission On International Trade Law (UNCITRAL)
+  <br><b>Date and Time:</b> 7 - 8 Sep
+  <br><b>Website:</b> Pending
+  <br><b>Contact email:</b> <a href="mailto:sgconvention@mlaw.gov.sg">sgconvention@mlaw.gov.sg</a>
+  <br><b>Event description:</b> The inaugural UNCITRAL Academy 2021 is co-organised by the Singapore Ministry of Law and UNCITRAL. The UNCITRAL Academy comprises the Singapore Convention Conference and UNCITRAL Academy Workshops. The UNCITRAL Academy 2021 will bring together legal practitioners, dispute resolution specialists, business executives and government officials from around the world to discuss emerging issues relating to dispute resolution, international reade law and business.    
   
 #### <a name="5"><b>Practical and Cultural Differences of Litigating in Asia and Post-Webinar Networking</b></a><a href="#ref5" title="Return to top">↩</a> ####
-  <i>Organised by International Bar Association</i>
-  <br>9 Sep, 10am - 11am, with post-webinar networking from 11am - 11.45am
-  <br>Website: <a href="https://www.ibanet.org/conference-details/CONF2012" target="new">https://www.ibanet.org/conference-details/CONF2012</a>
-  <br>Contact email: <a href="mailto:maria.chew@int-bar.org">maria.chew@int-bar.org</a>
-  <br>Event description: This session will provide a broad overview of the litigation landscape of several different jurisdictions within Asia. Panellists from India, Indonesia, Japan and Singapore will provide insight into the practicalities of litigating before national courts in their jurisdictions. A 45-minute virtual networking session for attendees to join and chat with other participants will immediately follow the webinar.
+  <br><b>Organised by:</b> International Bar Association
+  <br><b>Date and Time:</b> 9 Sep, 10am - 11am, with post-webinar networking from 11am - 11.45am
+  <br><b>Website:</b> <a href="https://www.ibanet.org/conference-details/CONF2012" target="new">https://www.ibanet.org/conference-details/CONF2012</a>
+  <br><b>Contact email:</b> <a href="mailto:maria.chew@int-bar.org">maria.chew@int-bar.org</a>
+  <br><b>Event description:</b> This session will provide a broad overview of the litigation landscape of several different jurisdictions within Asia. Panellists from India, Indonesia, Japan and Singapore will provide insight into the practicalities of litigating before national courts in their jurisdictions. A 45-minute virtual networking session for attendees to join and chat with other participants will immediately follow the webinar.
  
 Session Co-Chairs:
  
-•	Sunil Abraham, Cecil Abraham & Partners, Kuala Lumpur; Council Member, IBA Legal Practice Division
-•	Dinesh Dhillon, Allen & Gledhill, Singapore; Treasurer, IBA Asia Pacific Regional Forum
-•	Preetha Sreedharan Pillai, Skrine, Kuala Lumpur; Secretary, IBA Asia Pacific Regional Forum
+- Sunil Abraham, Cecil Abraham & Partners, Kuala Lumpur; Council Member, IBA Legal Practice Division
+- Dinesh Dhillon, Allen & Gledhill, Singapore; Treasurer, IBA Asia Pacific Regional Forum
+- Preetha Sreedharan Pillai, Skrine, Kuala Lumpur; Secretary, IBA Asia Pacific Regional Forum
  
 Moderator:
-•	Jimmy Yim, Drew & Napier, Singapore
+- Jimmy Yim, Drew & Napier, Singapore
  
 Speakers:
-•	Lia Alizia, Indonesian Advocates Association (PERADI), Jakarta
-•	Yoshimasa Furuta, Anderson Mori & Tomotsune, Tokyo
-•	Gopal Subramanium, Chambers of Gopal Subramanium, New Delhi
+- Lia Alizia, Indonesian Advocates Association (PERADI), Jakarta
+- Yoshimasa Furuta, Anderson Mori & Tomotsune, Tokyo
+- Gopal Subramanium, Chambers of Gopal Subramanium, New Delhi
   
+#### <a name="6"><b>Webinar</b></a><a href="#ref6" title="Return to top">↩</a> ####
+  <br><b>Organised by:</b> Singapore Chamber of Maritime Arbitration
+  <br><b>Date and Time:</b> 9 Sep, 11am - 11.45am
+  <br><b>Website:</b> Pending
+  <br><b>Contact email:</b> Pending
+  <br><b>Event description:</b> Pending
+  
+#### <a name="7"><b>Technology Pertinent to Alternative Dispute Resolution</b></a><a href="#ref7" title="Return to top">↩</a> ####
+  <br><b>Organised by:</b> The Law Society of Singapore
+  <br><b>Date and Time:</b> 9 Sep, 2.30pm - 4.30pm
+  <br><b>Website:</b> <a href="https://www.lawsociety.org.sg/cpd/law-society-events" target="new">https://www.lawsociety.org.sg/cpd/law-society-events/</a>
+  <br><b>Contact email:</b> <a href="mailto:cpd@lawsoc.org.sg">cpd@lawsoc.org.sg</a>
+  <br><b>Event description:</b> The programme will take on a (lively and fun) debate format with 2 speakers on each team and a panel of judges. 
   
