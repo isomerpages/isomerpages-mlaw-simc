@@ -97,7 +97,7 @@ Counsel:
 - Ms. Koh Swee Yen – Partner, Commercial & Corporate Disputes and International Arbitration Practices, WongPartnership LLP
 
 #### <a name="2"><b>Singapore Mediation Lecture</b></a><a href="#ref2" title="Return to top">↩</a> ####
-  <br><b>Organised by:</b> Singapore Mediation Centre
+  <b>Organised by:</b> Singapore Mediation Centre
   <br><b>Date and Time:</b> 6 Sep, 3.30pm - 5pm
   <br><b>Website:</b> Pending
   <br><b>Contact email:</b> Pending
@@ -111,14 +111,14 @@ Counsel:
   <br><b>Event description:</b> pending
   
 #### <a name="4"><b>UNCITRAL Academy</b></a><a href="#ref4" title="Return to top">↩</a> ####
-  <br><b>Organised by:</b> Ministry of Law and United Nations Commission On International Trade Law (UNCITRAL)
+  <b>Organised by:</b> Ministry of Law and United Nations Commission On International Trade Law (UNCITRAL)
   <br><b>Date and Time:</b> 7 - 8 Sep
   <br><b>Website:</b> Pending
   <br><b>Contact email:</b> <a href="mailto:sgconvention@mlaw.gov.sg">sgconvention@mlaw.gov.sg</a>
   <br><b>Event description:</b> The inaugural UNCITRAL Academy 2021 is co-organised by the Singapore Ministry of Law and UNCITRAL. The UNCITRAL Academy comprises the Singapore Convention Conference and UNCITRAL Academy Workshops. The UNCITRAL Academy 2021 will bring together legal practitioners, dispute resolution specialists, business executives and government officials from around the world to discuss emerging issues relating to dispute resolution, international reade law and business.    
   
 #### <a name="5"><b>Practical and Cultural Differences of Litigating in Asia and Post-Webinar Networking</b></a><a href="#ref5" title="Return to top">↩</a> ####
-  <br><b>Organised by:</b> International Bar Association
+  <b>Organised by:</b> International Bar Association
   <br><b>Date and Time:</b> 9 Sep, 10am - 11am, with post-webinar networking from 11am - 11.45am
   <br><b>Website:</b> <a href="https://www.ibanet.org/conference-details/CONF2012" target="new">https://www.ibanet.org/conference-details/CONF2012</a>
   <br><b>Contact email:</b> <a href="mailto:maria.chew@int-bar.org">maria.chew@int-bar.org</a>
@@ -139,26 +139,41 @@ Speakers:
 - Gopal Subramanium, Chambers of Gopal Subramanium, New Delhi
   
 #### <a name="6"><b>Webinar</b></a><a href="#ref6" title="Return to top">↩</a> ####
-  <br><b>Organised by:</b> Singapore Chamber of Maritime Arbitration
+  <b>Organised by:</b> Singapore Chamber of Maritime Arbitration
   <br><b>Date and Time:</b> 9 Sep, 11am - 11.45am
   <br><b>Website:</b> Pending
   <br><b>Contact email:</b> Pending
   <br><b>Event description:</b> Pending
   
 #### <a name="7"><b>Technology Pertinent to Alternative Dispute Resolution</b></a><a href="#ref7" title="Return to top">↩</a> ####
-  <br><b>Organised by:</b> The Law Society of Singapore
+  <b>Organised by:</b> The Law Society of Singapore
   <br><b>Date and Time:</b> 9 Sep, 2.30pm - 4.30pm
   <br><b>Website:</b> <a href="https://www.lawsociety.org.sg/cpd/law-society-events" target="new">https://www.lawsociety.org.sg/cpd/law-society-events/</a>
   <br><b>Contact email:</b> <a href="mailto:cpd@lawsoc.org.sg">cpd@lawsoc.org.sg</a>
   <br><b>Event description:</b> The programme will take on a (lively and fun) debate format with 2 speakers on each team and a panel of judges. 
   
 #### <a name="8"><b>2021 SIDRA International Dispute Resolution Survey: Preliminary Findings</b></a><a href="#ref8" title="Return to top">↩</a> ####
-  
   <b>Organised by:</b> Singapore International Dispute Resolution Academy (SIDRA)
   <br><b>Date and Time:</b> 9 Sep, 4.30pm - 6pm
-  <br><b>Website:</b> <a href="https://https://sidra.smu.edu.sg/" target="new">https://https://sidra.smu.edu.sg</a>
-  <br><b>Contact email:</b> <a href="mailto: Sidra@smu.edu.sg"> Sidra@smu.edu.sg</a>
+  <br><b>Website:</b> <a href="https://sidra.smu.edu.sg/" target="new">https://sidra.smu.edu.sg</a>
+  <br><b>Contact email:</b> <a href="mailto:sidra@smu.edu.sg">Sidra@smu.edu.sg</a>
   <br><b>Event description:</b> The Singapore International Dispute Resolution Academy (SIDRA)  will launch the preliminary findings of the  2021 SIDRA International Dispute Resolution Survey on the sidelines of the Singapore Convention Week 2021 on 9 September. The SIDRA Survey, which is now in its second iteration and commissioned by the Singapore Ministry of Law, examines how businesses and their legal representatives make decisions about resolving cross-border commercial disputes and investor-state disputes. It is the first of its kind in Asia and beyond and provides a unique perspective because the respondents are all users of cross-border dispute resolution mechanisms such as international commercial arbitration, international commercial litigation, investor-state dispute settlement, mixed-mode mechanisms, and international commercial mediation. The launch will present the preliminary findings of the SIDRA Survey 2021, followed by a panel discussion of esteemed speakers engaged in the fields of international dispute resolution.
 
+#### <a name="9"><b>The Singapore Convention Effect: Innovation in ICDR Mediation Procedures and Role in Asia</b></a><a href="#ref9" title="Return to top">↩</a> ####
+  <b>Organised by:</b>American Arbitration Association International Centre for Dispute Resolution (AAA-ICDR)
+  <br><b>Date and Time:</b> 9 Sep, 7pm - 8.30pm
+  <br><b>Website:</b> <a href="https://www.icdr.org/asia-cmc" target="new">https://www.icdr.org/asia-cmc</a>
+  <br><b>Contact email:</b> <a href="mailto:asiacmc@adr.org">asiacmc@adr.org</a>
+  <br><b>Event description:</b> The ICDR’s Revised Rules launched on March 1, 2021 continues its focus on not just promoting but its attempt to change the mediation ecosystem in Asia and elsewhere in the world. The AAA-ICDR in keeping with its commitment to mediation has become one of the first institutions to reference the use of the Singapore Convention in its latest Rules revision. 
 
+What is the impact of these revisions, ratification of the Singapore Convention and changes to enforcement mechanisms in the coming years? Our senior members of the drafting committee along with leading mediation practitioners in the world come together in this interactive town hall discussion to debate and analyze what the future holds for international mediation.
+
+#### <a name="10"><b>SIAC Congress</b></a><a href="#ref10" title="Return to top">↩</a> ####
+  <b>Organised by:</b> Singapore International Arbitration Centre (SIAC)
+  <br><b>Date and Time:</b> 10 Sep, 9am - 6.30pm
+  <br><b>Website:</b> <a href="https://www.siac.org.sg/" target="new">https://www.siac.org.sg/</a>
+  <br><b>Contact email:</b> <a href="mailto:corpcomms@siac.org.sg">corpcomms@siac.org.sg</a>
+  <br><b>Event description:</b> SIAC’s flagship event of the year. This year’s edition will also commemorate SIAC’s 30th anniversary.
+  
+  
 
