@@ -152,3 +152,13 @@ Speakers:
   <br><b>Contact email:</b> <a href="mailto:cpd@lawsoc.org.sg">cpd@lawsoc.org.sg</a>
   <br><b>Event description:</b> The programme will take on a (lively and fun) debate format with 2 speakers on each team and a panel of judges. 
   
+#### <a name="8"><b>2021 SIDRA International Dispute Resolution Survey: Preliminary Findings</b></a><a href="#ref8" title="Return to top">↩</a> ####
+  
+  <b>Organised by:</b> Singapore International Dispute Resolution Academy (SIDRA)
+  <br><b>Date and Time:</b> 9 Sep, 4.30pm - 6pm
+  <br><b>Website:</b> <a href="https://https://sidra.smu.edu.sg/" target="new">https://https://sidra.smu.edu.sg</a>
+  <br><b>Contact email:</b> <a href="mailto: Sidra@smu.edu.sg"> Sidra@smu.edu.sg</a>
+  <br><b>Event description:</b> The Singapore International Dispute Resolution Academy (SIDRA)  will launch the preliminary findings of the  2021 SIDRA International Dispute Resolution Survey on the sidelines of the Singapore Convention Week 2021 on 9 September. The SIDRA Survey, which is now in its second iteration and commissioned by the Singapore Ministry of Law, examines how businesses and their legal representatives make decisions about resolving cross-border commercial disputes and investor-state disputes. It is the first of its kind in Asia and beyond and provides a unique perspective because the respondents are all users of cross-border dispute resolution mechanisms such as international commercial arbitration, international commercial litigation, investor-state dispute settlement, mixed-mode mechanisms, and international commercial mediation. The launch will present the preliminary findings of the SIDRA Survey 2021, followed by a panel discussion of esteemed speakers engaged in the fields of international dispute resolution.
+
+
+
