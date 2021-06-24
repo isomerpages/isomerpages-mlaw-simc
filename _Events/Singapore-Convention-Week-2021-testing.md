@@ -99,21 +99,18 @@ Counsel:
 #### <a name="2"><b>Singapore Mediation Lecture</b></a><a href="#ref2" title="Return to top">↩</a> ####
   <b>Organised by:</b> Singapore Mediation Centre
   <br><b>Date and Time:</b> 6 Sep, 3.30pm - 5pm
-  <br><b>Website:</b> Pending
-  <br><b>Contact email:</b> Pending
+  <br><b>Website:</b> <a href="https://www.mediation.com.sg/" target="new">https://www.mediation.com.sg/</a>
   <br><b>Event description:</b> Pending
   
 #### <a name="3"><b>Event</b></a><a href="#ref3" title="Return to top">↩</a> ####
   <b>Organised by:</b> Singapore International Commercial Court
   <br><b>Date and Time:</b>6 Sep, 5.30pm - 7pm
-  <br><b>Website:</b> pending
-  <br><b>Contact email:</b> pending
+  <br><b>Website:</b> <a href="https://www.sicc.gov.sg/" target="new">https://www.sicc.gov.sg/</a>
   <br><b>Event description:</b> pending
   
 #### <a name="4"><b>UNCITRAL Academy</b></a><a href="#ref4" title="Return to top">↩</a> ####
   <b>Organised by:</b> Ministry of Law and United Nations Commission On International Trade Law (UNCITRAL)
   <br><b>Date and Time:</b> 7 - 8 Sep
-  <br><b>Website:</b> Pending
   <br><b>Contact email:</b> <a href="mailto:sgconvention@mlaw.gov.sg">sgconvention@mlaw.gov.sg</a>
   <br><b>Event description:</b> The inaugural UNCITRAL Academy 2021 is co-organised by the Singapore Ministry of Law and UNCITRAL. The UNCITRAL Academy comprises the Singapore Convention Conference and UNCITRAL Academy Workshops. The UNCITRAL Academy 2021 will bring together legal practitioners, dispute resolution specialists, business executives and government officials from around the world to discuss emerging issues relating to dispute resolution, international reade law and business.    
   
