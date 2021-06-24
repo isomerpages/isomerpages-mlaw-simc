@@ -26,7 +26,7 @@ Register your interest <a href="https://go.gov.sg/sgconvention2021" target="new"
 ![Schedule](/images/SCMwebsite-ProgramTable-22Jun21-B.jpg/) 
 <i>Note: Timings indicated are in Singapore time (GMT +7)</i>
 
-<b><u>SC Week 2021 Events<b></u>
+<b><u>SC Week 2021 Events</u></b>
  - <a href="#1" id="ref1">Spotlight on Experts Virtual Conference by APIEx - SIArb</a>
  - <a href="#2" id="ref2">Singapore Mediation Lecture by Singapore Mediation Centre</a>
  - <a href="#3" id="ref3">Event by Singapore International Commercial Court</a>
@@ -54,31 +54,31 @@ We are privileged to have as our Guest-of-Honour & Keynote Speaker - Justice Vin
 This session will focus on the role and work of experts in general, and in particular in arbitrations.  The experts and lawyers will discuss the challenges both lawyers and experts face in dealing with a myriad range of expert evidence and related issues.  The speakers will discuss how to deal effectively with tribunals and judges. 
 
 Moderator
-•	Prof. Leslie Chew SC - President, Asia Pacific Institute of Experts; Dean, School of Law at the Singapore University of Social Sciences; Senior Consultant, RHT Law Asia LLP
+<br>•	Prof. Leslie Chew SC - President, Asia Pacific Institute of Experts; Dean, School of Law at the Singapore University of Social Sciences; Senior Consultant, RHT Law Asia LLP
 
 Panellists
-•	Ms Julie Raneda – Partner, Schellenberg Wittmer Pte Ltd
-•	Mr. Gregory Vijayendran SC - Partner, Dispute Resolution, Rajah & Tan LLP; President, Law Society of Singapore
-•	Dr. Tan Teng Hooi – Assoc Prof and the Head of the Building and Project Management Programme, School of Science and Technology, Singapore University of Social Sciences 
+<br>•	Ms Julie Raneda – Partner, Schellenberg Wittmer Pte Ltd
+<br>•	Mr. Gregory Vijayendran SC - Partner, Dispute Resolution, Rajah & Tan LLP; President, Law Society of Singapore
+<br>•	Dr. Tan Teng Hooi – Assoc Prof and the Head of the Building and Project Management Programme, School of Science and Technology, Singapore University of Social Sciences 
 
 <b>SESSION 2: EXPERT VIEWS</b> 
 
 Hear from a diverse range of experts over common issues that arise when working with experts:
-•	Conflicts clearance and project acceptance
-•	Client and law firm interactions
-•	Independence or not – duties to the court/tribunal v client
-•	Report writing and joint reports
-•	Expert testimony in different contexts
-•	Privilege and confidentiality
+<br>•	Conflicts clearance and project acceptance
+<br>•	Client and law firm interactions
+<br>•	Independence or not – duties to the court/tribunal v client
+<br>•	Report writing and joint reports
+<br>•	Expert testimony in different contexts
+<br>•	Privilege and confidentiality
 
 Moderator:
-Mr. Yu-Jin Tay – Vice-President, Singapore Institute of Arbitrators; Partner & Head, International Arbitration (Asia), Mayer Brown LLP
+<br>• Mr. Yu-Jin Tay – Vice-President, Singapore Institute of Arbitrators; Partner & Head, International Arbitration (Asia), Mayer Brown LLP
 
 Experts:
-•	Ms. Anne Connolly – Senior Managing Director, Ankura Consulting (APAC) Pte. Ltd
-•	Mr. John Gibson – Director of Asia, Marine Engineer, Brookes Bell Singapore
-•	Mr. Christopher Goncalves - Chair and Managing Director, Energy & Climate, BRG, USA 
-•	Mr. Jonathan Humphrey – Partner, HKA, Australia
+<br>•	Ms. Anne Connolly – Senior Managing Director, Ankura Consulting (APAC) Pte. Ltd
+<br>•	Mr. John Gibson – Director of Asia, Marine Engineer, Brookes Bell Singapore
+<br>•	Mr. Christopher Goncalves - Chair and Managing Director, Energy & Climate, BRG, USA 
+<br>•	Mr. Jonathan Humphrey – Partner, HKA, Australia
 
   <b>SESSION 3: MOCK ARBITRATION: A DEMONSTRATION OF HOT-TUBBING</b>
   
@@ -87,19 +87,19 @@ Participants will see experienced counsel pit their wits against equally experie
 Scenario: Damages Experts in the Hot Seat
 
 Conveners:
-•	Mr. Chan Leng Sun SC - Advocate, Duxton Hill Chambers (Singapore Group Practice) 
-•	Mr. Iain Potter – Executive Vice President, JS Held
+- Mr. Chan Leng Sun SC - Advocate, Duxton Hill Chambers (Singapore Group Practice) 
+-	Mr. Iain Potter – Executive Vice President, JS Held
 
 Arbitrator: 
-•	 Mr. Thio Shen Yi SC  - Joint Managing Partner, TSMP Law Corporation
+- Mr. Thio Shen Yi SC  - Joint Managing Partner, TSMP Law Corporation
 
 Expert Witnesses:
-•	Mr. Hamish Egan – Associate Director, HKA
-•	Mr. Jonathan Ellis – Mr. Jonathan Ellis – Managing Director, Secretariat International
+- Mr. Hamish Egan – Associate Director, HKA
+- Mr. Jonathan Ellis – Mr. Jonathan Ellis – Managing Director, Secretariat International
 
 Counsel:
-•	Mr. Nicholas Lingard – Partner, Freshfields Bruckhaus Deringer
-•	Ms. Koh Swee Yen – Partner, Commercial & Corporate Disputes and International Arbitration Practices, WongPartnership LLP
+- Mr. Nicholas Lingard – Partner, Freshfields Bruckhaus Deringer
+- Ms. Koh Swee Yen – Partner, Commercial & Corporate Disputes and International Arbitration Practices, WongPartnership LLP
 
   #### <a name="2"><b>Singapore Mediation Lecture</b></a><a href="#ref2" title="Return to top">↩</a> ####
   <i>Organised by Singapore Mediation Centre</i>
