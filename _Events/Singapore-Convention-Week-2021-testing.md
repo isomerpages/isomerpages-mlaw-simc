@@ -138,7 +138,7 @@ Speakers:
 #### <a name="6"><b>Webinar</b></a><a href="#ref6" title="Return to top">↩</a> ####
   <b>Organised by:</b> Singapore Chamber of Maritime Arbitration
   <br><b>Date and Time:</b> 9 Sep, 11am - 11.45am
-  <br><b>Website:</b> Pending
+  <br><b>Website:</b> <a href="https://www.scma.org.sg/" target="new">https://www.scma.org.sg/</a>
   <br><b>Contact email:</b> Pending
   <br><b>Event description:</b> Pending
   
@@ -157,7 +157,7 @@ Speakers:
   <br><b>Event description:</b> The Singapore International Dispute Resolution Academy (SIDRA)  will launch the preliminary findings of the  2021 SIDRA International Dispute Resolution Survey on the sidelines of the Singapore Convention Week 2021 on 9 September. The SIDRA Survey, which is now in its second iteration and commissioned by the Singapore Ministry of Law, examines how businesses and their legal representatives make decisions about resolving cross-border commercial disputes and investor-state disputes. It is the first of its kind in Asia and beyond and provides a unique perspective because the respondents are all users of cross-border dispute resolution mechanisms such as international commercial arbitration, international commercial litigation, investor-state dispute settlement, mixed-mode mechanisms, and international commercial mediation. The launch will present the preliminary findings of the SIDRA Survey 2021, followed by a panel discussion of esteemed speakers engaged in the fields of international dispute resolution.
 
 #### <a name="9"><b>The Singapore Convention Effect: Innovation in ICDR Mediation Procedures and Role in Asia</b></a><a href="#ref9" title="Return to top">↩</a> ####
-  <b>Organised by:</b>American Arbitration Association International Centre for Dispute Resolution (AAA-ICDR)
+  <b>Organised by:</b> American Arbitration Association International Centre for Dispute Resolution (AAA-ICDR)
   <br><b>Date and Time:</b> 9 Sep, 7pm - 8.30pm
   <br><b>Website:</b> <a href="https://www.icdr.org/asia-cmc" target="new">https://www.icdr.org/asia-cmc</a>
   <br><b>Contact email:</b> <a href="mailto:asiacmc@adr.org">asiacmc@adr.org</a>
