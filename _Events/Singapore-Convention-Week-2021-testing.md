@@ -27,18 +27,18 @@ Register your interest <a href="https://go.gov.sg/sgconvention2021" target="new"
 <i>Note: Timings indicated are in Singapore time (GMT +7)</i>
 
 ### **SC Week 2021 Events**
- - <a href="#1" id="ref1">Spotlight on Experts Virtual Conference by APIEx - SIArb</a>
- - <a href="#2" id="ref2">Singapore Mediation Lecture by Singapore Mediation Centre</a>
- - <a href="#3" id="ref3">Event by Singapore International Commercial Court</a>
- - <a href="#4" id="ref4">UNCITRAL Academy</a>
- - <a href="#5" id="ref5">Practical and Cultural Differences of Litigating in Asia and Post-Webinar Networking by IBA</a> 
- - <a href="#6" id="ref6">Webinar by SCMA</a>
- - <a href="#7" id="ref7">Technology Pertinent to Alternative Dispute Resolution by LawSoc</a>
- - <a href="#8" id="ref8">SIDRA International Dispute Resolution Survey: Preliminary Findings by SIDRA</a>
- - <a href="#9" id="ref9">The Singapore Convention Effect: Innovation in ICDR Mediation Procedures and Role in Asia by AAA-ICDR</a>
- - <a href="#10" id="ref10">SIAC Congress by SIAC</a>
+ - <a href="1" id="ref1"><b>Spotlight on Experts Virtual Conference</b></a>
+ - <a href="2" id="ref2">Singapore Mediation Lecture by Singapore Mediation Centre</a>
+ - <a href="3" id="ref3">Event by Singapore International Commercial Court</a>
+ - <a href="4" id="ref4">UNCITRAL Academy</a>
+ - <a href="5" id="ref5">Practical and Cultural Differences of Litigating in Asia and Post-Webinar Networking by IBA</a> 
+ - <a href="6" id="ref6">Webinar by SCMA</a>
+ - <a href="7" id="ref7">Technology Pertinent to Alternative Dispute Resolution by LawSoc</a>
+ - <a href="8" id="ref8">SIDRA International Dispute Resolution Survey: Preliminary Findings by SIDRA</a>
+ - <a href="9" id="ref9">The Singapore Convention Effect: Innovation in ICDR Mediation Procedures and Role in Asia by AAA-ICDR</a>
+ - <a href="10" id="ref10">SIAC Congress by SIAC</a>
  
-#### <a name="1"><b>Spotlight on Experts Virtual Conference</b></a><a href="#ref1" title="Return to top">↩</a> ####
+#### <sup id="1">Spotlight on Experts Virtual Conference<a href="#ref1" title="Jump back to list.">↩</a> ####
   <b>Organised by:</b> Asia Pacific Institute of Experts (APIEx) and Singapore Institute of Arbitrators (SIArb)
   <br><b>Date and Time:</b> 6 Sep, 9am - 12.40pm
   <br><b>Website:</b> <a href="https://apiex.org/events/events-calendar/eventdetail/3/-/online-joint-apiex-siarb-spotlight-on-experts-conference-6-september-2021" target="new">https://apiex.org/events/events-calendar/eventdetail/3/-/online-joint-apiex-siarb-spotlight-on-experts-conference-6-september-2021</a>
@@ -96,7 +96,7 @@ Counsel:
 - Mr Nicholas Lingard – Partner, Freshfields Bruckhaus Deringer
 - Ms Koh Swee Yen – Partner, Commercial & Corporate Disputes and International Arbitration Practices, WongPartnership LLP
 
-#### <a name="2"><b>Singapore Mediation Lecture</b></a><a href="#ref2" title="Return to top">↩</a> ####
+#### <sup id="2">Singapore Mediation Lecture<a href="#ref2" title="Jump back to list.">↩</a> ####
   <b>Organised by:</b> Singapore Mediation Centre
   <br><b>Date and Time:</b> 6 Sep, 3.30pm - 5pm
   <br><b>Website:</b> <a href="https://www.mediation.com.sg/" target="new">https://www.mediation.com.sg/</a>
