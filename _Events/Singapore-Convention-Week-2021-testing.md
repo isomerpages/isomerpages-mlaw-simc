@@ -86,7 +86,7 @@ Conveners:
 -	Mr Iain Potter – Executive Vice President, JS Held
 
 Arbitrator: 
-- Mr Thio Shen Yi SC  - Joint Managing Partner, TSMP Law Corporation
+- Mr Thio Shen Yi SC - Joint Managing Partner, TSMP Law Corporation
 
 Expert Witnesses:
 - Mr Hamish Egan – Associate Director, HKA
