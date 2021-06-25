@@ -104,7 +104,7 @@ Counsel:
   
 #### <sup id="3"><b>Event</b><a href="#ref3" title="Jump back to list.">↩</a> ####
   <b>Organised by:</b> Singapore International Commercial Court
-  <br><b>Date and Time:</b>6 Sep, 5.30pm - 7pm
+  <br><b>Date and Time:</b> 6 Sep, 5.30pm - 7pm
   <br><b>Website:</b> <a href="https://www.sicc.gov.sg/" target="new">https://www.sicc.gov.sg/</a>
   <br><b>Event description:</b> pending
   
