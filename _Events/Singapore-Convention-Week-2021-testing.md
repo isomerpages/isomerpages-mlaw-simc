@@ -38,7 +38,7 @@ Register your interest <a href="https://go.gov.sg/sgconvention2021" target="new"
  - <a href="#9" id="ref9">The Singapore Convention Effect: Innovation in ICDR Mediation Procedures and Role in Asia by AAA-ICDR</a>
  - <a href="#10" id="ref10">SIAC Congress by SIAC</a>
  
-#### <sup id="1">Spotlight on Experts Virtual Conference<a href="#ref1" title="Jump back to list.">↩</a> ####
+#### <sup id="1"><b>Spotlight on Experts Virtual Conference</b><a href="#ref1" title="Jump back to list.">↩</a> ####
   <b>Organised by:</b> Asia Pacific Institute of Experts (APIEx) and Singapore Institute of Arbitrators (SIArb)
   <br><b>Date and Time:</b> 6 Sep, 9am - 12.40pm
   <br><b>Website:</b> <a href="https://apiex.org/events/events-calendar/eventdetail/3/-/online-joint-apiex-siarb-spotlight-on-experts-conference-6-september-2021" target="new">https://apiex.org/events/events-calendar/eventdetail/3/-/online-joint-apiex-siarb-spotlight-on-experts-conference-6-september-2021</a>
@@ -96,7 +96,7 @@ Counsel:
 - Mr Nicholas Lingard – Partner, Freshfields Bruckhaus Deringer
 - Ms Koh Swee Yen – Partner, Commercial & Corporate Disputes and International Arbitration Practices, WongPartnership LLP
 
-#### <sup id="2">Singapore Mediation Lecture<a href="#ref2" title="Jump back to list.">↩</a> ####
+  #### <sup id="2"><b>Singapore Mediation Lecture</b><a href="#ref2" title="Jump back to list.">↩</a> ####
   <b>Organised by:</b> Singapore Mediation Centre
   <br><b>Date and Time:</b> 6 Sep, 3.30pm - 5pm
   <br><b>Website:</b> <a href="https://www.mediation.com.sg/" target="new">https://www.mediation.com.sg/</a>
