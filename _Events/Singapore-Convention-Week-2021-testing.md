@@ -137,8 +137,6 @@ Speakers:
   <b>Organised by:</b> Singapore Chamber of Maritime Arbitration
   <br><b>Date and Time:</b> 9 Sep, 11am - 11.45am
   <br><b>Website:</b> <a href="https://www.scma.org.sg/" target="new">https://www.scma.org.sg/</a>
-  <br><b>Contact email:</b> Pending
-  <br><b>Event description:</b> Pending
 
 #### <sup id="7"><b><span style="font-size: 24px">Technology Pertinent to Alternative Dispute Resolution</span></b><a href="#ref7" title="Jump back to list.">↩</a> ####
   <b>Organised by:</b> The Law Society of Singapore
