@@ -24,7 +24,7 @@ Register your interest <a href="https://go.gov.sg/sgconvention2021" target="new"
   -->
   
 ![Schedule](/images/SCMwebsite-ProgramTable-28Jun21.jpg/) 
-<i>Note: Timings indicated are in Singapore time (GMT +7)</i>
+<i><span style="font-size: 12px">Note: Timings indicated are in Singapore time (GMT +7)</span></i>
 
 ### **SC Week 2021 Events**
 
