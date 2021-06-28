@@ -70,7 +70,7 @@ Moderator:
 - Mr Yu-Jin Tay – Vice-President, Singapore Institute of Arbitrators; Partner & Head, International Arbitration (Asia), Mayer Brown LLP
 
 Experts:
-- Ms. Anne Connolly – Senior Managing Director, Ankura Consulting (APAC) Pte. Ltd
+- Ms Anne Connolly – Senior Managing Director, Ankura Consulting (APAC) Pte. Ltd
 - Mr John Gibson – Director of Asia, Marine Engineer, Brookes Bell Singapore
 - Mr Christopher Goncalves - Chair and Managing Director, Energy & Climate, BRG, USA 
 - Mr Jonathan Humphrey – Partner, HKA, Australia
