@@ -102,13 +102,13 @@ Counsel:
   <br><b>Website:</b> <a href="https://www.mediation.com.sg/" target="new">https://www.mediation.com.sg/</a>
   <br><b>Event description:</b> Pending
   
-  #### <sup id="3"><b><span style="font-size: 22px">Event by SICC</span></b><a href="#ref3" title="Jump back to list.">↩</a> ####
+#### <sup id="3"><b><span style="font-size: 22px">Event by SICC</span></b><a href="#ref3" title="Jump back to list.">↩</a> ####
   <b>Organised by:</b> Singapore International Commercial Court
   <br><b>Date and Time:</b> 6 Sep, 5.30pm - 7pm
   <br><b>Website:</b> <a href="https://www.sicc.gov.sg/" target="new">https://www.sicc.gov.sg/</a>
   <br><b>Event description:</b> pending
   
-  #### <sup id="4"><b><span style="font-size: 22px">UNCITRAL Academy</span></b><a href="#ref4" title="Jump back to list.">↩</a> ####
+#### <sup id="4"><b><span style="font-size: 22px">UNCITRAL Academy</span></b><a href="#ref4" title="Jump back to list.">↩</a> ####
   <b>Organised by:</b> Ministry of Law and United Nations Commission On International Trade Law (UNCITRAL)
   <br><b>Date and Time:</b> 7 - 8 Sep
   <br><b>Contact email:</b> <a href="mailto:sgconvention@mlaw.gov.sg">sgconvention@mlaw.gov.sg</a>
@@ -135,7 +135,7 @@ Speakers:
 - Yoshimasa Furuta, Anderson Mori & Tomotsune, Tokyo
 - Gopal Subramanium, Chambers of Gopal Subramanium, New Delhi
 
-  #### <sup id="6"><b><span style="font-size: 22px">Webinar by SCMA</span></b><a href="#ref6" title="Jump back to list.">↩</a> ####
+#### <sup id="6"><b><span style="font-size: 22px">Webinar by SCMA</span></b><a href="#ref6" title="Jump back to list.">↩</a> ####
   <b>Organised by:</b> Singapore Chamber of Maritime Arbitration
   <br><b>Date and Time:</b> 9 Sep, 11am - 11.45am
   <br><b>Website:</b> <a href="https://www.scma.org.sg/" target="new">https://www.scma.org.sg/</a>
@@ -165,7 +165,7 @@ Speakers:
 
 What is the impact of these revisions, ratification of the Singapore Convention and changes to enforcement mechanisms in the coming years? Our senior members of the drafting committee along with leading mediation practitioners in the world come together in this interactive town hall discussion to debate and analyze what the future holds for international mediation.
 
-  #### <sup id="10"><b><span style="font-size: 22px">SIAC Congress</span></b><a href="#ref10" title="Jump back to list.">↩</a> ####
+#### <sup id="10"><b><span style="font-size: 22px">SIAC Congress</span></b><a href="#ref10" title="Jump back to list.">↩</a> ####
   <b>Organised by:</b> Singapore International Arbitration Centre (SIAC)
   <br><b>Date and Time:</b> 10 Sep, 9am - 6.30pm
   <br><b>Website:</b> <a href="https://www.siac.org.sg/" target="new">https://www.siac.org.sg/</a>
