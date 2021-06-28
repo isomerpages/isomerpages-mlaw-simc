@@ -100,13 +100,11 @@ Counsel:
   <b>Organised by:</b> Singapore Mediation Centre
   <br><b>Date and Time:</b> 6 Sep, 3.30pm - 5pm
   <br><b>Website:</b> <a href="https://www.mediation.com.sg/" target="new">https://www.mediation.com.sg/</a>
-  <br><b>Event description:</b> Pending
   
 #### <sup id="3"><b><span style="font-size: 24px">Event by SICC</span></b><a href="#ref3" title="Jump back to list.">↩</a> ####
   <b>Organised by:</b> Singapore International Commercial Court
   <br><b>Date and Time:</b> 6 Sep, 5.30pm - 7pm
   <br><b>Website:</b> <a href="https://www.sicc.gov.sg/" target="new">https://www.sicc.gov.sg/</a>
-  <br><b>Event description:</b> pending
   
 #### <sup id="4"><b><span style="font-size: 24px">UNCITRAL Academy</span></b><a href="#ref4" title="Jump back to list.">↩</a> ####
   <b>Organised by:</b> Ministry of Law and United Nations Commission On International Trade Law (UNCITRAL)
