@@ -22,7 +22,54 @@ Register your interest <a href="https://go.gov.sg/sgconvention2021" target="new"
   <!--<div class="image">
   <img src="/images/SCMwebsite-ProgramTable-28Jun21-B.jpg"></div>
   -->
-  
+ <style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0pky">Date</th>
+    <th class="tg-0pky">Morning</th>
+    <th class="tg-0pky">Afternoon</th>
+    <th class="tg-0pky">Evening</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky">6 Sep</td>
+    <td class="tg-0pky">Spotlight on Experts Conference<span style="font-weight:400;font-style:normal">- Singapore Institute of Arbitrators (SIArb) and Asia Pacific Institute of Experts (APIEx)</span></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">7 Sep</td>
+    <td class="tg-c3ow" colspan="3">Uncitral Academy</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">8 Sep</td>
+    <td class="tg-c3ow" colspan="2"><span style="font-weight:400;font-style:normal">Uncitral Academy</span></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">9 Sep</td>
+    <td class="tg-0pky">Practical and Cultural Differences of Litigating in Asia &amp; Post-Webinar Networking</td>
+    <td class="tg-0pky">Webinar by SCMA<br><span style="font-weight:400;font-style:normal">- Singapore Chamber of Maritime Arbitration (SCMA)</span></td>
+    <td class="tg-0pky">The Singapore Convention Effect: Innovation in ICDR Mediation Procedures and Role in Asia</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">10 Sep</td>
+    <td class="tg-0pky" colspan="2">SIAC Congress<br><span style="font-weight:400;font-style:normal">- Singapore International Arbitration Centre (SIAC)</span><br></td>
+    <td class="tg-0pky"></td>
+  </tr>
+</tbody>
+</table>
+
 ![Schedule](/images/SCMwebsite-ProgramTable-28Jun21-B.jpg/) 
 <i><span style="font-size: 12px">Note: Timings indicated are in Singapore time (GMT +7)</span></i>
 
