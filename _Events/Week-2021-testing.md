@@ -31,7 +31,7 @@ Register your interest <a href="https://go.gov.sg/sgconvention2021" target="new"
 .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
 .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
 </style>
-<table class="tg1">
+<table class="tg">
 <thead>
   <tr>
     <th class="tg-0pky">Date</th>
