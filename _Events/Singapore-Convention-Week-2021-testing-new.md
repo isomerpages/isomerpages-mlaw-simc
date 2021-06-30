@@ -29,6 +29,7 @@ Register your interest <a href="https://go.gov.sg/sgconvention2021" target="new"
 |9 Sep | <b><a href="#5" id="ref5">Practical and Cultural Differences of Litigating in Asia and Post-Webinar Networking</a></b> <br>- International Bar Association <br>- 10am - 11am; 11am - 11.45am | <b><a href="#6" id="ref6">Webinar by SCMA</a></b> <br>- Singapore Chamber of Maritime Arbitration (SCMA) <br>- 1pm - 2.30pm <br><br> <b><a href="#7" id="ref7">Technology Pertinent to Alternative Dispute Resolution</a></b> <br>- The Law Society of Singapore <br>- 2.30pm - 4pm <br><br> <b><a href="#8" id="ref8">SIDRA International Dispute Resolution Survey: Preliminary Findings</a></b> <br>- Singapore International Dispute Resolution Academy (SIDRA) <br>- 4.30pm - 6pm | <b><a href="#9" id="ref9">The Singapore Convention Effect: Innovation in ICDR Mediation Procedures and Role in Asia</a></b> <br>- American Arbitration Association International Centre for Dispute Resolution (AAA-ICDR) <br>- 7pm - 8.30pm 
 |10 Sep | <b><a href="#10" id="ref10">SIAC Congress</a></b> <br>- Singapore International Arbitration Centre (SIAC) <br>- 9am - 6.30pm
 
+<i><span style="font-size: 12px">Note: Timings indicated are in Singapore time (GMT +7)</span></i>
 
 #### <sup id="1"><b><span style="font-size: 24px">Spotlight on Experts Virtual Conference</span></b><a href="#ref1" title="Jump back to list.">↩</a> ####
   <b>Organised by:</b> Asia Pacific Institute of Experts (APIEx) and Singapore Institute of Arbitrators (SIArb)
