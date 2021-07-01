@@ -95,6 +95,7 @@ breadcrumb: 'Singapore Convention Week 2021'
 #### <sup id="6"><b><span style="font-size: 24px">Webinar by SCMA</span></b><a href="#ref6" title="Jump back to list.">↩</a> ####
   <b>Organised by:</b> Singapore Chamber of Maritime Arbitration
   <br><b>Date and Time:</b> 9 Sep, 11am - 11.45am
+  <br><b>Contact email:</b> <a href="mailto:mail@scma.org.sg" target="new">mail@scma.org.sg
 
 #### <sup id="7"><b><span style="font-size: 24px">Technology Pertinent to Alternative Dispute Resolution</span></b><a href="#ref7" title="Jump back to list.">↩</a> ####
   <b>Organised by:</b> The Law Society of Singapore
