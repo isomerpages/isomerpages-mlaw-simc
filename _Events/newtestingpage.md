@@ -13,7 +13,7 @@ This includes the inaugural UNCITRAL Academy, which is jointly organised by the 
 Register your interest <a href="https://go.gov.sg/sgconvention2021" target="new">here</a>! 
 
 
-#### Schedule ####
+<b><span style="font-size: 24px">Schedule</span></b>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
