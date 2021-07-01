@@ -5,6 +5,16 @@ breadcrumb: 'Singapore Convention Week 2021'
 
 ---
 
+### **Singapore Convention Week 2021** 
+The Singapore Convention Week is a series of events related to dispute resolution which will be held from 6 to 10 September 2021. 
+
+This includes the inaugural UNCITRAL Academy, which is jointly organised by the Singapore Ministry of Law and the United Nations Commission on International Trade Law (UNCITRAL), and various events organised by the Singapore Convention Week supporting organisations.
+
+Register your interest <a href="https://go.gov.sg/sgconvention2021" target="new">here</a>! 
+
+
+#### Schedule ####
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:11px;
