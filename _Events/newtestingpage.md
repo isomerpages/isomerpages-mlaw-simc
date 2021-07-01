@@ -12,6 +12,7 @@ breadcrumb: 'Singapore Convention Week 2021'
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:12px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-m4h1{background-color:#EDEDED;border-color:inherit;color:#222;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-w81s{background-color:#efefef;border-color:inherit;color:#222;text-align:center;text-decoration:underline; vertical-align:middle}
 .tg .tg-3bno{background-color:#FFF;border-color:inherit;color:#222;font-weight:bold;text-align:center;vertical-align:middle}
 .tg .tg-ftcf{background-color:#FFF;border-color:inherit;color:#222;text-align:center;text-decoration:underline;vertical-align:middle
   }
