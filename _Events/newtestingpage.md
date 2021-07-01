@@ -7,12 +7,13 @@ breadcrumb: 'Singapore Convention Week 2021'
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:12px;
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:12px;
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-m4h1{background-color:#EDEDED;border-color:inherit;color:#222;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-w81s{background-color:#efefef;border-color:inherit;color:#222;text-align:center;text-decoration:underline; vertical-align:middle}
+.tg .tg-w81s{background-color:#efefef;border-color:inherit;color:#222;text-align:center;text-decoration:underline;
+  vertical-align:middle}
 .tg .tg-3bno{background-color:#FFF;border-color:inherit;color:#222;font-weight:bold;text-align:center;vertical-align:middle}
 .tg .tg-ftcf{background-color:#FFF;border-color:inherit;color:#222;text-align:center;text-decoration:underline;vertical-align:middle
   }
@@ -20,7 +21,7 @@ breadcrumb: 'Singapore Convention Week 2021'
 </style>
 <table class="tg" style="undefined;table-layout: fixed; width: 804px">
 <colgroup>
-<col style="width: 54px">
+<col style="width: 51px">
 <col style="width: 251px">
 <col style="width: 251px">
 <col style="width: 251px">
@@ -36,34 +37,34 @@ breadcrumb: 'Singapore Convention Week 2021'
 <tbody>
   <tr>
     <td class="tg-gktn">6 Sep</td>
-    <td class="tg-3bno"><span style="font-weight:bold"><a href="#1" id="ref1">Spotlight on Experts Virtual Conference</a>     </span><br><span style="font-weight:bold">- Singapore Institute of Arbitrators (SIArb) and Asia Pacific Institute of </span>Experts (APIEx)     <br>- 9am – 12.40pm</td>
-    <td class="tg-3bno"><a href="#2" id="ref2">Singapore Mediation Lecture</a>     <br>- Singapore Mediation Centre (SMC)<br>     - 3.30pm – 5pm</td>
-    <td class="tg-3bno"><a href="#3" id="ref3">Event by SICC</a>     <br>- Singapore International Commercial Court (SICC)<br>     - 5.30pm – 7pm</td>
+    <td class="tg-3bno"><span style="font-weight:bold">Spotlight on Experts Conference     </span><br><span style="font-weight:bold">- Singapore Institute of Arbitrators (SIArb) and Asia Pacific Institute of </span>Experts (APIEx)     <br>- 9am – 12.40pm</td>
+    <td class="tg-3bno">Singapore Mediation Lecture     <br>- Singapore Mediation Centre (SMC)<br>     - 3.30pm – 5pm</td>
+    <td class="tg-3bno">Event by SICC     <br>- Singapore International Commercial Court (SICC)<br>     - 5.30pm – 7pm</td>
   </tr>
   <tr>
     <td class="tg-gktn">7 Sep</td>
-    <td class="tg-fw81s"></td>
-    <td class="tg-3bno" colspan="2"><a href="#4" id="ref4">UNCITRAL Academy</a>     <br>- Singapore Ministry of Law and UNCITRAL<br>     - 2pm – 9pm</td>
+    <td class="tg-w81s"></td>
+    <td class="tg-3bno" colspan="2">UNCITRAL Academy     <br>- Singapore Ministry of Law and UNCITRAL<br>     - 2pm – 9pm</td>
   </tr>
   <tr>
     <td class="tg-gktn">8 Sep</td>
-    <td class="tg-3bno" colspan="2"><a href="#4" id="ref4">UNCITRAL Academy</a>     <br>- Singapore Ministry of Law and UNCITRAL<br>     - 9.30am – 5pm</td>
-    <td class="tg-fw81s"></td>
+    <td class="tg-3bno" colspan="2">UNCITRAL Academy     <br>- Singapore Ministry of Law and UNCITRAL<br>     - 9.30am – 5pm</td>
+    <td class="tg-w81s"></td>
   </tr>
   <tr>
     <td class="tg-gktn">9 Sep</td>
-    <td class="tg-3bno"><a href="#5" id="ref5">Practical and Cultural Differences of Litigating in Asia and Post-Webinar Networking</a>     <br>- International Bar Association (IBA)<br>     - 10am – 11am; 11am – 11.45am</td>
-    <td class="tg-3bno"><a href="#6" id="ref6">Hybrid Dispute Resolution Mechanisms <br>as the Wave of the Future: Perspectives from Singapore as a Maritime Hub</a>     <br>- Singapore Chamber of Maritime Arbitration (SCMA) and Oon & Bazul<br>     - 1pm – 2.30pm<br>     <br>     <a href="#7" id="ref7">Technology Pertinent to Alternative Dispute Resolution</a>     <br>- The Law Society of Singapore    <br>     - 2.30pm – 4pm <br>      <br>     <a href="#8" id="ref8">SIDRA International Dispute Resolution Survey: Preliminary Findings</a>     <br>- Singapore International Dispute Resolution Academy (SIDRA)<br>     - 4.30pm – 6pm</td>
-    <td class="tg-3bno"><a href="#9" id="ref9">The Singapore Convention Effect: Innovation in <br>ICDR Mediation Procedures <br>and Role in Asia</a>     <br><span style="font-weight:bold">- American Arbitration Association International Centre for Dispute Resolution (AAA-ICDR)</span><br><span style="font-weight:bold">     - 7pm – 8.30pm</span></td>
+    <td class="tg-3bno">Practical and Cultural Differences of Litigating in Asia &amp; Post-Webinar Networking     <br>- International Bar Association (IBA)<br>     - 10am – 11am; 11am – 11.45am</td>
+    <td class="tg-3bno">Hybrid Dispute Resolution Mechanisms as the Wave of the Future: Perspectives from Singapore as a Maritime Hub     <br>- Singapore Chamber of Maritime Arbitration (SCMA) and Oon &amp; Bazul<br>     - 1pm – 2.30pm<br>     <br>     Technology Pertinent to Alternative Dispute Resolution     <br>- The Law Society of Singapore    <br>     - 2.30pm – 4pm <br>      <br>     SIDRA International Dispute Resolution Survey: Preliminary Findings     <br>- Singapore International Dispute Resolution Academy (SIDRA)<br>     - 4.30pm – 6pm</td>
+    <td class="tg-3bno">The Singapore Convention Effect: Innovation in <br>ICDR Mediation Procedures <br>and Role in Asia     <br><span style="font-weight:bold">- American Arbitration Association International Centre for Dispute Resolution (AAA-ICDR)</span><br><span style="font-weight:bold">     - 7pm – 8.30pm</span></td>
   </tr>
   <tr>
     <td class="tg-gktn">10 Sep</td>
-    <td class="tg-3bno" colspan="2"><a href="#10" id="ref10">SIAC Congress</a>     <br>- Singapore International Arbitration Centre (SIAC)<br>     - 9am – 6.30pm</td>
+    <td class="tg-3bno" colspan="2">SIAC Congress     <br>- Singapore International Arbitration Centre (SIAC)<br>     - 9am – 6.30pm</td>
     <td class="tg-ftcf"></td>
   </tr>
 </tbody>
 </table>
-<i><span style="font-size: 12px">Note: Timings indicated are in Singapore time (GMT +7)</span></i>
+
 
 #### <sup id="1"><b><span style="font-size: 24px">Spotlight on Experts Virtual Conference</span></b><a href="#ref1" title="Jump back to list.">↩</a> ####
   <b>Organised by:</b> Asia Pacific Institute of Experts (APIEx) and Singapore Institute of Arbitrators (SIArb)
