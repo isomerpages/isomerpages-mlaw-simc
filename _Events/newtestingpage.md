@@ -126,3 +126,5 @@ What is the impact of these revisions, ratification of the Singapore Convention 
   <br><b>Contact email:</b> <a href="mailto:corpcomms@siac.org.sg">corpcomms@siac.org.sg</a>
   <br><b>Event description:</b> SIAC’s flagship event of the year. This year’s edition will also commemorate SIAC’s 30th anniversary.
   
+
+  <i><b><span style="font-size: 14px">Check back for more updates!</span></b></i>
