@@ -1,25 +1,9 @@
 ---
-title: 'Singapore Convention Week 2021 (Testing)'
+title: 'Singapore Convention Week 2021'
 permalink: /Events/newtestingpage
 breadcrumb: 'Singapore Convention Week 2021'
 
 ---
-
-<!--<style>
-  .image {width: 720px;}
-  .image {max-width: 100%; max-height:100%; object-fit: contain;}
-  .image {width: auto; height: auto;}
-}         
-</style>-->
-### **Singapore Convention Week 2021** 
-The Singapore Convention Week is a series of events related to dispute resolution which will be held from 6 to 10 September 2021. 
-
-This includes the inaugural UNCITRAL Academy, which is jointly organised by the Singapore Ministry of Law and the United Nations Commission on International Trade Law (UNCITRAL), and various events organised by the Singapore Convention Week supporting organisations.
-
-Register your interest <a href="https://go.gov.sg/sgconvention2021" target="new">here</a>! 
-
-
-#### Schedule ####
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -33,12 +17,12 @@ Register your interest <a href="https://go.gov.sg/sgconvention2021" target="new"
   }
 .tg .tg-gktn{background-color:#FFF;border-color:inherit;color:#222;text-align:center;vertical-align:middle}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 990px">
+<table class="tg" style="undefined;table-layout: fixed; width: 804px">
 <colgroup>
-<col style="width: 56px">
-<col style="width: 302px">
-<col style="width: 322px">
-<col style="width: 310px">
+<col style="width: 51px">
+<col style="width: 251px">
+<col style="width: 251px">
+<col style="width: 251px">
 </colgroup>
 <thead>
   <tr>
@@ -51,7 +35,7 @@ Register your interest <a href="https://go.gov.sg/sgconvention2021" target="new"
 <tbody>
   <tr>
     <td class="tg-gktn">6 Sep</td>
-    <td class="tg-3bno"><span style="font-weight:bold"><a href="#1" id="ref1">Spotlight on Experts Virtual Conference</a>     </span><br><span style="font-weight:bold">- Singapore Institute of Arbitrators (SIArb) and Asia Pacific Institute of </span>Experts (APIEx)     - 9am – 12.40pm</td>
+    <td class="tg-3bno"><span style="font-weight:bold"><a href="#1" id="ref1">Spotlight on Experts Virtual Conference</a>     </span><br><span style="font-weight:bold">- Singapore Institute of Arbitrators (SIArb) and Asia Pacific Institute of </span>Experts (APIEx)     <br>- 9am – 12.40pm</td>
     <td class="tg-3bno"><a href="#2" id="ref2">Singapore Mediation Lecture</a>     <br>- Singapore Mediation Centre (SMC)<br>     - 3.30pm – 5pm</td>
     <td class="tg-3bno"><a href="#3" id="ref3">Event by SICC</a>     <br>- Singapore International Commercial Court (SICC)<br>     - 5.30pm – 7pm</td>
   </tr>
@@ -69,7 +53,7 @@ Register your interest <a href="https://go.gov.sg/sgconvention2021" target="new"
     <td class="tg-gktn">9 Sep</td>
     <td class="tg-3bno"><a href="#5" id="ref5">Practical and Cultural Differences of Litigating in Asia and Post-Webinar Networking</a>     <br>- International Bar Association (IBA)<br>     - 10am – 11am; 11am – 11.45am</td>
     <td class="tg-3bno"><a href="#6" id="ref6">Webinar by SCMA</a>     <br>- Singapore Chamber of Maritime Arbitration (SCMA)<br>     - 1pm – 2.30pm<br>     <br>     <a href="#7" id="ref7">Technology Pertinent to Alternative Dispute Resolution</a>     <br>- The Law Society of Singapore    <br>     - 2.30pm – 4pm <br>      <br>     <a href="#8" id="ref8">SIDRA International Dispute Resolution Survey: Preliminary Findings</a>     <br>- Singapore International Dispute Resolution Academy (SIDRA)<br>     - 4.30pm – 6pm</td>
-    <td class="tg-3bno"><a href="#9" id="ref9">The Singapore Convention Effect: Innovation in ICDR Mediation Procedures and Role in Asia</a>     <br>- American Arbitration Association International Centre for Dispute Resolution (AAA-ICDR)<br>     - 7pm – 8.30pm</td>
+    <td class="tg-3bno"><a href="#9" id="ref9">The Singapore Convention Effect: Innovation in <br>ICDR Mediation Procedures <br>and Role in Asia</a>     <br><span style="font-weight:bold">- American Arbitration Association International Centre for Dispute Resolution (AAA-ICDR)</span><br><span style="font-weight:bold">     - 7pm – 8.30pm</span></td>
   </tr>
   <tr>
     <td class="tg-gktn">10 Sep</td>
