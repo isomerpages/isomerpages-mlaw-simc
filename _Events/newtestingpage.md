@@ -41,13 +41,13 @@ breadcrumb: 'Singapore Convention Week 2021'
   </tr>
   <tr>
     <td class="tg-gktn">7 Sep</td>
-    <td class="tg-ftcf"></td>
+    <td class="tg-fw81s"></td>
     <td class="tg-3bno" colspan="2"><a href="#4" id="ref4">UNCITRAL Academy</a>     <br>- Singapore Ministry of Law and UNCITRAL<br>     - 2pm – 9pm</td>
   </tr>
   <tr>
     <td class="tg-gktn">8 Sep</td>
     <td class="tg-3bno" colspan="2"><a href="#4" id="ref4">UNCITRAL Academy</a>     <br>- Singapore Ministry of Law and UNCITRAL<br>     - 9.30am – 5pm</td>
-    <td class="tg-ftcf"></td>
+    <td class="tg-fw81s"></td>
   </tr>
   <tr>
     <td class="tg-gktn">9 Sep</td>
