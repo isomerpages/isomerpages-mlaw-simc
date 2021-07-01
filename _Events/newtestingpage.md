@@ -17,9 +17,9 @@ Register your interest <a href="https://go.gov.sg/sgconvention2021" target="new"
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:11px;
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:12px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:11px;
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:12px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-m4h1{background-color:#EDEDED;border-color:inherit;color:#222;font-weight:bold;text-align:center;vertical-align:middle}
 .tg .tg-w81s{background-color:#efefef;border-color:inherit;color:#222;text-align:center;text-decoration:underline;
@@ -73,7 +73,7 @@ Register your interest <a href="https://go.gov.sg/sgconvention2021" target="new"
 </tbody>
 </table>
 
-<i><span style="font-size: 12px"><b>Note:</b> Timings indicated are in Singapore time (GMT +7)</span></i>
+<i><span style="font-size: 13px"><b>Note:</b> Timings indicated are in Singapore time (GMT +7)</span></i>
 
 #### <sup id="1"><b><span style="font-size: 24px">Spotlight on Experts Virtual Conference</span></b><a href="#ref1" title="Jump back to list.">↩</a> ####
   <b>Organised by:</b> Asia Pacific Institute of Experts (APIEx) and Singapore Institute of Arbitrators (SIArb)
