@@ -19,7 +19,7 @@ breadcrumb: 'Singapore Convention Week 2021'
 </style>
 <table class="tg" style="undefined;table-layout: fixed; width: 804px">
 <colgroup>
-<col style="width: 51px">
+<col style="width: 54px">
 <col style="width: 251px">
 <col style="width: 251px">
 <col style="width: 251px">
