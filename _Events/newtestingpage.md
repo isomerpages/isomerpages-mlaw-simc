@@ -52,7 +52,7 @@ breadcrumb: 'Singapore Convention Week 2021'
   <tr>
     <td class="tg-gktn">9 Sep</td>
     <td class="tg-3bno"><a href="#5" id="ref5">Practical and Cultural Differences of Litigating in Asia and Post-Webinar Networking</a>     <br>- International Bar Association (IBA)<br>     - 10am – 11am; 11am – 11.45am</td>
-    <td class="tg-3bno"><a href="#6" id="ref6">Webinar by SCMA</a>     <br>- Singapore Chamber of Maritime Arbitration (SCMA)<br>     - 1pm – 2.30pm<br>     <br>     <a href="#7" id="ref7">Technology Pertinent to Alternative Dispute Resolution</a>     <br>- The Law Society of Singapore    <br>     - 2.30pm – 4pm <br>      <br>     <a href="#8" id="ref8">SIDRA International Dispute Resolution Survey: Preliminary Findings</a>     <br>- Singapore International Dispute Resolution Academy (SIDRA)<br>     - 4.30pm – 6pm</td>
+    <td class="tg-3bno"><a href="#6" id="ref6">Hybrid Dispute Resolution Mechanisms <br>as the Wave of the Future: Perspectives from Singapore as a Maritime Hub</a>     <br>- Singapore Chamber of Maritime Arbitration (SCMA) and Oon & Bazul<br>     - 1pm – 2.30pm<br>     <br>     <a href="#7" id="ref7">Technology Pertinent to Alternative Dispute Resolution</a>     <br>- The Law Society of Singapore    <br>     - 2.30pm – 4pm <br>      <br>     <a href="#8" id="ref8">SIDRA International Dispute Resolution Survey: Preliminary Findings</a>     <br>- Singapore International Dispute Resolution Academy (SIDRA)<br>     - 4.30pm – 6pm</td>
     <td class="tg-3bno"><a href="#9" id="ref9">The Singapore Convention Effect: Innovation in <br>ICDR Mediation Procedures <br>and Role in Asia</a>     <br><span style="font-weight:bold">- American Arbitration Association International Centre for Dispute Resolution (AAA-ICDR)</span><br><span style="font-weight:bold">     - 7pm – 8.30pm</span></td>
   </tr>
   <tr>
@@ -92,9 +92,9 @@ breadcrumb: 'Singapore Convention Week 2021'
   <br><b>Contact email:</b> <a href="mailto:maria.chew@int-bar.org">maria.chew@int-bar.org</a>
   <br><b>Event description:</b> This session will provide a broad overview of the litigation landscape of several different jurisdictions within Asia. Panellists from India, Indonesia, Japan and Singapore will provide insight into the practicalities of litigating before national courts in their jurisdictions. A 45-minute virtual networking session for attendees to join and chat with other participants will immediately follow the webinar.
 
-#### <sup id="6"><b><span style="font-size: 24px">Webinar by SCMA</span></b><a href="#ref6" title="Jump back to list.">↩</a> ####
-  <b>Organised by:</b> Singapore Chamber of Maritime Arbitration
-  <br><b>Date and Time:</b> 9 Sep, 11am - 11.45am
+#### <sup id="6"><b><span style="font-size: 24px">Hybrid Dispute Resolution</span></b><a href="#ref6" title="Jump back to list.">↩</a> ####
+  <b>Organised by:</b> Singapore Chamber of Maritime Arbitration and Oon & Bazul
+  <br><b>Date and Time:</b> 9 Sep, 1pm - 2.30pm
   <br><b>Contact email:</b> <a href="mailto:mail@scma.org.sg" target="new">mail@scma.org.sg
 
 #### <sup id="7"><b><span style="font-size: 24px">Technology Pertinent to Alternative Dispute Resolution</span></b><a href="#ref7" title="Jump back to list.">↩</a> ####
