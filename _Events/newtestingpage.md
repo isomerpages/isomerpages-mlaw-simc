@@ -92,7 +92,7 @@ breadcrumb: 'Singapore Convention Week 2021'
   <br><b>Contact email:</b> <a href="mailto:maria.chew@int-bar.org">maria.chew@int-bar.org</a>
   <br><b>Event description:</b> This session will provide a broad overview of the litigation landscape of several different jurisdictions within Asia. Panellists from India, Indonesia, Japan and Singapore will provide insight into the practicalities of litigating before national courts in their jurisdictions. A 45-minute virtual networking session for attendees to join and chat with other participants will immediately follow the webinar.
 
-#### <sup id="6"><b><span style="font-size: 24px">Hybrid Dispute Resolution</span></b><a href="#ref6" title="Jump back to list.">↩</a> ####
+#### <sup id="6"><b><span style="font-size: 24px">Hybrid Dispute Resolution Mechanisms as the Wave of the Future: Perspectives from Singapore as a Maritime Hub</span></b><a href="#ref6" title="Jump back to list.">↩</a> ####
   <b>Organised by:</b> Singapore Chamber of Maritime Arbitration and Oon & Bazul
   <br><b>Date and Time:</b> 9 Sep, 1pm - 2.30pm
   <br><b>Contact email:</b> <a href="mailto:mail@scma.org.sg" target="new">mail@scma.org.sg
