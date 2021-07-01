@@ -62,6 +62,7 @@ breadcrumb: 'Singapore Convention Week 2021'
   </tr>
 </tbody>
 </table>
+<i><span style="font-size: 12px">Note: Timings indicated are in Singapore time (GMT +7)</span></i>
 
 #### <sup id="1"><b><span style="font-size: 24px">Spotlight on Experts Virtual Conference</span></b><a href="#ref1" title="Jump back to list.">↩</a> ####
   <b>Organised by:</b> Asia Pacific Institute of Experts (APIEx) and Singapore Institute of Arbitrators (SIArb)
