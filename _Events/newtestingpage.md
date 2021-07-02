@@ -63,7 +63,7 @@ Register your interest <a href="https://go.gov.sg/sgconvention2021" target="new"
     <td class="tg-gktn">9 Sep</td>
     <td class="tg-3bno"><a href="#5" id="ref5">Practical and Cultural Differences of Litigating in Asia and Post-Webinar Networking</a>     <br>- International Bar Association (IBA)<br>     - 10am – 11am; 11am – 11.45am</td>
     <td class="tg-3bno"><a href="#6" id="ref6">Hybrid Dispute Resolution Mechanisms <br>as the Wave of the Future: Perspectives from Singapore as a Maritime Hub</a>     <br>- Singapore Chamber of Maritime Arbitration (SCMA) and Oon & Bazul<br>     - 1pm – 2.30pm<br>     <br>     <a href="#7" id="ref7">Technology Pertinent to Alternative Dispute Resolution</a>     <br>- The Law Society of Singapore    <br>     - 2.30pm – 4.30pm <br>      <br>     <a href="#8" id="ref8">2021 SIDRA International Dispute Resolution Survey: Preliminary Findings</a>     <br>- Singapore International Dispute Resolution Academy (SIDRA)<br>     - 4.30pm – 6pm</td>
-    <td class="tg-3bno"><a href="#9" id="ref9">The Singapore Convention Effect: Innovation in <br>ICDR Mediation Procedures <br>and Role in Asia</a>     <br><span style="font-weight:bold">- American Arbitration Association International Centre for Dispute Resolution (AAA-ICDR)</span><br><span style="font-weight:bold">     - 7pm – 8.30pm</span></td>
+    <td class="tg-3bno"><a href="#9" id="ref9">The Singapore Convention Effect: Innovation in <br>ICDR Mediation Procedures <br>and Role in Asia</a>     <br>- American Arbitration Association International Centre for Dispute Resolution (AAA-ICDR)<br>     - 7pm – 8.30pm</td>
   </tr>
   <tr>
     <td class="tg-gktn">10 Sep</td>
@@ -122,7 +122,7 @@ Register your interest <a href="https://go.gov.sg/sgconvention2021" target="new"
   <br><b>Contact email:</b> <a href="mailto:sidra@smu.edu.sg">sidra@smu.edu.sg</a>
   <br><b>Event description:</b> The Singapore International Dispute Resolution Academy (SIDRA)  will launch the preliminary findings of the 2021 SIDRA International Dispute Resolution Survey on the sidelines of the Singapore Convention Week 2021 on 9 September. The SIDRA Survey, which is now in its second iteration and commissioned by the Singapore Ministry of Law, examines how businesses and their legal representatives make decisions about resolving cross-border commercial disputes and investor-state disputes. It is the first of its kind in Asia and beyond and provides a unique perspective because the respondents are all users of cross-border dispute resolution mechanisms such as international commercial arbitration, international commercial litigation, investor-state dispute settlement, mixed-mode mechanisms, and international commercial mediation. The launch will present the preliminary findings of the SIDRA Survey 2021, followed by a panel discussion of esteemed speakers engaged in the fields of international dispute resolution.
 
-#### <sup id="9"><b>The Singapore Convention Effect: Innovation in ICDR Mediation Procedures and Role in Asia</b><a href="#ref9" title="Jump back to list.">↩</a> ####
+#### <sup id="9"><b><span style="font-size: 24px">The Singapore Convention Effect: Innovation in ICDR Mediation Procedures and Role in Asia</span></b><a href="#ref9" title="Jump back to list.">↩</a> ####
   <b>Organised by:</b> American Arbitration Association International Centre for Dispute Resolution (AAA-ICDR)
   <br><b>Date and Time:</b> 9 Sep, 7pm - 8.30pm
   <br><b>Website:</b> <a href="https://www.icdr.org/asia-cmc" target="new">https://www.icdr.org/asia-cmc</a>
