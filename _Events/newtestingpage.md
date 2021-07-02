@@ -45,7 +45,7 @@ Register your interest <a href="https://go.gov.sg/sgconvention2021" target="new"
 <tbody>
   <tr>
     <td class="tg-gktn">6 Sep</td>
-    <td class="tg-3bno"><span style="font-weight:bold"><a href="#1" id="ref1">Joint APIEx - SIArb “Spotlight on Experts” Virtual Conference</a>     </span><br><span style="font-weight:bold">- Singapore Institute of Arbitrators (SIArb) and Asia Pacific Institute of </span>Experts (APIEx)     <br>- 9am – 12.40pm</td>
+    <td class="tg-3bno"><a href="#1" id="ref1">Joint APIEx - SIArb “Spotlight on Experts” Virtual Conference</a><br><span style="font-weight:bold">- Singapore Institute of Arbitrators (SIArb) and Asia Pacific Institute of </span>Experts (APIEx)     <br>- 9am – 12.40pm</td>
     <td class="tg-3bno"><a href="#2" id="ref2">Singapore Mediation Lecture</a>     <br>- Singapore Mediation Centre (SMC)<br>     - 3.30pm – 5pm</td>
     <td class="tg-3bno"><a href="#3" id="ref3">Event by SICC</a>     <br>- Singapore International Commercial Court (SICC)<br>     - 5.30pm – 7pm</td>
   </tr>
