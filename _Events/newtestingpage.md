@@ -21,11 +21,11 @@ Register your interest <a href="https://go.gov.sg/sgconvention2021" target="new"
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:12px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-m4h1{background-color:#EDEDED;border-color:inherit;color:#222;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-m4h1{background-color:#EDEDED;border-color:inherit;color:#222;font-weight:bold;text-align:center;vertical-align:middle;font-family:Arial, sans-serif;font-size:12px;}
 .tg .tg-w81s{background-color:#efefef;border-color:inherit;color:#222;text-align:center;text-decoration:underline;
-  vertical-align:middle}
-.tg .tg-3bno{background-color:#FFF;border-color:inherit;color:#222;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-gktn{background-color:#FFF;border-color:inherit;color:#222;text-align:center;vertical-align:middle}
+  vertical-align:middle;font-family:Arial, sans-serif;font-size:12px;}
+.tg .tg-3bno{background-color:#FFF;border-color:inherit;color:#222;font-weight:bold;text-align:center;vertical-align:middle;font-family:Arial, sans-serif;font-size:12px;}
+.tg .tg-gktn{background-color:#FFF;border-color:inherit;color:#222;text-align:center;vertical-align:middle;font-family:Arial, sans-serif;font-size:12px;}
 </style>
 <table class="tg" style="undefined;table-layout: fixed; width: 804px">
 <colgroup>
