@@ -3,8 +3,9 @@ links:
   - title: Convention
     collection: about-convention
   - title: Events
-    collection: Events
     sublinks:
+      - title: Entry into Force Celebration
+        url: /events/scm2020
       - title: Singapore Convention Week 2021
         url: https://www.singaporeconventionweek.sg
   - title: Media
