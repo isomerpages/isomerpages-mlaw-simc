@@ -8,8 +8,8 @@ sections:
       background: /images/SCM2021Hero.jpg
       key_highlights:
         - title: 'Singapore Convention Week 2021'
-          description: 'REGISTER your interest for SC Week here!'
-          url: https://form.gov.sg/#!/5e4f409166472d0011c87d7c     
+          description: 'Find out more here!'
+          url: https://www.singaporeconventionweek.sg/index.html     
         - title: 'About the Convention'
           description: 'First of its kind'
           url: /convention/about-convention/
@@ -19,7 +19,7 @@ sections:
   - infopic:
       title: null
       subtitle: null
-      description: 'In 2019, history was made when Singapore hosted the signing ceremony where 46 countries signed the Singapore Convention on Mediation, with more coming on board after. To-date, Singapore, Fiji, Qatar, Saudi Arabia, Belarus and Ecuador have deposited their respective instruments of ratification or approval. <br><br>On 12 September 2020, we celebrated the entry into force of the Singapore Convention on Mediation. <a href="/events/scm2020">Click here</a> to watch the digital ceremony. <br><br>The next Singapore Convention Week will be held 6 - 10 September 2021. Register your interest <a href="https://form.gov.sg/#!/5e4f409166472d0011c87d7c" target="new">here</a> and check back for more information!' 
+      description: 'In 2019, history was made when Singapore hosted the signing ceremony where 46 countries signed the Singapore Convention on Mediation, with more coming on board after. To-date, Singapore, Fiji, Qatar, Saudi Arabia, Belarus and Ecuador have deposited their respective instruments of ratification or approval. <br><br>On 12 September 2020, we celebrated the entry into force of the Singapore Convention on Mediation. <a href="/events/scm2020">Click here</a> to watch the digital ceremony. <br><br>The next <a href="https://www.singaporeconventionweek.sg/index.html" target="new">Singapore Convention Week</a> will be held 6 - 10 September 2021. Key events include the inaugural UNCITRAL Academy, jointly organised by the Singapore Ministry of Law and the United Nations Commission on International Trade Law (UNCITRAL). Register for the Conference <a href="https://www.gevme.com/singapore-convention-week-2021/?promo=del_reg" target="new">here</a>!' 
       url: /events/scm2020
       image: /images/Formal_Signatories_website_edited.jpg
       alt: Watch Here 
