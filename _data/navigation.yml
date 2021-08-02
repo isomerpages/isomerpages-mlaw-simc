@@ -4,6 +4,9 @@ links:
     collection: about-convention
   - title: Events
     collection: Events
+    sublinks:
+      - title: Singapore Convention Week 2021
+        url: https://www.singaporeconventionweek.sg
   - title: Media
     resource_room: true
   - title: 'SCM 2019'
