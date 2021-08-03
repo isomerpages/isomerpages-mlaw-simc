@@ -5,7 +5,7 @@ permalink: /
 notification: null
 sections:
   - hero:
-      background: /images/testbanner.JPG
+      background: /images/SCM2021Hero.jpg
       key_highlights:
         - title: 'Singapore Convention Week 2021'
           description: 'Find out more here!'
