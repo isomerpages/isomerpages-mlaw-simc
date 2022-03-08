@@ -164,8 +164,7 @@ $desktop: 960px + (2 * $gap) !default;
   }
 }
 .bp-button:hover {
-  //color: $secondary;
-  color: $tertiary;	
+  color: $secondary;
 }
 
 // Secondary button
