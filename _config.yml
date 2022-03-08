@@ -14,9 +14,9 @@ permalink: none
 baseurl: ""
 defaults:
   - scope:
-    path: ""
+      path: ""
     values:
-    layout: page
+      layout: page
 staging: https://mlawsimc-staging.netlify.app
 prod: https://mlawsimc-prod.netlify.app
 plugins:
