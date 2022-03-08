@@ -1,0 +1,5 @@
+collections:
+  Events:
+    output: true
+    order:
+      - entry-into-force-celebration.md
