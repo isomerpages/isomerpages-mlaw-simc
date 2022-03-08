@@ -4,32 +4,38 @@ url: 'https://www.singaporeconvention.org'
 is_government: false
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
-plugins:
-    - jekyll-feed
-    - jekyll-assets
-    - jekyll-paginate
-    - jekyll-sitemap
 paginate: 12
 custom_css_path: /misc/custom.css
 custom_print_css_path: /assets/css/print.css
-collections:
-    about-convention:
-        output: true
-    about-conference:
-        output: true
-    sg-convention-week:
-        output: true
-    SCM-2019:
-        output: true
-    Events:
-        output: true
 resources_name: media
 favicon: /images/favicon.png
 google-analytics: UA-140220094-2
 permalink: none
 baseurl: ""
 defaults:
-    - scope:
-        path: ""
-      values:
-        layout: page
+  - scope:
+      path: ""
+    values:
+      layout: page
+staging: https://mlawsimc-staging.netlify.app
+prod: https://mlawsimc-prod.netlify.app
+plugins:
+  - jekyll-feed
+  - jekyll-assets
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-remote-theme
+colors:
+  primary-color: '#808b96'
+  secondary-color: '#7F3F98'
+  media-colors:
+    - title: media-color-one
+      color: '#7F3F98'
+    - title: media-color-two
+      color: '#7F3F98'
+    - title: media-color-three
+      color: '#7F3F98'
+    - title: media-color-four
+      color: '#7F3F98'
+    - title: media-color-five
+      color: '#7F3F98'

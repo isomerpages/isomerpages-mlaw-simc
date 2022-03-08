@@ -1,0 +1,7 @@
+collections:
+  about-convention:
+    output: true
+    order:
+      - about-the-convention.md
+      - the-convention-text.md
+      - status.md

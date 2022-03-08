@@ -1,0 +1,9 @@
+collections:
+  SCM-2019:
+    output: true
+    order:
+      - singapore-convention-signing-ceremony-and-conference-highlights.md
+      - conference-reports.md
+      - Gallery/.keep
+      - Gallery/scm-2019-photos.md
+      - Gallery/scm-2019-videos.md

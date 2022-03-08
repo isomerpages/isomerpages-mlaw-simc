@@ -5,29 +5,12 @@
 @charset "utf-8";
 
 // SCM2019 brand colors
-//$primary: #7F3F8C;
-//$primary: #3A8DDE;
-//$primary: #582c6a;
-$primary: #808b96;
-$secondary: #7F3F98;
-//$secondary: #808b96;
-//$tertiary: #7FA344;
-//$tertiary: #7F3F98;
-$tertiary: #808b96;
-
-//#318cdd
-
-//$secondary-hover: lighten($secondary, 10%);
-$secondary-hover: lighten($tertiary, 10%);
-
-$media-color-one: #7F3F98; 
-//#49759a; 
-$media-color-two: #7F3F98; 
-	//#744d9f;
-	//#3A8DDE
-$media-color-three: #7F3F98;
-$media-color-four: #7F3F98;
-$media-color-five: #7F3F98;
+$primary: {{- site.colors.primary-color -}};
+$secondary: {{- site.colors.secondary-color -}};
+$secondary-hover: lighten($secondary, 10%);
+{%- for media-color in site.colors.media-colors -%}
+  ${{- media-color.title -}}: {{- media-color.color -}};
+{%- endfor -%}
 
 $gap: 32px !default;
 $desktop: 960px + (2 * $gap) !default;
@@ -181,8 +164,7 @@ $desktop: 960px + (2 * $gap) !default;
   }
 }
 .bp-button:hover {
-  //color: $secondary;
-  color: $tertiary;	
+  color: $secondary;
 }
 
 // Secondary button
