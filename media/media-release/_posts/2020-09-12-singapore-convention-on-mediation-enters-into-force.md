@@ -39,7 +39,7 @@ permalink: /media/media-release/2020-09-12-singapore-convention-on-mediation-ent
 <br>**12 SEP 2020**
 
 
-[Annex A - List of states that signed and ratified the Singapore Convention on Mediation (123KB)](/media/AnnexACountriesSCM.pdf)<br>
-[Annex B - Factsheet on Singapore Convention on Mediation (342KB)](/media/AnnexBSCMFactsheet.pdf)<br>
+[Annex A - List of states that signed and ratified the Singapore Convention on Mediation (123KB)](/files/media/AnnexACountriesSCM.pdf)<br>
+[Annex B - Factsheet on Singapore Convention on Mediation (342KB)](/files/media/AnnexBSCMFactsheet.pdf)<br>
 
 <p class="right-side-updated">Last updated on 12 Sep 2020</p>
