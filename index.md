@@ -2,7 +2,7 @@
 layout: homepage
 title: 'Singapore Convention On Mediation'
 permalink: /
-notification: null
+notification: ""
 sections:
   - hero:
       background: /images/SCWeekbanner.jpg
